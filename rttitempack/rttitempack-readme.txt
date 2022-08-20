@@ -33,6 +33,10 @@ Version 1.2 (14 December 2009 by Leomar)
 - Added README command
 - Updated to WeiDU v212
 
-Version 1.3 (28 July 2099 by Deratiseur)
+Version 1.3 (28 July 2019 by Deratiseur)
 - BG2EE compatibility
 - Updated to WeiDU v246
+
+Version 1.4 (21 August 2022)
+- EET compatibility
+- Updated to WeiDU v249

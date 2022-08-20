@@ -2,11 +2,23 @@ BACKUP ~rttitempack/backup~
 
 AUTHOR ~al17 (rtt-mod@libero.it)~
 
-VERSION ~v1.2~
+VERSION ~v1.4~
 
 README ~rttitempack/rttitempack-readme.txt~
 
 ALWAYS
+  ACTION_IF NOT VARIABLE_IS_SET bg2_chapter BEGIN
+    ACTION_IF GAME_IS ~eet~ BEGIN
+      OUTER_SET bg2_chapter = 12
+    END ELSE BEGIN
+      OUTER_SET bg2_chapter = 0
+    END
+    OUTER_FOR (i=1; i<=10; i=i+1) BEGIN
+      OUTER_SET bg2_chapter = bg2_chapter + 1
+      OUTER_SPRINT name_source ~bg2_chapter_%i%~
+      OUTER_SET EVAL ~%name_source%~ = bg2_chapter
+    END
+  
 	ACTION_DEFINE_ARRAY rtt_reload BEGIN
 	~setup.tra~
 	END
@@ -19,6 +31,7 @@ ALWAYS
 		noconvert_array = rtt_noconvert
 		reload_array = rtt_reload
 	END
+  END
 END
 
 AUTO_TRA ~rttitempack/Languages/%s~
