@@ -1,0 +1,536 @@
+@0    = ~Vuoi installare RTT Item Pack? **Tutti gli oggetti magici vengono aggiunti al negozio "speciale" di Ribald (l'Emporio dell'Avventuriero, Passeggiata di Waukeen) con il quale puoi fare affari una volta tornato dal manicomio.**~
+@1    = ~Amuleto Anti-Vampiro~
+@2    = ~Chi indossa l'amuleto anti-vampiri sarà immune al level drain di tutti i tipi (si consiglia di abbinare all'amuleto una seconda graziosa collana di aglio...)
+
+STATISTICHE
+Abilità: immune al level drain~
+@3    = ~Lacrima di Demone Cristallizzata~
+@4    = ~I demoni hanno un "cuore"? Possono provare sentimenti? A quanto pare si, e questa gemma sembra esserne la prova! Si narra che un tempo molto lontano i demoni erano dei semplici uomini che a causa di una grandissimo male hanno trovato come unico conforto lo sfogarsi contro altre persone. Se loro stavano male, non c'era motivo perchè altri dovessero stare bene. Questo odio riuscì a corrompere le loro anime e a trasformali in demoni. A volte però un demone si ricorda dei suoi lontani giorni felici e versa un lacrima per ricordo per quel tempo passato che mai tornerà...
+
+STATISTICHE:
++2 alla saggezza
++30% resistenza al freddo~
+@5    = ~Anello di Re Sthorm~
+@6    = ~Si narra che Re Sthorm I di Windspear si tramutò in lich poco dopo la sua morte. Il suo potere doveva essere davvero grande se è stato egli stesso a costruire questo anello. Un anello del genere vale la vita di molti uomini, o comunque qualche migliaia di monete d'oro.
+
+STATISTICHE:
+Bonus HP: +25%
+Resistenza alla Magia: +25%
+AC: +4
+T.S.: +4
+Intelligenza: +2
+Saggezza: +2
+
+Non Utilizzabile da:
+Personaggi con Intelligenza e Saggezza minore di 16.~
+@7    = ~Ascia della Confusione +2~
+@8    = ~L'ascia della confusione può risultare assai utile negli scontri ravvicinati con molti nemici. Infatti, chi viene colpito da questa arma entra in uno stato di confusione, e non riuscirà più a distinguere i suoi amici dai suoi nemici.
+
+STATISTICHE
+
+THAC0: +2 bonus 
+Danno: 1D8 +2
+Bersaglio colpito da Confusione per 120 secondi se non supera un T.S. contro magie.
+Danno Tipo (mischia):  taglio
+Peso: 7
+Velocità: 4
+Tipo di Competenza: Ascia
+Tipo:  A 1 Mano
+Richiede: Forza 10
+Non Utilizzabile Da:
+Druido
+Chierico
+Mago 
+Ladro~
+@9    = ~Amuleto Anti Mind Flayer~
+@10   = ~Indossando questo amuleto sarai protetto dall'attacco più temibile dei potenti Mind Flayer; il risucchio d'intelligenza.
+
+STATISTICHE:
+L'intelligenza del personaggio non subirà alcuna variazione dovuta a magie o oggetti magici.~
+@11   = ~Cintura della Tempra Maggiore~
+@12   = ~Cintura della Tempra Maggiore
+Questa cintura è la versione potenziata della cintura della tempra. Indossandola il portatore si ritroverà la costituzione a 20. Ma a differenza della sorella minore, questo oggetto è maledetto.
+
+CARATTERISTICHE:
+- Porta la costituzione a 20~
+@13   = ~Corazza di Piastre Completa Drow Elaborata +5~
+@14   = ~I Drow nel sottosuolo indossano armature resistentissime, costruite con un materiale che purtroppo si trasforma in polvere al contatto con i raggi solari. Questa armatura drow è stata ricoperta da un sottile strato di un materiale, probabilmente di origine magica, che non riesci a riconoscere. Purtroppo ti rendi conto che il peso dell'armatura è davvero notevole, e che solo un guerriero dotato di grande forza è in grado di indossarla.
+
+STATISTICHE:
+
+Classe Armatura: -4
+Richiede forza: 19
+Richiede costituzione: 18
+Peso: 120
+Non utilizzabile da:
+Bardo
+Druido
+Mago
+Ladro~
+@15   = ~Cotta del Nano~
+@16   = ~Questa armatura è visibilmente piccola a differenza di quelle normali, ed infatti è stata costruita appositamente per essere indossata dalle creature di "mezza taglia", come nani, halfing, etc. Nonostante le sue ridotte dimensioni, il potere racchiuso in questa armatura è notevole. Si narra che una armatura simile a questa fu forgiata nel passato per un giovane soldato, come ricompensa per aver salvato dalla distruzione la propria città. Purtroppo la carriera di quel soldato fu breve proprio a causa della bellezza di questa armatura. Non sappiamo come sia morto, ma probabilmente la maledizione che avvolge l'oggetto può centrarci qualcosa...
+
+STATISTICHE:
+Costituzione: +1
+Classe Armatura: 0
+Peso: 9
+Richiede: Forza 8
+Non utilizzabile da:
+Druido
+Mago 
+Ladro
+Non nani, halfing, o gnomi.~
+@17   = ~Anello del Dominio~
+@18   = ~Questo anello, del tutto simile all'anello del controllo sugli umani, è in grado di lanciare una versione potenziata di charme, cioè dominio e setta il carisma di chi lo porta a 19.
+
+STATISTICHE:
+Una volta al giorno "Dominio"
+Carisma: 19~
+@19   = ~Elmo della Burla~
+@20   = ~Utilizzare questo elmo, soprattutto alle feste, è davvero uno spasso. Infatti chi lo indossa, oltre ad essere perfettamente mascherato da mummia, è in grado di lanciare un incantesimo che renderà una persona un pò... cretina. Una volta il potere di questo elmo venne adoperato da un giovane ragazzo in una festa di paese. Purtroppo non sempre si sta al gioco, e quel ragazzo, accusato di essere uno stregone che avrebbe trasformato in zombi tutti gli abitanti, fu gettatto tra le fiamme.
+
+STATISTICHE
+Abilità speciali (due volte al giorno): lanciare Pensiero Rigido
+Peso: 2
+Non utilizzabile da: 
+Mago
+Bardo
+Ladro~
+@21   = ~Bracciali delle Destrezza~
+@22   = ~Questi bracciali, di sicura origine magica, aiuteranno in combattimento anche i guerrieri più maldestri.
+
+STATISTICHE:
+Bonus Destrezza: +2~
+@23   = ~Guanti di Re Sthorm~
+@24   = ~Si narra che Re Sthorm I di Windspear si tramutò in lich poco dopo la sua morte. Questi bracciali sono stati per diversi secoli a contatto con le braccia del Re e da esso hanno accumulato una notevole forza magica.
+
+STATISTICHE:
+Bonus Forza: +2
+Bonus Destrezza: +2
+Utilizzabili da:
+Personaggi Malvagi~
+@25   = ~Mantello della driade~
+@26   = ~Strani simboli sono ricamati nella parte interna del mantello. Ribald ti dice che questo oggetto gli fu donato da una driade diverse decenni fa.
+
+STATISTICHE:
+- Carisma impostato a 21
+- Resistenza al freddo impostata a 100%~
+@27   = ~Mantello delle Meraviglie~
+@28   = ~Questo mantello sembra essere intessuto con grandi foglie. Al tatto pare molto morbido, aderisce perfettamente sulle spalle di chi lo indossa e da una sensazione di sicurezza e protezione.
+
+CARATTERISTICHE:
+Bonus AC: +3
+Bonus TS: +3
+Danno da impatto, da punta e da taglio ridotto di: -15%
+Peso: 3
+Utilizzabile da:
+Chiunque~
+@29   = ~Lama Druidica +2~
+@30   = ~Le scimitarre sono le uniche armi affilate che i druidi possono utilizzare e questa è stata costruita appositamente per i druidi. Si narra che un tempo la Lama Druidica appartenesse ad un capo druido che viveva nei pressi della foresta vicino alla città di Trademeet. Il druido venne però sedotto dalle forze del male e dopo la sua morte vennero perse le tracce di questa scimitarra. Resta comunque un mistero il fatto che si trovi in mano ad un mercante di Trademeet...
+
+STATISTICHE
+
+Due incantesimi bonus di primo livello
+Un incantesimo bonus di secondo livello
+THAC0: bonus +2
+Danni: 1d8+2
+Tipo di danno: da taglio
+Peso: 4
+Fattore-velocità: 3
+Tipo di competenza: Scimitarra / Wakizashi / Ninja-To
+Non utilizzabile da:
+Chierico
+Mago
+Ladro~
+@31   = ~Mazza della Persuasione +2~
+@32   = ~In rari casi un nemico può diventare un amico, e grazie a questa arma sarà ancora più facile! Infatti chi viene colpito da questa arma rischia di essere charmato e di rivoltarsi contro chi era fino a pochi istanti prima un suo alleato.
+
+STATISTICHE:
+50% che il bersaglio venga charmato per 120 secondi se fallisce un T.S. contro magia.
+THAC0: bonus +2
+Danni: 1d6+3
+Tipo di danni: Contundente
+Peso: 6
+Velocità: 4
+Tipo di competenza: Mazza
+Tipo: a 1 mano
+Requisiti: Forza 10
+Non utilizzabile da: 
+Druidi
+Maghi
+Ladri~
+@33   = ~Anello del Mephit~
+@34   = ~Ribald ti dice che questo anello gli fu dato in ricompensa da un Mephit per aver risolto i suoi indovinelli. Sembra però restio a rivelarti altro.
+
+STATISTICHE:
+Velocità
+Protezione dal Time-stop
+T.S. +5
+Utilizzabile da:
+Personaggi con intelligenza maggiore di 16~
+@35   = ~Bracciali del Mephit~
+@36   = ~Ribald ti dice che questi bracciali gli furoni dati in ricompensa da un Mephit per aver risolto i suoi indovinelli. Sembra però restio a rivelarti altro.
+
+STATISTICHE:
+Classe di Armatura: 4
+Bonus Thac0 armi da lancio: +5~
+@37   = ~Mazzafrusto del Re Sthorm +3~
+@38   = ~Si narra che Re Sthorm I di Windspear si tramutò in lich poco dopo la sua morte. Con molta probabilità egli usava questo mazzafrusto da vivo e anche per i primi tempi da non morto. Anche se questa arma è stata per poco tempo a contatto con il lich, ha comunque acquisito una quantità elevata di magia che la rende devastante. Questo mazzafrusto, poichè è stato solo per poco tempo a contatto con il lich, può essere usato da personaggi di qualsiasi allineamento (a differenza, per esempio, dei guanti).
+
+STATISTICHE
+Danno da fulmine: 1d5 (fallendo un T.S. contro magie)
+THAC0: bonus +3
+Danni: 1d6+4
+Tipo di danno: da impatto
+Peso: 15
+Fattore di Velocità: 4
+Tipo di Capacità: Mazzafrusto / Morning Star
+Tipo: a 1 mano
+Richiede: Forza 13
+Non utilizzabile da:
+Druido
+Mago
+Ladro~
+@39   = ~Scudo Piccolo +3~
+@40   = ~Scudo piccolo +3... non se ne vedono molti in giro! Senza dubbio hai fatto (o stai per fare) un ottimo affare!
+
+STATISTICHE:
+Bonus alla Classe Armatura: 4
+Speciale: non protegge dalle armi da lancio
+Peso: 2
+Non utilizzabile da:
+Bardo
+Druido
+Mago
+Ladro~
+@41   = ~Spada di Mordue +2~
+@42   = ~Secondo una antica leggenda questa fu la spada di Mordue, uno dei più temuti barbari del nord. Brandendo questa spada Mordue conquisto numerose città umane, fino a che, come per chiunque, giunse il suo declino con l'età. Da allora nessuno ha più brandito questa spada, tu sarai il primo dopo molto tempo...
+
+STATISTICHE:
+50% che il nemico colpito subisca ulteriori 1d10 danni magici (fallendo un t.s. contro magie)
+50% che venga risucchiato un livello al nemico colpito (fallendo il t.s. contro magie)
+Danni: 1D10+2
+Tipo di sanno: Taglio
+Peso: 15
+Fattore-velocità: 6
+Tipo di capacità: Spada grande
+Non utilizzabile da:
+Druido
+Chierico
+Mago
+Ladro
+~
+@43   = ~Ghiacciobollente +3~
+@44   = ~La magia racchiusa in questa spada è notevole. Se guardi la lama ti rendi subito conto che è fatta di ghiaccio, ma se provi ad avvicinare la mano alla lama senti che emana del calore, e se provi a toccarla ti ustioni. Non riesci a concepire come sia stato possibile creare un arma del genere.
+
+STATISTICHE:
+
+Danno da fuoco: +1d3
+25% che il bersaglio venga rallentato per 7 secondi.
+THAC0: bonus +3
+Danni: 1d8 +3
+Tipo di danni: Taglienti
+Peso: 2
+Velocità: 2
+Tipo di competenza: Spada Lunga
+Tipo:  a 1 mano
+Requisiti: Forza 6
+Non utilizzabile da: 
+Druidi
+Chierici
+Maghi~
+@45   = ~Anello della Conoscenza~
+@46   = ~Ti sarebbe piaciuto viaggiare in lungo e in largo, vedere altri costumi ed abitudini, scoprire nuove civiltà e così via? Beh... se sei stai leggendo questa descrizione significa che, a differenza del precedente proprietario di questo anello, sei ancora vivo ed hai quindi il tempo di fare tutti i viaggio che vuoi! Ma se per qualche motivo non riuscirai mai a realizzare il tuo sogno, almeno indossando questo anello sarai in grado di dire da dove viene quel particolare oggetto che il tuo amico fortunato ti ha portato dal suo ultimo viaggio!
+
+STATISTICHE:
+- Conoscenza portata a 100~
+@47   = ~Pozione di Ristorazione~
+@48   = ~Bevendo questa pozione il personaggio otterrà gli stessi benefici della magia "Ristorare Maggiore". Può essere utile averne un paio dietro...
+
+STATISTICHE:
+Ristorare Maggiore su un personaggio~
+@49   = ~Attrezzi del Ladro~
+@50   = ~Questi attrezzi sono particolarmente leggeri e resistenti. Senza dubbio renderanno al ladro il lavoro più facile!
+
+STATISTICHE:
+Scassinare, piazzare trappole, rimuovere trappole, trovare trappole e rubare: +10%
+Peso: 2
+Utilizzabile da:
+ladro~
+@51   = ~Attrezzi del Ladro Superiori~
+@52   = ~Questi attrezzi sono particolarmente leggeri e resistenti. Senza dubbio renderanno al ladro il lavoro molto più facile!
+
+STATISTICHE:
+Scassinare, piazzare trappole, rimuovere trappole, trovare trappole e rubare: +20%
+Peso: 2
+Utilizzabile da:
+ladro~
+@53   = ~Mantello Notturno~
+@54   = ~Indossare questo mantello ti darà la vista di un elfo! Almeno di notte...
+
+STATISTICHE:
+Infravisione~
+@55   = ~Guanti della Forza~
+@56   = ~Si narra che questi guanti furono creati dallo stregone-allenatore di un famoso pugile del passato. Quando gli anni passarono anche per lui, grazie a questo particolare paio di "guantoni", il nostro impavido combattente riuscì ancora per molto altro tempo a mettere ko gli avversari.
+
+STATISTICHE:
+Forza: +3~
+@57   = ~Armatura delle Meraviglie~
+@58   = ~Questa armatura non può che essere stata creata da un dio, e di certo non da un dio di secondo ordine! Gli effetti che questa armatura da a chi la indossa sono senza dubbio senza eguali. E' difficile trovare in tutto l'Amn un oggetto che solo si avvicini all'Armatura delle Meraviglie.
+
+STATISTICHE:
+Tutte Caratteristiche: +1
+Classe Armatura: 0
+Peso: 45
+Requisiti: Forza 15
+Non utilizzabile da: 
+Bardi
+Druidi
+Maghi
+Ladri~
+@59   = ~Corazza di Piastre Meccanica~
+@60   = ~L'ingegno degli gnomi è strordinario e questa armatura ne è un ulteriore dimostrazione. Noti subito che questa armatura presenta dei "pezzi in più". Bracci meccanici, giunture, molle e contrappesi. Ad una occhiata sbadata la scambieresti per una armatura del circo, per un armatura di un clown che deride i combattenti, ma in realtà tutti quegli strani "aggeggi" che spuntano servono per aumentare a dismisura la velocità di movimento di chi la indossa. Un guerriero con un armatura di piastre in grado di muoversi come se fosse sempre su di lui lanciato un incnatesimo di velocità potenziata... ti viene in mente una sola parola: terrificante! Ma ahime... questo lusso comporta anche una minore agilità nei movimenti stretti.
+
+STATISTICHE:
+Velocità Potenziata
+Destrezza: -2
+Classe Armatura: 2
+Peso: 25
+Richiede: Costituzione 16
+Non utilizzabile da: 
+ Bardo
+ Druido:
+ Mago
+ Ladro~
+@61   = ~Elmo della Difesa~
+@62   = ~Guardi questo elmo è rimani subito impressionato dalla sua dimensione! E' enorme! All'inizio pensi che possa essere l'elmo decorativo di qualche grosso animale, mai poi ti rendi conto, guardando la sua forma, che si adatta benissimo ad una persona della tua taglia. Noti che quest'elmo non protegge solo testa, ma è in grado di fornire anche una speciale protezione per le zone che solitamente sono scoperte tra l'armatura ed un elmo normale.
+
+STATISTICHE:
+CA: +4
+Destrezza: -1
+Speciale: Protegge contro i colpi critici.
+Peso: 2
+Forza e Costituzione minima: 14
+Utilizzabile da:
+Guerrieri~
+@63   = ~Spada di Legno~
+@64   = ~La lama di questa spada è stata sostituita con un durissimo pezzo di legno. Questo comporta che il nemico subirà danni contundenti e non da taglio. Nota che la specializzazione nell'utilizzo dell'arma resta la spada a due mani classica.
+
+STATISTICHE:
+Danni: 1d6
+Tipo di danni: Contundente
+Peso: 9
+Velocità: 7
+Tipo di competenza: Spada a due mani
+Tipo:  a 2 mani
+Requisiti: Forza 6
+Non utilizzabile da: 
+Druidi
+Chierici
+Maghi
+Ladri~
+@65   = ~Il Braccio del Nano +3~
+@66   = ~Se siete più alti di 1 metro e 20, quest'ascia vi sembrerà una normalissima arma, ma se non siete così alti, beh... sarà tutta un altra storia. Si narra che un tempo i poteri di quest'ascia non fossero limitati solo ai nani. Gorfaglin, l'ultimo possessore di quest'ascia decise di affrontare una pericolosa missione che, in caso di successo, avrebbe portato la vittoria del suo popolo contro gli orchi invasori. Allo stesso tempo Gorfaglin non voleva che, in caso di sua morte, questo terrificante oggetto distruttivo potesse essere utilizzato dai tanti odiati orchi e così chiese ad un suo amico mago di lanciare un incantesimo "anti-altezza" prima della sua partenza. Gorfaglin non tornò mai più dalla sua missione...
+
+STATISTICHE
+Forza:+2
+THAC0: +3 bonus 
+Danno: 1D8 +3, +2 punti di danno da fuoco al bersaglio.
+Danno Tipo (mischia):  taglio
+Peso: 7
+Velocità: 4
+Tipo di Competenza: Ascia
+Tipo:  A 1 Mano
+Richiede: Forza 16
+Non Utilizzabile Da:
+Non Nani
+Druido
+Chierico
+Mago 
+Ladro~
+@67   = ~Forza Esplosiva +1~
+@68   = ~A volta si dice che ogni spada ha una sua anima. Non si sa se questo corrisponda o no a verità, ma resta almeno il fatto che questa spada ha una propria forza! C'è infatti la possibilità che il colpo andato a segno faccia il doppio del danno, anche se non sei tu ad inferire un secondo colpo!
+
+STATISTICHE
+50% danno doppio
+THAC0: bonus +1
+Danni:  1d10+1
+Tipo di danno: da taglio
+Peso: 10
+Fattore di Velocità: 8
+Tipo di Capacità: Spada a due mani
+Tipo: a 2 mani
+Richiede: Forza 14
+Non utilizzabile da:
+Druido
+Chierico
+Mago
+Ladro~
+@69   = ~Lingua di Fuoco~
+@70   = ~A differenza della più comune spada lunga di fuoco che ha  come anima tra le fiamme una lama di comunissimo metallo, la Lingua di Fuoco è solo al 100%... fuoco! La temperatura che raggiunge al suo interno è enormemente superiore rispetto alla sua sorellina minore e così lo sono anche i danni da fuoco che verranno inflitti all'avversario.
+
+STATISTICHE:
+Danno: 1d14+1 da fuoco (anche 1d14 è da fuoco)
+Tipo di danno: da taglio
+Peso: 3
+Fattore velocità: 2
+Tipo di capacità: Scimitarra / Wakizashi / Ninja-to
+Tipo: a 1 mano
+Richiede: Forza 10
+Non utilizzabile da:
+Chierico 
+Mago
+Ladro~
+@71   = ~Spada della Difesa +2~
+@72   = ~Sei impressionato dalla larghezza della lama di questa spada a due mani. E' così grande che può essere persino usata come scudo per parare i colpi (è anche ovvio che qualche mago ci ha messo lo zampino)!
+
+STATISTICHE:
+CA: +3
+THAC0: bonus +2
+Danni: 1d10 +2
+Tipo di danni: Taglienti
+Peso: 19
+Velocità: 9
+Tipo di competenza: Spada a due mani
+Tipo:  a 2 mani
+Requisiti: Forza 14
+Non utilizzabile da: 
+Druidi
+Chierici
+Maghi
+Ladri~
+@73   = ~Pugnale dell'Orrore +3~
+@74   = ~Alcuni ladri possono essere molto sadici. Non basta loro solo terrorizzare le proprie vittime con un piccola ferita di pugnale, ma li vogliono vedere presi dalla paura  più estrema... vogliono vedere nei loro occhi l'orrore misto allo sgomento mentre iniziano a trucidarli uno ad uno.
+
+STATISTICHE:
+50% bersaglio colpito da "Orrore" per 45 secondi (fallendo t.s.)
+THAC0: bonus +3
+Danni: 1d4 +3
+Tipo di danni: Perforanti
+Peso: 0
+Velocità: 0
+Tipo di competenza: Pugnale
+Tipo:  a 1 mano
+Requisiti: Forza 3
+Utilizzabile da: 
+Ladri~
+@75   = ~Stivali Elementari~
+@76   = ~Si narra che un perfido mago creò una pozione usando il sangue di una ninfa dei ghiacci, una del fuoco, uno del veleno ed una della tempesta. Lo stregone poi inbevve numerosi oggetti nel miscuglio di sangue di ninfe ed ottenne degli oggetti che rendevano l'indossatore parzialmente o completamente (dipende dai casi) immune ai danni elementali. Gli stivali elementali sono certamente molto utili, ma vale davvero la pena calzare degli oggetti creati con tanta crudeltà?
+
+STATISTICHE:
+Resistenza ai danni elementali +25%~
+@77   = ~Amuleto di Protezione dal fuoco~
+@78   = ~Con questo amuleto sei immune a tutti i danni da fuoco.
+
+STATISTICHE:
+- Protezione dal fuoco: 100%~
+@79   = ~Amuleto di Protezione dalla elettricità~
+@80   = ~Con questo amuleto sei immune a tutti i danni elettrici.
+
+STATISTICHE:
+- Protezione dalla elettricità: 100%~
+@81   = ~Mantello dell'Assassino~
+@82   = ~Questo stupendo mantello è stato creato appositamente per il ladro, meglio se assassino!
+
+STATISTICHE:
+
+Speciale: non individuabile da strumenti magici quali Individuazione dell'invisibilità e Individuazione delle spie.
+Rende immuni allo charme
+Nascondersi nelle ombre: +50
+Permette di castare invisibilità 1 volta al giorno
+Peso: 3
+Non utilizzabile da:Tutti tranne che ladro (singolo, multiclasse e duale)~
+@83   = ~Fionda halfling +3~
+@84   = ~Nel peregrinare per le terre centrali occidentali è facile imbattersi in un halfling di Gullikyn; questo ti racconterà di quanto sia ospitale il suo piccolo popolo e quanto sia bello fumare una minuscola pipa. La cosa che però dirà con più orgoglio è che come lanciano pietre gli Halfling non ne lancia nessuno. Spesso e volentieri i pochi avventurieri che hanno lasciato la pace del focolare per l'avventura hanno fatto "stregare" la propria fionda ... Un chiaro segno di orgoglio e forza!
+
+STATISTICHE:
+Abilità speciali:
+immunità all'orrore
+
+Abilità di combattimento:
+Danno: bonus di +3
+TACH0: bonus di +5 (precisione di tiro)
++100% alla distanza di tiro
+
+Peso: 0
+Fattore-velocità: 6
+Tipo di capacità: Armi da lancio~
+@85   = ~Anello degli Elementi +2~
+@86   = ~Anello degli Elementi +2:
+De l'anello degli elementi ne parlano molti libri, libri antichissimi e leggendari, leggendari come questo oggetto. Si narra che l'anello nacque di sua spontanea volontà durante il periodo dei disordini, per aiutare un druido a fronteggiare le forze del male scese sulla terra.
+
+STATISTICHE:
+- Resistenza al freddo, fuoco, elettricità e acido portate a 50%
+- Bonus CA e TS: +2~
+@87   = ~Il Libro della Morte~
+@88   = ~Il Libro della Morte... molti avventurieri hanno speso la loro vita nella ricerca di questo tomo. Si dice che colui che riuscirà a decifrarlo otterrà tali poteri da avvicinarsi agli stessi dei, o addirittura a superarli. Il Libro della Morte conta migliaia di pagine, ogniuna delle quali, se letta, ti permette di lanciare una magia più stupefacente della precedente. Ti rendi anche conto però che solo una analisi attenta di ogni singola parola ti potrà permettere di utilizzare con sicurezza tutti i poteri che il libro ti offre. Per ora è meglio limitarsi all'incantesimo più "comune" e "banale" che ti offre il libro, ma che sicuramente sei in grado di lanciare senza problemi!
+
+STATISTICHE:
+- Lancia una volta al giorno "Risuscitare Morti"
+Utilizzabile da:
+solo sacerdoti~
+@89   = ~Sfera del Vento~
+@90   = ~Scopri che c'è un piccolo pulsante sulla sfera. Provi a schiacciarlo ed una leggera brezza di aria fresca ti sfiora il volto. Tenendo premuto per più tempo il pulsante, l'aria continua ad uscire, spazzando via la polvere intorno a te.
+
+STATISTICHE:
+- Lancia una volta al giorno "Zona d'Aria Fresca"~
+@91   = ~Amuleto della Guarigione~
+@92   = ~Se un sacerdote indossa questo amuleto potrà fare a meno di memorizzare gli incantesimi di guarigione, oppure sarà davvero in grado di curare intere città in poche ore!
+
+STATISTICHE:
+- Lancia 3 volte al giorno "Cura Ferite Medie"
+- Lancia 1 volta al giorno "Cura Ferite Gravi"
+- Lancia 1 volta al giorno "Guarigione"
+- Lancia 1 volta al giorno "Cura di Massa"~
+@93   = ~Anello Antimagia +1~
+@94   = ~L'Anello di Antimagia +1 è sia un normale anello che fornisce +1 alla ca e ai t.s., ma è anche un oggetto che racchiude in se alcune cariche di una potente magia "anti-magia".
+
+STATISTICHE:
+- 6 cariche totali che rendono il possessore immune alla magia per 60 secondi
+- +1 ca e t.s. (anche dopo l'esaurirsi di tutte le cariche)~
+@95   = ~Bastone della Sentenza +1~
+@96   = ~A volte è meglio affidarsi al volere divino. Ma come si può fare a sapere qual è questo volere? Niente di più facile! Lancia una magia Nube Assassina su tutti i personaggi nell'area di effetto, i sopravissuti lo saranno perchè così dio vuole. Per gli altri invece...
+
+STATISTICHE:
+Lancia 1 volta al giorno "Nube Assassina"
+THACO:  bonus +1
+Danni:  1D6 + 1
+Tipo di danni:  da impatto
+Peso: 3
+Fattore-velocità: 1
+Tipo di capacità: Bastone Rinforzato
+Tipo:  a 2 mani
+Utilizzabile da:
+mago~
+@97   = ~Sorella Minore +2~
+@98   = ~Questa fa parte di un set di due spade bastarde. La sorella minore, quella che hai, è però anche in grado di richiamare nelle difficoltà la sorella maggiore per un limitato numero di secondi.
+
+STATISTICHE:
+Sostituita da Sorella Maggiore +5 per 60 secondi per al massimo tre volte al dì
+THAC0: bonus +2
+Danni: 2d4 +2
+Tipo di danni: Taglienti
+Peso: 7
+Velocità: 5
+Tipo di competenza: Spada Bastarda
+Tipo:  a 1 mano
+Requisiti: Forza 11
+Non utilizzabile da: 
+Druidi
+Chierici
+Maghi
+Ladri~
+@99   = ~Spada Bastarda +5~
+@100  = ~Pietra Lunare~
+@101  = ~Abbaiare alla Luna non ti farà diventare un lupo mannaro, ma questa pietra si!
+
+STATISTICHE:
+Trasformazione 1 volta al giorno in un Lupo Mannaro per 120 secondi~
+@102  = ~Libro Infernale~
+@103  = ~Un incantesimo simile a "Evoca demone" con la differenza del tipo di demone evocato. Invece di un demone della fossa, ti ritroverai un demone cavaliere pronto ai tuoi ordini!
+
+STATISTICHE:
+Lancia 1 volta al giorno "Evoca Demone Cavaliere" per 120 secondi
+Utilizzabile da:
+solo maghi~
+@104  = ~Evoca Demone Cavaliere~

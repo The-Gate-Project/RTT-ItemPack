@@ -1,0 +1,594 @@
+@0   = ~Voulez-vous installer RTT Item Pack ? **Tous les objets magiques sont ajoutes au magasin 'special' de Ribald (Marche de l'Aventurier, Promenade de Waukyne) qui sera accessible seulement au retour de l'asile de SpellHold.**~
+@1   = ~Amulette anti-vampire~
+@2   = ~Quiconque porte l'amulette anti-vampire sera immunisé contre les drains de niveau de tous types. (Même si pour lutter contre les vampires, il est recommandé de s’équiper aussi d’un collier de gousses d’ail...)
+
+PARAMETRES :
+
+Spécial : le porteur est immunisé contre le drain de niveau~
+@3   = ~Larme de démon cristallisée~
+@4   = ~Les démons ont-ils un "coeur" ? Peuvent-ils ressentir des émotions ? Si vous en doutiez, cet objet vous prouvera le contraire ! On dit qu'il y a bien longtemps, les démons étaient de simples hommes qui, du fait d'une grande peine, ne trouvaient comme unique réconfort que d'infliger la souffrance aux autres personnes. Pour eux, s'ils se sentaient mal, il n'y avait aucune raison que les autres ne le ressentent pas aussi. Cette haine les aurait corrompus jusqu'à les transformer en démons. Parfois, certains d'entre eux se remémorent le temps jadis et heureux où ils étaient comme les autres. Ils versent alors une larme de nostalgie ...
+
+PARAMETRES :
+
+Sagesse : +2
+Résistance au froid : +30%~
+@5   = ~Anneau du roi Strohm~
+@6   = ~Une ancienne légende raconte que le roi Strohm de Lancevent se transforma en liche peu après sa mort. Le pouvoir de cette liche devait être immense pour réussir à façonner un tel anneau. Un anneau de ce genre vaut bien des vies, ou du moins quelques milliers de pièces d'or.
+
+PARAMETRES :
+
+Bonus aux Points de vie : +25%
+Résistance à la magie : +25%
+Classe d'Armure : bonus de 4
+Jets de sauvegarde : +4
+Intelligence : +2
+Sagesse : +2
+
+Non utilisable par :
+ Personnages dont l'intelligence et la sagesse sont inférieures à 16.~
+@7   = ~Hache de Confusion +2~
+@8   = ~La hache de Confusion peut se révéler particulièrement utile lors de combats rapprochés avec de nombreux ennemis. En fait, celui qui est blessé par la hache entre dans un état de confusion et devient incapable de distinguer ses amis de ses ennemis.
+
+PARAMETRES :
+
+Capacité spéciale :
+  La cible est frappée de Confusion pendant 120 secondes à moins de réussir un jet de sauvegarde contre les sorts
+
+TAC0 : +2
+Dégâts : 1D8 +2
+Type de dégâts : tranchant
+Poids : 7
+Facteur de vitesse : 4
+Type de compétence : hache
+Type : arme à 1 main
+Force nécessaire : 10
+Non utilisable par :
+ Druide
+ Clerc
+ Mage
+ Voleur~
+@9   = ~Amulette anti-Flagelleur Mental~
+@10  = ~Le porteur de cette amulette est immunisé contre la pire des attaques des flagelleurs mentaux : le drain d'intelligence.
+
+PARAMETRES :
+
+Spécial : Aucune altération possible de l'intelligence du personnage~
+@11  = ~Ceinturon de Résistance supérieur~
+@12  = ~Ceinturon de Résistance supérieur
+Ce ceinturon est une version améliorée du ceinturon de résistance. Quiconque le porte voit sa constitution passer à 20. Mais à la différence de la version normale, ce ceinturon est maudit.
+
+PARAMETRES :
+
+La constitution du porteur passe à 20~
+@13  = ~Armure de plates complètes élaborée d'Elfe noire +5~
+@14  = ~Les elfes noirs de l'Ombre-Terre utilisent des armures très résistantes, forgées dans un matériau qui tombe malheureusement en poussière s'il est exposé à la lumière du jour. Cette armure d'elfe noir a été recouverte d'une fine couche d'un matériau que vous ne reconnaissez pas, probablement d'origine magique, qui lui permet de résister aux rayons du soleil. Malheureusement, le poids de cette armure est très imposant et seul un guerrier doté d'une grande force s’avèrera capable de s’en équiper.
+
+PARAMETRES :
+
+Classe d'armure : -4
+Pré-requis :
+ 19 en Force
+ 18 en Constitution
+Poids : 120
+Non utilisable par :
+ Barde
+ Druide
+ Mage
+ Voleur~
+@15  = ~Manteau de Nain~
+@16  = ~Cette armure complète est bien plus petite que les autres, car elle a été fabriquée pour l'usage d'une personne de petite race, comme les nains ou les petites-personnes. Mais sa taille réduite ne diminue pas la protection qu'elle offre et la puissance qu'elle dégage est remarquable. On raconte qu'une armure similaire fut forgée en récompense pour un jeune soldat, car il avait sauvé sa cité de la destruction. On ne sait comment il mourut, mais il est fort probable que l'armure y fut pour quelque chose...
+
+PARAMETRES :
+
+Constitution : +1
+Classe d'armure : 0
+Poids : 9
+Force nécessaire : 8
+Non utilisable par :
+ Druide
+ Mage
+ Voleur
+ Autres races que nain, petite-personne, ou gnome.~
+@17  = ~Anneau de suprématie~
+@18  = ~Cet anneau est un peu le double de l’Anneau d'Influence Humaine. Il permet de lancer le sort "Charme extrême" et il octroie à son porteur un charisme de 19.
+
+PARAMETRES :
+
+Lance une fois par jour "Charme extrême"
+Charisme porté à 19.~
+@19  = ~Heaume de duperie~
+@20  = ~Utiliser ce casque, spécialement au cours d'une fête, peut se révéler particulièrement amusant. La personne qui le porte est non seulement déguisée comme une momie, mais se retrouve capable de lancer un sort pouvant rendre une personne légèrement... idiote. Il est dit qu'une fois, la puissance de ce casque a été utilisée par un jeune garçon au cours d'une fête locale. Malheureusement pour lui, le garçon fut accusé d'être un magicien et de vouloir transformer tout le monde en zombie. En conséquence, il fut brulé vif.
+
+PARAMETRES :
+
+Spécial : lance "Obstination bornée" 2 fois par jour
+Poids : 2
+Non utilisable par :
+ Mage
+ Barde
+ Voleur~
+@21  = ~Bracelets de dextérité~
+@22  = ~Ces bracelets, d'origine magique, seront d'une aide précieuse au combat pour les guerriers maladroits.
+
+PARAMETRES :
+
+Bonus de dextérité : +2~
+@23  = ~Bracelets du roi Strohm~
+@24  = ~Ces bracelets ont été portés par le roi Strohm de Lancevent. Ils ont été en contact avec les armes du roi pendant plusieurs siècles et ont accumulé un pouvoir magique considérable.
+
+PARAMETRES :
+
+Bonus à la Force : +2
+Bonus à la Dextérité : +2
+
+Utilisable par :
+ Personnages d'alignement mauvais uniquement~
+@25  = ~Cape de la Dryade~
+@26  = ~A l'intérieur de cette cape ont été brodés des symboles étranges. Ribald vous dit qu'une dryade le lui a donné il y a de cela quelques décennies.
+
+PARAMETRES :
+
+Spécial : 
+ Charisme porté à 21
+ 100% de résistance au froid~
+@27  = ~Cape des merveilles~
+@28  = ~Cette cape semble avoir été tissée avec de grandes feuilles. Elle est d'une grande douceur au toucher, épousant parfaitement les épaules de son porteur, lui donnant une sensation de sécurité et de protection.
+
+PARAMETRES :
+
+Classe d'Armure : bonus de 3
+Jets de sauvegarde : +3
+Spécial : -15% aux dégâts contondants, perforants et tranchants
+Poids : 3
+Utilisable par :
+ Tout le monde~
+@29  = ~Lame druidique +2~
+@30  = ~Les cimeterres sont les seule armes affutées que les druides peuvent utiliser et celui-ci a été forgé spécialement pour eux. Jadis, cette lame druidique appartenait à un chef druidique qui vivait dans la forêt proche de Franc-Marché. Mais ce druide en vint à être séduit par les forces du mal et après sa mort, toutes traces de ce cimeterre furent perdues. Comment ce cimeterre a-t'il pu se retrouver dans les mains d'un marchand de Franc-Marché, reste un mystère.
+
+PARAMETRES :
+
+Spécial :
+  2 sorts supplémentaires du premier niveau
+  1 sort supplémentaire du second niveau
+
+TAC0 : +2
+Dégâts : 1D8 +2
+Type de dégâts : tranchant
+Poids : 4
+Facteur de vitesse : 3
+Type de compétence : Cimeterre/Wakizashi/Ninja-To
+Non utilisable par :
+ Clerc
+ Mage
+ Voleur~
+@31  = ~Masse de persuasion +2~
+@32  = ~Il est tout de même assez rare de voir un de vos ennemis se mettre à votre service, mais grâce à cette arme, c'est beaucoup plus probable ! Une personne blessée par cette arme risque d'être charmée et de se retourner contre ses anciens camarades.
+
+PARAMETRES :
+
+Capacité spéciale :
+  50% de chance que la cible soit charmée pour 120 secondes à moins de réussir un jet de sauvegarde contre les sorts.
+
+TAC0 : +2
+Dégâts : 1D6 +3
+Type de dégâts : contondant
+Poids : 6
+Facteur de vitesse : 4
+Type de compétence : masse
+Type : arme à 1 main
+Force nécessaire : 10
+Non utilisable par :
+ Druide
+ Mage
+ Voleur~
+@33  = ~Anneau du Méphite~
+@34  = ~Ribald affirme qu'un méphite lui a donné cet anneau pour avoir réussi à résoudre son énigme. Mais il semble réticent à poursuivre l'histoire.
+
+PARAMETRES :
+
+Force : +5
+Spécial :
+ Hâte
+ Protection contre Arrêt de temps
+
+Utilisable par :
+ Personnages avec une intelligence supérieure à 15~
+@35  = ~Bracelets du Méphite~
+@36  = ~Ribald affirme qu'un méphite lui a donné ces bracelets pour avoir réussi à résoudre son énigme. Mais il semble réticent à poursuivre l'histoire.
+
+PARAMETRES :
+
+Bonus à la Classe d'Armure : 4
+TAC0 : +5 (armes à projectiles uniquement)~
+@37  = ~Etoile du matin du roi Strohm +3~
+@38  = ~On dit que le roi Strohm de Lancevent utilisa cette arme de son vivant mais aussi lorsqu’il était une liche mort-vivante. Il est très probable que ces on-dit aient quelque fond de vérité. Même si cette arme a été brièvement en contact avec la liche, elle a dû acquérir un grand pouvoir magique qui la rend dévastatrice. Du fait des pouvoirs résiduels de la liche, cette étoile du matin ne peut être utilisée que par un personnage d'alignement mauvais.
+
+PARAMETRES :
+
+TAC0 : +3
+Dégâts : 1D6 +4
+Dégâts électriques : 1D5, sauf si un jet de sauvegarde contre les sorts est réussi
+Type de dégâts : contondant
+Poids : 15
+Facteur de vitesse : 4
+Type de compétence : fléau/étoile du matin
+Type : arme à 1 main
+Force nécessaire : 13
+Non utilisable par :
+ Druide
+ Mage
+ Voleur~
+@39  = ~Petit bouclier +3~
+@40  = ~Petit bouclier +3... Il y a peu d’objets aussi puissants que celui-là ! Sans aucun doute vous avez fait (ou vous allez faire) une bonne affaire !
+
+PARAMETRES :
+
+Classe d'Armure : bonus de 4
+Spécial : pas de protection contre les projectiles
+Poids : 2
+Non utilisable par :
+ Barde
+ Druide
+ Mage
+ Voleur~
+@41  = ~Epée de Mordue +2~
+@42  = ~La légende raconte qu'il y a bien longtemps cette épée appartenait à Mordue, l'un des plus effrayants barbare du nord. En brandissant cette épée, il conquît de nombreuses cités humaines, jusqu'à ce que l'âge le rattrape. Depuis lors, plus personne n'a utilisé l'épée de Mordue. Vous serez le premier depuis de nombreuses années.
+
+PARAMETRES :
+
+Capacités spéciales :
+  50% de chance que la cible subisse 1D10 points de dégâts magiques si un jet de sauvegarde contre les Sorts est raté
+  50% de chance de drainer un niveau à la cible si un jet de sauvegarde contre la Mort est raté
+
+Dégâts : 1D10 +2
+Type de dégâts : tranchant
+Poids : 15
+Facteur de vitesse : 6
+Type de compétence : épée à 2 mains
+Type : arme à 2 mains
+Non utilisable par :
+ Druide
+ Clerc
+ Mage
+ Voleur~
+@43  = ~Glace Infernale +3~
+@44  = ~La magie contenue dans cette épée est étonnante. A première vue, vous pensez que la lame est faite de glace, mais lorsque vous en approchez votre main, vous vous rendez compte qu'elle dégage de plus en plus de chaleur jusqu’à en devenir brûlante. Vous n’imaginez pas vraiment comment une telle arme a été conçue.
+
+PARAMETRES :
+
+Capacités spéciales : 
+ +1D10 points de dégâts de feu
+ 25% de chance que la cible soit ralentie pour 7 secondes
+
+TAC0 : +3
+Dégâts : 1D8 +3
+Type de dégâts : tranchant
+Poids : 2
+Type de compétence : épée longue
+Non utilisable par :
+ Druide
+ Clerc
+ Mage~
+@45  = ~Anneau de la connaissance~
+@46  = ~Avez-vous toujours voulu voyager à travers tous les continents, découvrir de nouvelles civilisations, des nouvelles coutumes ? Eh bien... si vous lisez cette description, c'est que contrairement à l'ancien propriétaire de cet anneau vous êtes toujours et vie et que vous disposez donc de temps pour réaliser tous vos rêves. Mais si, pour une raison ou une autre vous ne réussissez pas à les réaliser, sachez qu’au moins avec cet anneau vous serez en mesure de deviner d'ou viennent tous les objets découverts par vos compagnons.
+
+PARAMETRES :
+
+Spécial : Porte la connaissance à 100~
+@47  = ~Potion de restauration~
+@48  = ~Le consommateur de cette potion bénéficiera des effets du sort "Restauration majeure". Cela pourrait être une bonne idée de garder une de ces potions à portée de main...
+
+PARAMETRES :
+
+Spécial : sort de restauration majeure sur un personnage~
+@49  = ~Outils de Voleur~
+@50  = ~Ces outils sont particulièrement légers et résistants. Sans aucun doute rendront-ils le travail d'un voleur beaucoup plus aisé !
+
+PARAMETRES :
+
+Spécial :
+ Bonus de 10% en Crochetage, Pose de pièges, Détecter/Désamorcer les pièges et Vol-à-la-tire
+Poids : 2
+
+Utilisable par :
+ Voleur~
+@51  = ~Outils de Voleur Supérieurs~
+@52  = ~Ces outils sont particulièrement légers et résistants. Sans aucun doute rendront-ils le travail d'un voleur beaucoup plus aisé !
+
+PARAMETRES :
+Spécial :
+ Bonus de 20% en Crochetage, Pose de pièges, Détecter/Désamorcer les pièges et Vol-à-la-tire
+Poids : 2 
+
+Utilisable par :
+ Voleur~
+@53  = ~Cape de la nuit~
+@54  = ~Cette cape vous donnera la vision d'un elfe ! Du moins, à la nuit tombée...
+
+PARAMETRES :
+
+Spécial : Confère l'infravision~
+@55  = ~Gants de force~
+@56  = ~Ces gants ont été créés par l'entraineur-mage d'un fameux boxeur. Même après le passage de plusieurs années, le brave combattant continuait à mettre K.O. ses rivaux grâce à ses "gants de boxe" particuliers.
+
+PARAMETRES :
+
+Force : +3~
+@57  = ~Armure merveilleuse~
+@58  = ~Seul un dieu a pu créer cette armure, et sûrement un dieu puissant ! Les effets de cette armure sont clairement extraordinaires. Et même si ces pouvoirs n'en font pas la meilleure des armures existantes, il est difficile de trouver son équivalente dans tout Amn.
+
+PARAMETRES :
+
+Classe d'Armure : 0
+Poids : 45
+Force nécessaire : 15
+Spécial : +1 à toutes les caractéristiques
+Non utilisable par :
+ Barde
+ Druide
+ Mage
+ Voleur~
+@59  = ~Armure de plates Mécanisée~
+@60  = ~L'ingéniosité des gnomes est réellement extraordinaire et cette armure en est une preuve supplémentaire. Vous remarquez que cette armure a plus de pièces qu'une armure normale. Des bras mécaniques, des joints, des ressorts et des contrepoids l'équipent. Avec un coup d'oeil distrait, vous la confondriez avec un costume d'artiste, ou de clown. Mais en réalité, tous ces gadgets augmentent, et de façon conséquente, les mouvements de quiconque la porte. Un guerrier avec une armure de plaques capable de courir deux fois plus vite que sans son armure...  un seul mot vous vient à l'esprit : terrifiant ! Mais hélas, la vitesse de l'armure perturbe le bon contrôle des mouvements.
+
+PARAMETRES :
+
+Classe d'Armure : 2
+Dextérité : -2
+Poids : 25
+Constitution nécessaire : 16
+Spécial : Le porteur est sous l'effet de Hâte améliorée
+Non utilisable par :
+ Barde
+ Druide
+ Mage
+ Voleur~
+@61  = ~Casque de défense~
+@62  = ~Quand vous regardez ce casque vous êtes impressionné par ses dimensions ! C'est énorme ! Au début, vous pensez que cela pourrait être un casque décoratif pour un animal, mais après un moment vous vous rendez compte qu'il est parfaitement adapté à une personne de votre constitution. Vous remarquez aussi que ce casque protège non seulement la tête, mais aussi toutes les parties du corps situées entre le bas du casque et le haut de l'armure.
+
+PARAMETRES :
+
+Classe d'Armure : Bonus de 4
+Dextérité : -1
+Spécial : Protège contre les coups critiques
+Poids : 2
+Force et constitution nécessaires : 14
+
+Utilisable par :
+ Guerrier~
+@63  = ~Epée de bois~
+@64  = ~La lame de cette épée est faite à partir d'une pièce de bois très dure. A cause de cela, ceux qui seront frappés de sa lame ne seront pas coupés. En dehors de ce point, l'épée s'utilise de façon très classique.
+
+PARAMETRES :
+
+Dégâts : 1D6
+Type de dégâts : contondant
+Poids : 9
+Facteur de vitesse : 7
+Type de compétence : épée à 2 mains
+Force nécessaire : 6
+Non utilisable par :
+ Druide
+ Clerc
+ Mage
+ Voleur~
+@65  = ~Le bras du Nain +3~
+@66  = ~Si vous faites plus d'un mètre vingt, cette hache ne vous paraîtra être rien d'autre qu'une hache de bataille normale ; mais si vous êtes un nain... et bien... cette hache vous rappellera les contes de Golfaglin, dernier possesseur de cette arme. A l'époque, le pouvoir de cette hache n'était pas limité à l'usage des nains. Golfaglin décida de se lancer dans une dangereuse mission qui mettrait un terme définitif au conflit opposant son peuple à la horde d'envahisseurs orques. Mais dans le cas où il viendrait à mourir, Gorfaglin ne voulait pas que cet objet terrifiant et destructeur soit utilisé par les orques haïs. Alors, avant de partir, il demanda à un de ces amis magiciens de créer un sortilège qui empêcherait les ennemis des nains d'utiliser cette hache. Et Gorfaglin ne revint jamais de sa mission...
+
+PARAMETRES :
+
+Force : +2
+TAC0 : +3
+Dégâts : 1D8 +3, +2 points de dégâts de feu
+Type de dégâts : tranchant
+Poids : 7
+Facteur de vitesse : 4
+Type de compétence : hache
+Force nécessaire : 16
+Non utilisable par :
+ Autres races que nain
+ Druide
+ Clerc
+ Mage
+ Voleur~
+@67  = ~Force explosive +1~
+@68  = ~On dit parfois que chaque épée a une âme. Mais si personne ne sait la vérité à ce sujet, il est vrai que cette lame semble parfois agir toute seule. De temps en temps, l'épée attire la main de son porteur, frappant l'ennemi une seconde fois, par pur enthousiasme.
+
+PARAMETRES :
+
+Capacité spéciale :
+  50% de chance que la cible subisse des dégâts doublés
+
+TAC0 : +1
+Dégâts : 1D10 +1
+Type de dégâts : tranchant
+Poids : 10
+Facteur de vitesse : 8
+Type de compétence : épée à 2 mains
+Force nécessaire : 14
+Non utilisable par :
+ Druide
+ Clerc
+ Mage
+ Voleur~
+@69  = ~Langue d'incendie~
+@70  = ~A la différence de l'épée langue de feu commune qui possède une lame métallique, cette épée est composée de flammes pures. Sa température interne est beaucoup plus grande que dans sa petite soeur métallique, elle inflige donc des dégâts plus conséquents.
+
+PARAMETRES :
+
+TAC0 : +1
+Dégâts : 1D14 +1
+Type de dégâts : feu
+Poids : 3
+Facteur de vitesse : 2
+Type de compétence : Cimeterre/Wakizashi/Ninja-To
+Force nécessaire : 10
+Non utilisable par :
+ Voleur
+ Clerc
+ Mage~
+@71  = ~Epée de Défense +2~
+@72  = ~La largeur de cette épée vous impressionne. Elle est si large qu'elle peut être utilisée simultanément comme arme et comme bouclier. Etrangement, elle n'est pas plus difficile à manier. Il vous paraît évident qu'elle doit avoir quelques origines magiques.
+
+PARAMETRES :
+
+Classe d'Armure : Bonus de 3
+TAC0 : +2
+Dégâts : 1D10 +2
+Type de dégâts : tranchant
+Poids : 19
+Facteur de vitesse : 9
+Type de compétence : épée à 2 mains
+Force nécessaire : 14
+Non utilisable par :
+ Voleur
+ Clerc
+ Mage
+ Druide~
+@73  = ~Dague de l'horreur +3~
+@74  = ~Certains voleurs sont sadiques. Ils ne leur suffisent pas d'effrayer leurs victimes avec une petite plaie. Ils veulent les voir tomber dans les affres de la terreur ! Ils veulent voir l'horreur mêlée à la consternation dans les yeux de leurs victimes alors même qu'ils les abattent les unes après les autres.
+
+PARAMETRES :
+
+Capacité spéciale :
+  50% de chance que la victime soit affectée par Horreur pendant 45 secondes, si son jet de sauvegarde est raté.
+
+TAC0 : +3
+Dégâts : 1D4 +3
+Type de dégâts : perforant
+Poids : 0
+Facteur de vitesse : 0
+Type de compétence : dague
+Type : arme à 1 main
+Force nécessaire : 3
+Utilisable par :
+ Voleur~
+@75  = ~Bottes élémentaires~
+@76  = ~Il y a bien longtemps, un mage maléfique créa une potion avec le sang d'une nymphe des glaces, d'une nymphe de feu, d'une nymphe de poison, et d’une nymphe de la foudre. Après avoir exploité le pouvoir du sang de ces esprits, tout objet avec lequel cette potion entrait en contact acquérait un grand pouvoir : l'objet donnait à son possesseur une protection parfaite contre les éléments. Les bottes élémentaires sont sans aucun doute très utiles, mais encore faut-il être disposé à porter un objet conçu avec une si incroyable cruauté.
+
+PARAMETRES :
+
+Résistances élémentaires : +25%~
+@77  = ~Amulette de protection contre le feu~
+@78  = ~Porter cette amulette donne l'immunité contre les dégâts de feu.
+
+PARAMETRES :
+
+Resistance au feu : 100%~
+@79  = ~Amulette de protection contre l'électricité~
+@80  = ~Porter cette amulette donne l'immunité contre les dégâts d'électricité.
+
+PARAMETRES :
+
+Resistance à l'électricité : 100%~
+@81  = ~Cape de l'Assassin~
+@82  = ~Cette cape a été fabriquée pour les voleurs et plus particulièrement pour les assassins.
+
+PARAMETRES :
+
+Spécial :
+  Le porteur est indécelable par les objets magiques ou les sorts
+  Immunité aux charmes
+  Se cacher dans l'ombre : +50%
+  Lance 'Invisibilité' une fois par jour
+
+Utilisable par :
+ Voleur~
+@83  = ~Fronde de Petite-personne +3~
+@84  = ~En voyageant dans les terres centrales occidentales il est facile de rencontrer une des petites-personnes de Gullykin ; elle vous parlera sûrement de l'hospitalité des petites-personnes où de la joie de fumer une bonne pipe. Et elle vous dira avec fierté que personne ne peut lancer des pierres comme une petite-personne ! Les quelques petites-personnes aventurières, qui ont quitté leur paisible foyer, font souvent enchanter leur fronde... un signe clair de fierté et de force !
+
+PARAMETRES :
+
+Spécial : Le porteur est immunisé contre la peur
+
+TAC0 : +5
+Dégâts : +3
+Portée maximale : +100%
+Facteur de vitesse : 6
+Type de compétence : fronde~
+@85  = ~Anneau des Eléments +2~
+@86  = ~Bien peu d'ouvrages font référence à l'anneau des éléments. Seuls des livres très anciens, quasi mythiques y font état. Il est dit que cet anneau est né de sa volonté propre durant une période de chaos, pour aider un druide à lutter contre les forces maléfiques sur toute la terre.
+
+PARAMETRES :
+
+Résistances au feu, au froid et à l'électricité : +50%
+Classe d'Armure : bonus de 2
+Force : +2~
+@87  = ~Le Livre de la Mort~
+@88  = ~Le livre de la Mort... Beaucoup d'aventuriers ont passé leur vie entière à rechercher cet ouvrage. Il est dit que celui qui réussira à déchiffrer ses mystères gagnera assez de pouvoir pour rivaliser avec les dieux. Le Livre de la Mort a des milliers et des milliers de pages, chacune d'elle, si elle est lue, lançant un sort, chacun plus stupéfiant que le précédent. Mais vous comprenez aussi que seule une analyse en profondeur de tous les mots du livre vous permettrait d'utiliser son plein pouvoir sans danger. Pour le moment, il vaut donc mieux vous limiter aux incantations les plus "communes" et "banales" du livre, mais qui ont l'avantage de pouvoir être lues sans problème.
+
+PARAMETRES :
+
+Spécial : Lance Résurrection une fois par jour
+Utilisable par :
+ Clerc~
+@89  = ~Sphère du vent~
+@90  = ~Vous découvrez un minuscule bouton sur la sphère. Quand vous le pressez un peu, un petit souffle de vent vous cingle le visage. Si vous maintenez le bouton enfoncé, l'air s'échappe plus rapidement, balayant les poussières vous entourant.
+
+PARAMETRES :
+
+Spécial : Lance le sort 'Zone d'air pur' une fois par jour.~
+@91  = ~Amulette de Guérison~
+@92  = ~Même si le prêtre qui porte cette amulette décide de ne pas mémoriser de sorts de soins, il sera toujours capable de guérir une grande variété de maux.
+
+PARAMETRES :
+
+Spécial : 
+  Lance Soins des blessures légères trois fois par jour
+  Lance Soins des blessures graves une fois par jour
+  Lance Guérison une fois par jour
+  Lance Guérison de masse une fois par jour~
+@93  = ~Anneau d'anti-magie +1~
+@94  = ~L'Anneau d'anti-magie est, d'une part, un anneau de protection conventionnel qui offre un bonus de 1 à tous les jets de sauvegardes et à la classe d'armure, mais il est capable en outre d'isoler complètement l'utilisateur des effets de la magie. En revanche, l'utilisation de ce pouvoir est limité en nombre de charges.
+
+PARAMETRES :
+
+Classe d'Armure : bonus de 1
+Jets de sauvegarde : +1
+Spécial : 6 charges "Immunité à la magie pour 60 secondes"~
+@95  = ~Bâton du Jugement +1~
+@96  = ~Parfois il vaut mieux confier sa vie à la volonté des dieux. Mais comment les mortels connaissent-ils la volonté des dieux ? Il n'y a rien de plus simple ! Faites appel au pouvoir de ce bâton et tous ceux dans la zone qui survivront au "Nuage de l'assassin" le devront seulement à la volonté d'un dieu ! Les autres, en revanche...
+
+PARAMETRES :
+
+Capacité spéciale : Lance 'Nuage de l'Assassin' une fois par jour
+
+TAC0 : +1
+Dégâts : 1D6 +1
+Type de dégâts : contondant
+Poids : 3
+Facteur de vitesse : 1
+Type de compétence : bâton~
+@97  = ~Soeur cadette +2~
+@98  = ~Cette épée provient d'un ensemble de deux épées bâtardes. La Soeur cadette, c'est-à-dire cette épée, peut appeler sa soeur aîné pour une période limitée.
+
+PARAMETRES :
+
+Capacité spéciale : Appelle "Vielle soeur +5" pour 60 secondes trois fois par jour
+
+TAC0 : +2
+Dégâts : 2D4 +2
+Type de dégâts : tranchant
+Poids : 7
+Facteur de vitesse : 5
+Type de compétence : épée bâtarde
+Force nécessaire : 11
+Utilisable par :
+ Guerrier~
+@99  = ~Epée bâtarde +5~
+@100 = ~Pierre lunaire~
+@101 = ~On ne peut pas devenir un loup-garou simplement en hurlant à la lune, mais avec cette pierre, le pouvoir de lycanthropie est à vos ordres.
+
+PARAMETRES :
+
+Spécial : transformation en Loup-garou pendant 120 secondes, une fois par jour~
+@102 = ~Livre infernal~
+@103 = ~Il contient un sort similaire à "Convocation d'un Fiélon" avec pour différence qu'en lieu et place d'un fiélon, vous aurez un Chevalier-Démon sous vos ordres !
+
+PARAMETRES :
+
+Spécial : Invoque un "Chevalier-Démon" une fois par jour pour 120 secondes 
+
+Utilisable par :
+ Mage~
+@104 = ~Invoquer un Chevalier-Démon~

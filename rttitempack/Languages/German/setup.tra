@@ -1,0 +1,573 @@
+@0    = ~Das RTT Gegenstaende Pack installieren?
+**Die Gegenstaende werden zu Ribalds speziellen Gegenstaenden
+(Abenteurer Markt, Waukeen's Promenade) nach der Zauberfeste hinzugefuegt.**~
+@1    = ~Amulett des Lebens~
+@2    = ~Wer immer auch dieses Amulett trägt, ist immun gegen Lebenskraftentzug von Vampiren oder anderen Untoten. (Es wird angemerkt, dass man es zusammen mit der obligatorischen Halskette aus Knoblauch tragen sollte...)
+
+SPEZIELLE EIGENSCHAFTEN:
+
+Schutz vor Lebenskraftentzug~
+@3    = ~Kristallisierte Dämonenträne~
+@4    = ~Haben Dämonen ein "Herz"? Können sie Emotionen zwischen Hass und Leidenschaft empfinden? Wenn man sich dieses Objekt betrachtet, dann ist die Antwort "Ja"! Uralte Legenden besagen, dass Dämonen einst einmal Menschen waren, die so sehr vom Schmerz zerfressen wurden, dass sie keine andere Möglichkeit mehr sahen, als diesen Schmerz andere spüren zu lassen. Wenn sie schon leiden mussten, dann sollten es die anderen auch. Dieser Hass transformierte sie in Dämonen. Manchmal erinnert sich einer an diese längst vergangenen Zeiten, die nie mehr zurückkehren und eine Träne entsteht...
+
+SPEZIELLE EIGENSCHAFTEN:
+
+Weisheit: +2
+Kälteresistenz: +30%~
+@5    = ~König Strohms Ring~
+@6    = ~Eine alte Legende erzählt wie König Strohm nach seinem Tod ein Leichnam wurde. Dessen Macht muss sehr groß gewesen sein, wenn dieser Leichnam solch einen Ring erschaffen konnte. Um einen solchen Ring zu besitzen, wären Kriege geführt worden, oder zumindest mehrere tausend Goldstücke wären zu bezahlen gewesen.
+
+SPEZIELLE EIGENSCHAFTEN:
+
+Bonus Lebenspunkte: +25%
+Magieresistenz: +25%
+Rüstungsklasse: +4
+Rettungswürfe: +4
+Intelligenz: +2
+Weisheit: +2
+
+Kann nicht verwendet werden von:
+Charakteren mit weniger als 16 Intelligenz und Weisheit.~
+@7    = ~Axt der Verwirrung +2~
+@8    = ~Die Axt der Verwirrung ist ein nützliches Werkzeug im Kampf gegen mehrere Feinde. Jeder der von dieser Axt getroffen wird, verfällt in einen Zustand der Verwirrung, unfähig Freund und Feind zu unterscheiden.
+
+SPEZIELLE EIGENSCHAFTEN:
+
+ETW0: +2 Bonus
+Schaden: 1W8 +2 (Hiebwaffe)
+Ziel ist für 120 Sekunden von Verwirrung betroffen, wenn der Rettungswurf gegen Zaubersprüche misslingt
+Gewicht: 7
+Initiativefaktor: 4
+Waffenfertigkeit: Axt
+Typ: Einhändig
+Mindeststärke: 10
+
+Kann nicht verwendet werden von:
+Druiden
+Klerikern
+Zauberern
+Dieben~
+@9    = ~Anti-Gedankenschinder Amulett~
+@10   = ~Wenn man dieses Amulett trägt, ist man immun gegen die fürchterlichen Angriffe der Gedankenschinder; den Verlust der Intelligenz.
+
+SPEZIELLE EIGENSCHAFTEN:
+
+Die ursprüngliche Intelligenz kann durch Gedankenschinder nicht verändert werden.~
+@11   = ~Verbesserter Gürtel der Ausdauer~
+@12   = ~Dieser Gürtel ist dem Gürtel der Ausdauer ähnlich. Wer immer ihn auch trägt erhält eine Konstitution von 20.
+
+SPEZIELLE EIGENSCHAFTEN:
+
+Konstitution: 20~
+@13   = ~Kunstvolle Drow Plattenrüstung +5~
+@14   = ~Die Drow des Unterreiches benutzen sehr starke Rüstungen, die aus Adamantit gefertigt sind. Ein Material, das die Eigenschaft hat, zu Staub zu zerfallen, wenn es dem Tageslicht ausgesetzt wird. Diese Rüstung der Drow ist mit einer feinen Schicht eines unbekannten Materials überzogen. Es ist möglicherweise magischer Herkunft. Leider ist diese Rüstung ungewöhnlich schwer und kann daher nur von einem sehr starken Krieger verwendet werden.
+
+SPEZIELLE EIGENSCHAFTEN:
+
+Rüstungsklasse: +4
+Benötigt: Stärke 19 und Konstitution 18
+Gewicht: 120
+
+Kann nicht verwendet werden von:
+Barden
+Druiden
+Zauberern
+Dieben~
+@15   = ~Der Schutz des Zwerges~
+@16   = ~Diese Rüstung ist weit kleiner als die meisten anderen und wurde speziell für die kleineren Rassen angefertigt. Ihre geringe Größe hat aber nichts mit ihrer Schutzfunktion zu tun, die Stärke dieser Rüstung ist beeindruckend. Eine ähnliche Rüstung wurde für einen jungen Soldaten angefertigt, als Belohnung dafür, dass er seine Stadt vor der Zerstörung rettete. Leider war dessen Karriere sehr kurz, weil die Rüstung sehr begehrt war...
+
+SPEZIELLE EIGENSCHAFTEN:
+
+Konstitution: +1
+Rüstungsklasse: 0
+Gewicht: 9
+Mindeststärke: 8
+
+Kann nicht verwendet werden von:
+Druiden
+Zauberern
+Dieben
+Nicht-Zwergen, Halblingen oder Gnomen.~
+@17   = ~Ring der Überlegenheit~
+@18   = ~Dieser Ring ist wie der ältere Bruder des Ringes der Kontrolle. Er ist in der Lage, "Extreme Bezauberung" zu generieren und setzt das Charisma auf 19.
+
+SPEZIELLE EIGENSCHAFTEN:
+
+Einmal am Tag "Extreme Bezauberung"
+Charisma: 19~
+@19   = ~Helm der Hinterlist~
+@20   = ~Mit diesem Helm kann man andere auf ungewöhnliche Weise beeinflussen.
+
+SPEZIELLE EIGENSCHAFTEN:
+
+Zweimal am Tag "Starres Denken"
+Gewicht: 2
+
+Kann nicht verwendet werden von:
+Zauberern
+Barden
+Dieben~
+@21   = ~Armschienen der Geschicklichkeit~
+@22   = ~Diese magischen Armschienen werden selbst den ungeschicktesten Kämpfer um einiges verbessern.
+
+SPEZIELLE EIGENSCHAFTEN:
+
+Geschicklichkeitsbonus: +2~
+@23   = ~König Strohms Armschienen~
+@24   = ~Diese Armschienen wurden von König Strohm getragen. Sie haben große magische Macht von ihrem vorherigen Besitzer erhalten.
+
+SPEZIELLE EIGENSCHAFTEN:
+
+Stärke: +2
+Geschicklichkeit: +2
+
+Kann nur verwendet werden von:
+Bösen Gesinnungen~
+@25   = ~Umhang einer Dryade~
+@26   = ~Es ranken sich einige Gerüchte um diesen Umhang. Ribald sagte, dass er ihn vor vielen Jahren von einer Dryade bekommen hatte.
+
+SPEZIELLE EIGENSCHAFTEN:
+
+Charisma wird auf 21 gesetzt
+100% Kälteresistenz~
+@27   = ~Wundersamer Umhang~
+@28   = ~Dieser Umhang scheint aus großen Blättern geflochten zu sein. Er fühlt sich sehr weich an und passt sich genau an die Schultern dessen an, der ihn trägt. Damit ist man dann auf besondere Weise geschützt.
+
+SPEZIELLE EIGENSCHAFTEN:
+
+Speziell:
+Bonus Rüstungsklasse: +3
+Bonus auf alle Rettungswürfe: +3
+15% weniger Schaden auf Wuchteinwirkung, Hiebverletzungen und Schmetterwaffen
+Gewicht: 3
+
+Benutzbar von:
+Jedem~
+@29   = ~Druidenklinge +2~
+@30   = ~Krummsäbel sind die einzigen metallenen Waffen, die Druiden benutzen dürfen. Dieser wurde speziell für Druiden angefertigt. Diese druidische Klinge gehörte einem Druidenanführer, der in einem Wald in der Nähe von Handelstreff lebte. Der Druide verfiel den bösen Mächten und nach seinem Tod verlor sich die Spur dieses Krummsäbels. Keiner weiß, wie dieser Krummsäbel in die Hände der Händler von Handelstreff kam...
+
+SPEZIELLE EIGENSCHAFTEN:
+
+Zwei extra Sprüche der ersten Stufe
+Ein extra Spruch der zweiten Stufe
+Schaden: 1W8+2 (Hiebwaffe)
+ETW0: +2
+Gewicht: 4
+Initiativefaktor: 3
+Fertigkeit: Krummsäbel/Wakizashi/Ninja-To
+
+Kann nicht verwendet werden von:
+Klerikern
+Zauberern
+Dieben~
+@31   = ~Streitkoben der Überredung +2~
+@32   = ~Es kommt ziemlich selten vor, dass aus Feinden Freunde werden. Aber mit dieser Waffe steigen die Chancen dafür! Jede Person, die von dieser Waffe getroffen wird, riskiert bezaubert zu werden und wendet sich dann gegen die eigenen Leute.
+
+SPEZIELLE EIGENSCHAFTEN:
+
+50%ige Chance, dass das Ziel für 120 Sekunden bezaubert wird. Ein Rettungswurf gegen Zaubersprüche ist erlaubt. 
+ETW0: +2
+Schaden: 1W6+3 (Wuchtwaffe)
+Gewicht: 6
+Initiativefaktor: 4
+Fertigkeit: Streitkolben
+Typ: einhändig
+Mindeststärke: 10
+
+Kann nicht verwendet werden von:
+Druiden
+Zauberern
+Dieben~
+@33   = ~Der Ring des Mephit~
+@34   = ~Ein Mephit gab Ribald diesen Ring, weil er es schaffte, seine Rätsel, die er ihm gestellt hatte, zu lösen. Er wollte aber ungern die Geschichte zu Ende erzählen.
+
+SPEZIELLE EIGENSCHAFTEN:
+
+Hast
+Schutz vor Zeitstopp
+Stärke: +5
+
+Verwendbar von:
+Charakteren mit einer Intelligenz von mindestens 15~
+@35   = ~Armschienen des Mephit~
+@36   = ~Ein Mephit gab Ribald diese Armschienen, weil er es schaffte, seine Rätsel, die er ihm gestellt hatte, zu lösen. Er wollte aber ungern die Geschichte zu Ende erzählen.
+
+SPEZIELLE EIGENSCHAFTEN:
+
+Rüstungsklassenbonus: +4
+ETW0 auf Wurfwaffen: +5~
+@37   = ~König Strohms Morgenstern~
+@38   = ~König Strohm hat höchstwahrscheinlich diese Waffe benutzt, als er noch am Leben war. Und ganz bestimmt benutzte er sie als Untoter. Wenn dieser Morgenstern von solch einem mächtigen Leichnam benutzt wurde, dann muss er große Macht besitzen.
+
+SPEZIELLE EIGENSCHAFTEN:
+
+ETW0: +3 (Wuchtwaffe)
+Schaden: 1W6+4 (plus 1W5 elektrischer Schaden, wenn der Rettungswurf gegen Sprüche misslingt)
+Gewicht: 15
+Initiativefaktor: 4
+Waffenfertigkeit: Morgenstern
+Typ: einhändig
+Mindeststärke: 13
+
+Kann nicht verwendet werden von:
+Druiden
+Zauberern
+Dieben~
+@39   = ~Kleiner Schild +3~
+@40   = ~Kleiner Schild +3...Es gibt nur wenige Objekte, die so mächtig sind wie dieses! Ohne Zweifel habt Ihr ein gutes Geschäft gemacht (oder werdet noch eines machen)!
+
+SPEZIELLE EIGENSCHAFTEN:
+
+Rüstungsklasse: +4
+Speziell: Kein Schutz vor Fernkampfwaffen
+Gewicht: 2
+
+Kann nicht verwendet werden von:
+Barden
+Druiden
+Zauberern
+Dieben~
+@41   = ~Das Schwert von Mordue +2~
+@42   = ~Eine alte Legende besagt, dass dieses Schwert einst Mordue gehörte, einem der gefürchtetsten Barbaren des Nordens. Mit diesem Schwert eroberte er zahlreiche Städte, bis er in die Jahre kam. Seit dieser Zeit wurde diese Klinge von niemandem mehr benutzt.
+
+SPEZIELLE EIGENSCHAFTEN:
+
+50%ige Chance, dass das Ziel 1W10 magischen Schaden erleidet (wenn der Rettungswurf gegen Sprüche misslingt)
+50%ige Chance, dass das Ziel eine Stufe verliert (wenn der Rettungswurf gegen Todesmagie misslingt)
+Schaden: 1W10+2 (Hiebwaffe)
+Gewicht: 15
+Initiativefaktor: 6
+Waffenfertigkeit: Zweihänder
+
+Kann nicht verwendet werden von:
+Druiden
+Priestern
+Zauberern
+Dieben~
+@43   = ~Eisinferno +3~
+@44   = ~Die Macht dieses Schwertes ist gewaltig! Wenn man sich die Klinge ansieht, könnte man denken, dass sie aus Eis gefertigt wurde. Doch es kommen Hitzewellen aus der Klinge, die jeden verbrennen, der es wagt, sie zu berühren...
+
+SPEZIELLE EIGENSCHAFTEN:
+
+Zusätzlicher Feuerschaden: +1W10
+25%ige Chance, dass das Ziel verlangsamt wird
+ETW0-Bonus: +3
+Schaden: 1W8+3 (Hiebwaffe)
+Gewicht: 2
+Fertigkeit: Langschwert
+
+Kann nicht verwendet werden von:
+Druiden
+Priestern
+Zauberern~
+@45   = ~Der Ring des Wissens~
+@46   = ~Wenn Ihr immer schon alle Geheimnisse von Toril wissen wolltet, dann wird Euch dieser Ring sicherlich weiterhelfen!
+
+SPEZIELLE EIGENSCHAFTEN:
+
+Setzt Sagenkunde auf 100~
+@47   = ~Genesungstrank~
+@48   = ~Wenn man diesen Trank zu sich nimmt, wirken die Eigenschaften des Spruches "Höhere Genesung". Wenn die Untoten wieder einmal zu zahlreich werden sollten, dann ist solch ein Trank immer von Vorteil...
+
+SPEZIELLE EIGENSCHAFTEN:
+
+Höhere Genesung~
+@49   = ~Diebeswerkzeug~
+@50   = ~Dieses Werkzeug ist leicht und widerstandsfähig. Es macht die Arbeit eines Diebes ohne Zweifel viel einfacher!
+
+SPEZIELLE EIGENSCHAFTEN:
+
++10% auf Schlösser öffnen, Fallen stellen, finden und entschärfen von Fallen und Taschendiebstahl
+Gewicht: 2
+ 
+Kann verwendet werden von:
+Dieben~
+@51   = ~Hochwertiges Diebeswerkzeug~
+@52   = ~Dieses Werkzeug ist leicht und widerstandsfähig. Es macht die Arbeit eines Diebes ohne Zweifel sehr viel einfacher!
+
+SPEZIELLE EIGENSCHAFTEN:
++20% auf Schlösser öffnen, Fallen stellen, finden und entschärfen von Fallen und Taschendiebstahl
+Gewicht: 2 
+
+Kann verwendet werden von:
+Dieben~
+@53   = ~Umhang der Nacht~
+@54   = ~Dieser Umhang verleiht die Sehkraft eines Elfen! Zumindest in der Nacht...
+
+SPEZIELLE EIGENSCHAFTEN:
+
+Ermöglicht Infravision~
+@55   = ~Handschuhe der Stärke~
+@56   = ~Diese ungewöhnlichen Handschuhe gehörten einem berühmten Boxer, dessen Trainer ein Zauberkundiger war. Er hatte sie von ihm bekommen. Auch noch nach vielen Jahren konnte der Boxer seine Gegner mit diesen Handschuhen ohne Probleme besiegen.
+
+SPEZIELLE EIGENSCHAFTEN:
+
+Stärke: +3~
+@57   = ~Wundersame Rüstung~
+@58   = ~Nur ein sehr mächtiger Gott wäre in der Lage gewesen, solch eine Rüstung herzustellen! Es gibt nichts Vergleichbares. Sie ist zwar nicht die stärkste Rüstung auf Faerûn, verleiht ihrem Träger aber seine Macht.
+
+SPEZIELLE EIGENSCHAFTEN:
+
+Alle Statistiken: +1
+Rüstungsklasse: 0
+Gewicht: 45
+Benötigt: Stärke 15
+
+Kann nicht verwendet werden von:
+Barden
+Druiden
+Zauberern
+Dieben~
+@59   = ~Mechanische Plattenrüstung~
+@60   = ~Die Intelligenz der Gnome ist außergewöhnlich und diese Rüstung ist ein Beweis für diese Tatsache. Es fällt auf, dass diese Rüstung mehr Einzelteile wie eine normale Rüstung hat. Mechanische Arme, Gelenke, Federn und Gegengewichte sind überall zu sehen. Auf den ersten Eindruck wirkt diese Rüstung wie die eines Narren, der die Kriegerkaste verspotten will. Aber all diese seltsamen Anbauten erhöhen das Bewegungstempo des Trägers. Ein Krieger mit dieser Plattenrüstung kann zweimal so schnell laufen wie normal... Mit einem Wort: Außergewöhnlich! Leider ist die Handhabung dieser Rüstung sehr schwierig.
+
+SPEZIELLE EIGENSCHAFTEN:
+
+Träger ist von verbesserter Hast betroffen
+Geschicklichkeit: -2
+Rüstungsklasse: 2
+Gewicht: 25
+Mindestkonstitution: 16
+
+Kann nicht verwendet werden von:
+Barden
+Druiden
+Zauberern
+Dieben~
+@61   = ~Helm des außergewöhnlichen Schutzes~
+@62   = ~Sieht man sich diesen Helm an, ist man von seiner Größe beeindruckt! Er ist gewaltig! Zuerst glaubt man, dass es sich hierbei um eine Art dekorativen Helm handelt. Aber nach einer Weile passt er perfekt für seinen Träger. Dieser Helm schützt nicht nur den Kopf, sondern schützt auch Teile zwischen Kopf und Oberkörper, die ein normaler Helm nicht bedecken würde.
+
+SPEZIELLE EIGENSCHAFTEN:
+Rüstungsklasse: +4
+Geschicklichkeit: -1
+Speziell: Schützt gegen kritische Treffer
+Gewicht: 2
+Benötigt: Stärke und Konstitution von mindestens 14
+
+Kann verwendet werden von:
+Kriegern~
+@63   = ~Hölzernes Schwert~
+@64   = ~Die Klinge dieses Schwertes ist aus sehr hartem Holz gefertigt worden. Deswegen gilt es mehr als Wuchtwaffe, denn als Hiebwaffe. Ansonsten funktioniert es wie ein normales Zweihandschwert.
+
+SPEZIELLE EIGENSCHAFTEN:
+
+Schaden: 1W6 (Wuchtwaffe)
+Gewicht: 9
+Initiativefaktor: 7
+Fertigkeit: Zweihänder
+Mindeststärke: 6
+
+Kann nicht verwendet werden von:
+Druiden
+Priestern
+Zauberern
+Dieben~
+@65   = ~Die Hand des Zwerges +3~
+@66   = ~Wenn Ihr kein Zwerg seid, dann ist diese Axt nichts anderes als eine normale Streitaxt. Aber wenn Ihr ein Zwerg seid, ist dies eine ganz andere Geschichte...
+
+SPEZIELLE EIGENSCHAFTEN:
+
+Stärke: +2
+ETW0: +3
+Schaden: 1W8+3 (Hiebwaffe), +2 Feuerschaden
+Gewicht: 7
+Initiativefaktor: 4
+Waffenfertigkeit: Axt
+Mindeststärke: 16
+
+Kann nicht verwendet werden von:
+Nicht-Zwergen
+Druiden
+Priestern
+Zauberern
+Dieben~
+@67   = ~Explosive Macht +1~
+@68   = ~Manchmal wird behauptet, dass ein Schwert eine eigene Seele besitzt. Niemand weiß wirklich, ob dieses Gerücht zutrifft, aber diese Klinge scheint eine Art eigenen Willen zu haben. Oft kommt es vor, dass dieses Schwert wie von Zauberei ein zweites Mal zuschlägt.
+
+SPEZIELLE EIGENSCHAFTEN:
+
+50%ige Chance, dass das Ziel doppelten Schaden erleidet
+ETW0: +1
+Schaden: 1W10+1 (Hiebwaffe)
+Gewicht: 10
+Initiativefaktor: 8
+Fertigkeit: Zweihänder
+Mindeststärke: 14
+
+Kann nicht verwendet werden von:
+Druiden
+Priestern
+Zauberern
+Dieben~
+@69   = ~Feuerzunge~
+@70   = ~Im Gegensatz zur bekannteren Flammenzuge, die eine metallische Klinge hat, besteht die Klinge der Feuerzunge aus einer echten Flamme. Die Temperatur ist wesentlich höher als bei der kleinen Schwester und verursacht daher wesentlich mehr Schaden.
+
+SPEZIELLE EIGENSCHAFTEN:
+
+ETW0: +1
+Schaden: 1W14+1 (Feuerschaden)
+Gewicht: 3
+Initiativefaktor: 2
+Fertigkeit: Krummsäbel/Wakizashi/Ninja-To
+Mindeststärke: 10
+
+Kann nicht verwendet werden von:
+Dieben
+Priestern
+Zauberern~
+@71   = ~Schwert der Verteidigung +2~
+@72   = ~Ihr seid von der Breite dieses Schwertes beeindruckt. Seine Klinge ist so breit, dass man sie sowohl als Waffe, als auch als Schild gleichzeitig verwenden kann. Es ist trotz allem leicht zu führen, was darauf schließen lässt, dass ein Zauberer seine Hand im Spiel gehabt haben muss.
+
+SPEZIELLE EIGENSCHAFTEN:
+
+Rüstungsklasse: +3
+ETW0: +2
+Schaden: 1W10+2 (Hiebwaffe)
+Gewicht: 19
+Initiativefaktor: 9
+Waffenfertigkeit: Zweihänder
+Mindeststärke: 14
+
+Kann nicht verwendet werden von:
+Dieben
+Priestern
+Magiern
+Druiden~
+@73   = ~Dolch des Horrors +3~
+@74   = ~Einige Diebe sind sadistisch veranlagt. Sie wollen ihre Opfer nicht nur mit dem Schmerz, den ein Dolch verursachen kann, ängstigen. Sie wollen, dass sie den blanken Horror erfahren! Sie wollen den Horror und den Schmerz in den Augen ihrer Opfer sehen, während sie diese langsam zu Tode quälen. Dieser Dolch wurde für solch einen Dieb angefertigt, doch sein Name geriet in Vergessenheit.
+
+SPEZIELLE EIGENSCHAFTEN:
+
+50%ige Chance, dass das getroffene Ziel für die nächsten 45 Sekunden von Horror betroffen wird (wenn der Rettungswurf misslingt).
+ETW0: +3
+Schaden: 1W4+3 (Stichwaffe)
+Gewicht: 0
+Initiativefaktor: 0
+Waffenfertigkeit: Dolch
+Typ: 1-händig
+Mindeststärke: 3
+
+Kann verwendet werden von:
+Dieben~
+@75   = ~Stiefel der Elemente~
+@76   = ~Vor langer Zeit fertigte ein böser Zauberer aus dem Blut verschiedener Dryaden ein Elixier. Nachdem der Zauberer die Macht dieser seltenen Elementargeister in dieses Elixier bannen konnte, ist jedes Objekt, das damit in Kontakt kommt, mit den Vorzügen dieses Elixiers ausgestattet. Die Stiefel der Elemente sind ohne Zweifel ein nützliches Instrument, aber wollt Ihr solch ein Objekt, das mit unglaublicher Grausamkeit hergestellt wurde, wirklich tragen?
+
+SPEZIELLE EIGENSCHAFTEN:
+
+Resistenz gegen die Elemente: +25%~
+@77   = ~Amulett des Feuerschutzes~
+@78   = ~Der Träger dieses Amuletts ist unempfindlich gegen Feuerschaden.
+
+SPEZIELLE EIGENSCHAFTEN:
+
+Feuerresistenz: 100%~
+@79   = ~Schutzamulett gegen Elektrizität~
+@80   = ~Der Träger dieses Amuletts ist unempfindlich gegen Elektrizität.
+
+SPEZIELLE EIGENSCHAFTEN:
+
+Elektrizitätsresistenz: 100%~
+@81   = ~Umhang des Meuchelmörders~
+@82   = ~Dieser wundervolle Umhang wurde für Diebe gemacht, besonders für Meuchelmörder.
+
+SPEZIELLE EIGENSCHAFTEN:
+
+Dieser Umhang macht den Träger immun, von magischen Gegenständen oder Sprüchen entdeckt zu werden.
+Immunität gegen Bezauberung
+Im Schatten verstecken: +50%
+Unsichtbarkeit einmal am Tag
+
+Kann verwendet werden von:
+Dieben~
+@83   = ~Schleuder des Halblings +3~
+@84   = ~Wenn man durch die westlichen Herzlande reist, dann ist es leicht, auf einen der Halblinge von Gullykin zu treffen. Er wird Euch von der Gastfreundschaft dieser kleinen Leute erzählen und wie gut eine Tabakspfeife schmecken kann. Aber er wird auch mit Stolz erzählen, dass niemand so gut mit der Schleuder umgehen kann wie die Halblinge! Die wenigen Halblinge, die Abenteurer geworden sind und sich entschlossen haben, ihr friedliches Heim zu verlassen, verzaubern ihre Schleudern oft... Ein klares Zeichen ihres Stolzes und ihrer Stärke!
+
+SPEZIELLE EIGENSCHAFTEN:
+
+Der Träger ist vor Furcht geschützt
+Schaden: +3
+ETW0: +5
++100% maximale Reichweite
+Initiativefaktor: 6
+Waffenfertigkeit: Schleuder~
+@85   = ~Ring der Elemente +2~
+@86   = ~In vielen Büchern kann man viele Verweise auf den Ring der Elemente finden. In sehr alten Büchern und legendären Bänden, die so legendär wie dieses Objekt sind. Es wird gemunkelt, dass dieser Ring sich durch seinen eigenen Willen selbst erschaffen hat. Er unterstützte einen mächtigen Druiden im Kampf gegen die bösen Mächte in einer Zeit des Chaos.
+
+SPEZIELLE EIGENSCHAFTEN:
+
+Resistenz gegen Feuer, Elektrizität, Säure und Kälte: + 50%
+Rüstungsklasse: +2 Bonus
+Stärke: +2~
+@87   = ~Das Buch der Toten~
+@88   = ~Das Buch der Toten... Viele Abenteurer haben ihr ganzes Leben damit verbracht, nach diesem Buch zu suchen. Derjenige, der es komplett entziffern kann, wird solche Macht erlangen, dass sie den Göttern gleich kommt. Das Buch der Toten hat abertausende von Seiten. Liest man eine Seite davon, wird ein Zauberspruch generiert, einer überraschender als der andere. Ihr beginnt zu verstehen, dass nur eine sorgfältige und vorsichtige Analyse des Buches seine Macht ohne Gefahren offenbaren wird. Im Moment ist es wohl besser, nur die bekannten und normalen Sprüche daraus anzuwenden...
+
+SPEZIELLE EIGENSCHAFTEN:
+
+Auferstehung kann einmal am Tag gesprochen werden.
+
+Kann verwendet werden von:
+Priestern~
+@89   = ~Windkugel~
+@90   = ~Auf der Oberfläche der Kugel ist ein kleiner Knopf zu finden. Wenn man ihn kurz drückt, spürt man eine leichte Brise. Hält man den Knopf gedrückt, beginnt die Luft schneller zu zirkulieren und verursacht einen starken Wind.
+
+SPEZIELLE EIGENSCHAFTEN:
+Kann einmal am Tag "Bereich der frischen Luft" erzeugen.~
+@91   = ~Amulett der Heilung~
+@92   = ~Auch wenn der Priester, der dieses Amulett trägt, sich entschieden hat, keine Heilungssprüche zu erlernen, ist er mit diesem Amulett in der Lage, verschiedenste Wunden zu heilen.
+
+SPEZIELLE EIGENSCHAFTEN:
+
+Schwere Wunden heilen dreimal am Tag
+Kritische Wunden heilen einmal am Tag
+Heilung einmal am Tag
+Massenheilung einmal pro Tag~
+@93   = ~Ring der Antimagie +1~
+@94   = ~Der Ring der Antimagie ist teilweise ein gewöhnlicher Schutzring +1, aber er ist zusätzlich begrenzt in der Lage, den Träger vor den Auswirkungen der Magie komplett zu schützen.
+
+SPEZIELLE EIGENSCHAFTEN:
+
+Rüstungsklassen und Rettungswurf Bonus: +1
+6 Ladungen: Immunität gegen Magie für 60 Sekunden~
+@95   = ~Stab des Strafegerichts +1~
+@96   = ~Manchmal ist es besser, sein Leben dem Willen der Götter anzuvertrauen. Aber wie können Sterbliche den Willen der Götter erfahren? Nichts einfacher als das! Ruft die Macht dieses Stabes an und Ihr werdet sehen, wer die Auswirkungen der "Todeswolke" überlebt und den Göttern wohl gesonnen ist!
+
+SPEZIELLE EIGENSCHAFTEN:
+
+Kann einmal am Tag "Todeswolke" erschaffen
+ETW0: +1
+Schaden: 1W6+1 (Stabwaffe)
+Gewicht: 3
+Initiativefaktor: 1
+Waffenfertigkeit: Kampfstäbe~
+@97   = ~Jüngere Schwester +2~
+@98   = ~Dieses Schwert gehört zu einem Set von zwei Bastardschwertern. Die jüngere Schwester, so wird diese Klinge genannt, kann ihre ältere Schwester für begrenzte Zeit herbeirufen.
+
+SPEZIELLE EIGENSCHAFTEN:
+
+Kann dreimal am Tag für 60 Sekunden die ältere Schwester +5 herbeirufen
+ETW0: +2
+Schaden: 2W4+2 (Hiebwaffe)
+Gewicht: 7
+Initiativefaktor: 5
+Waffenfertigkeit: Bastardschwert
+Benötigt: Stärke 11
+
+Kann verwendet werden von:
+Kriegern~
+@99   = ~Bastardschwert +5~
+@100  = ~Mondstein~
+@101  = ~Man kann kein Werwolf werden, indem man den Mond einfach anheult. Aber mit diesem Stein habt Ihr die Macht der Lykanthropen zu Eurer Verfügung.
+
+SPEZIELLE EIGENSCHAFTEN:
+
+Einmal am Tag: Transformation in einen Werwolf für 120 Sekunden.~
+@102  = ~Dämonenritter herbeirufen~
+@103  = ~Dieser Spruch ähnelt dem bekannten "Dämon herbeirufen". Jedoch besteht hier ein gewisser Unterschied. Anstatt eines kleinen Dämonen steht ein Dämonenritter unter Eurem Kommando!
+
+SPEZIELLE EIGENSCHAFTEN:
+
+Einmal am Tag für 120 Sekunden "Dämonenritter herbeirufen"
+
+Kann verwendet werden von:
+Zauberern~
+@104  = ~Dämonenritter herbeirufen~
