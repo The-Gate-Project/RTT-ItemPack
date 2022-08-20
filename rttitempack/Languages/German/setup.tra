@@ -1,3 +1,6 @@
+@9001 =~[Kk]ann[ %tab%]+[Nn]ur[ %tab%]+[Vv]erwendet[ %tab%]+[Ww]erden[ %tab%]+[Vv]on[ %tab%]*:~
+@9002 =~[Kk]ann[ %tab%]+[Nn]icht[ %tab%]+[Vv]erwendet[ %tab%]+[Ww]erden[ %tab%]+[Vv]on[ %tab%]*:~
+
 @0    = ~Das RTT Gegenstaende Pack installieren?
 **Die Gegenstaende werden zu Ribalds speziellen Gegenstaenden
 (Abenteurer Markt, Waukeen's Promenade) nach der Zauberfeste hinzugefuegt.**~
