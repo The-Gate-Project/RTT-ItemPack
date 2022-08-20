@@ -32,3 +32,7 @@ Version 1.2 (14 December 2009 by Leomar)
 - Updated French translation by SkipCool
 - Added README command
 - Updated to WeiDU v212
+
+Version 1.3 (28 July 2099 by Deratiseur)
+- BG2EE compatibility
+- Updated to WeiDU v246

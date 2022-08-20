@@ -1,10 +1,25 @@
-BACKUP ~rttitempack\backup~
+BACKUP ~rttitempack/backup~
 
 AUTHOR ~al17 (rtt-mod@libero.it)~
 
 VERSION ~v1.2~
 
 README ~rttitempack/rttitempack-readme.txt~
+
+ALWAYS
+	ACTION_DEFINE_ARRAY rtt_reload BEGIN
+	~setup.tra~
+	END
+	ACTION_DEFINE_ARRAY rtt_noconvert BEGIN END
+	LAF HANDLE_CHARSETS
+		INT_VAR
+		infer_charset = 1
+		STR_VAR
+		tra_path = EVAL ~%MOD_FOLDER%/Languages~
+		noconvert_array = rtt_noconvert
+		reload_array = rtt_reload
+	END
+END
 
 AUTO_TRA ~rttitempack/Languages/%s~
 
@@ -26,6 +41,8 @@ LANGUAGE ~Deutsch (Uebersetzung von Gerri)~
 
 BEGIN @0
 
+INCLUDE ~rttitempack/GW_BGEE.tpa~
+
 // add items, spells and effs
 
 COPY ~rttitempack/files/RTT001.ITM~                ~override/RTT001.ITM~         
@@ -34,187 +51,188 @@ COPY ~rttitempack/files/RTT001.ITM~                ~override/RTT001.ITM~
 
 COPY ~rttitempack/files/RTT002.ITM~                ~override/RTT002.ITM~         
   SAY NAME2 @3 
-  SAY DESC @4 
+  LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@4" END
 
 COPY ~rttitempack/files/RTT003.ITM~                ~override/RTT003.ITM~       
   SAY NAME2 @5 
-  SAY DESC @6 
+  LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@6" END
 
 COPY ~rttitempack/files/RTT004.ITM~                ~override/RTT004.ITM~         
   SAY NAME2 @7 
-  SAY DESC @8 
+  LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@8" END
 
 COPY ~rttitempack/files/RTT005.ITM~                ~override/RTT005.ITM~         
   SAY NAME2 @9 
-  SAY DESC @10 
+  LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@10" END
 
 COPY ~rttitempack/files/RTT006.ITM~                ~override/RTT006.ITM~         
   SAY NAME2 @11 
-  SAY DESC @12 
+  LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@12" END
 
 COPY ~rttitempack/files/RTT007.ITM~                ~override/RTT007.ITM~         
   SAY NAME2 @13 
-  SAY DESC @14 
+  LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@14" END
 
 COPY ~rttitempack/files/RTT008.ITM~                ~override/RTT008.ITM~         
   SAY NAME2 @15 
-  SAY DESC @16 
+  LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@16" END
 
 COPY ~rttitempack/files/RTT009.ITM~                ~override/RTT009.ITM~        
   SAY NAME2 @17 
-  SAY DESC @18 
+  LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@18" END
 
 COPY ~rttitempack/files/RTT010.ITM~                ~override/RTT010.ITM~         
   SAY NAME2 @19 
-  SAY DESC @20 
+  LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@20" END
 
 COPY ~rttitempack/files/RTT011.ITM~                ~override/RTT011.ITM~         
   SAY NAME2 @21 
-  SAY DESC @22 
+  LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@22" END
 
 COPY ~rttitempack/files/RTT012.ITM~                ~override/RTT012.ITM~         
   SAY NAME2 @23 
-  SAY DESC @24 
+  LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@24" END
 
 COPY ~rttitempack/files/RTT013.ITM~                ~override/RTT013.ITM~         
   SAY NAME2 @25 
-  SAY DESC @26 
+  LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@26" END
 
 COPY ~rttitempack/files/RTT014.ITM~                ~override/RTT014.ITM~         
   SAY NAME2 @27 
-  SAY DESC @28 
+  LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@28" END
 
 COPY ~rttitempack/files/RTT015.ITM~               ~override/RTT015.ITM~         
   SAY NAME2 @29 
-  SAY DESC @30 
+  LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@30" END
 
 COPY ~rttitempack/files/RTT016.ITM~                ~override/RTT016.ITM~         
   SAY NAME2 @31 
-  SAY DESC @32 
+  LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@32" END
 
 COPY ~rttitempack/files/RTT017.ITM~                ~override/RTT017.ITM~         
   SAY NAME2 @33 
-  SAY DESC @34 
+  LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@34" END
 
 COPY ~rttitempack/files/RTT018.ITM~                ~override/RTT018.ITM~        
   SAY NAME2 @35 
-  SAY DESC @36 
+  LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@36" END
 
 COPY ~rttitempack/files/RTT019.ITM~                ~override/RTT019.ITM~      
   SAY NAME2 @37 
-  SAY DESC @38 
+  LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@38" END
 
 COPY ~rttitempack/files/RTT020.ITM~                ~override/RTT020.ITM~         
   SAY NAME2 @39 
-  SAY DESC @40 
+  LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@40" END
 
 COPY ~rttitempack/files/RTT021.ITM~               ~override/RTT021.ITM~         
   SAY NAME2 @41 
-  SAY DESC @42 
+  LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@42" END
 
 COPY ~rttitempack/files/RTT022.ITM~               ~override/RTT022.ITM~         
   SAY NAME2 @43 
-  SAY DESC @44 
+  LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@44" END
 
 COPY ~rttitempack/files/RTT023.ITM~               ~override/RTT023.ITM~         
   SAY NAME2 @45 
-  SAY DESC @46 
+  LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@46" END
 
 COPY ~rttitempack/files/RTT024.ITM~               ~override/RTT024.ITM~         
   SAY NAME2 @47 
-  SAY DESC @48 
+  LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@48" END
 
 COPY ~rttitempack/files/RTT025.ITM~               ~override/RTT025.ITM~         
   SAY NAME2 @49 
-  SAY DESC @50 
+  LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@50" END
 
 COPY ~rttitempack/files/RTT026.ITM~               ~override/RTT026.ITM~         
   SAY NAME2 @51 
-  SAY DESC @52 
+  LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@52" END
 
 COPY ~rttitempack/files/RTT027.ITM~               ~override/RTT027.ITM~         
   SAY NAME2 @53 
-  SAY DESC @54 
+  LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@54" END
 
 COPY ~rttitempack/files/RTT028.ITM~               ~override/RTT028.ITM~         
   SAY NAME2 @55 
-  SAY DESC @56 
+  LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@56" END
 
 COPY ~rttitempack/files/RTT029.ITM~               ~override/RTT029.ITM~         
   SAY NAME2 @57 
-  SAY DESC @58 
+  LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@58" END
 
 COPY ~rttitempack/files/RTT030.ITM~               ~override/RTT030.ITM~         
   SAY NAME2 @59 
-  SAY DESC @60 
+  LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@60" END
 
 COPY ~rttitempack/files/RTT031.ITM~               ~override/RTT031.ITM~         
   SAY NAME2 @61 
-  SAY DESC @62 
+  LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@62" END
 
 COPY ~rttitempack/files/RTT032.ITM~               ~override/RTT032.ITM~         
   SAY NAME2 @63 
-  SAY DESC @64 
+  LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@64" END
 
 COPY ~rttitempack/files/RTT033.ITM~               ~override/RTT033.ITM~         
   SAY NAME2 @65 
-  SAY DESC @66 
+  LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@66" END
 
 COPY ~rttitempack/files/RTT034.ITM~               ~override/RTT034.ITM~         
   SAY NAME2 @67 
-  SAY DESC @68 
+  LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@68" END
 
 COPY ~rttitempack/files/RTT035.ITM~               ~override/RTT035.ITM~         
   SAY NAME2 @69 
-  SAY DESC @70 
+  LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@70" END
 
 COPY ~rttitempack/files/RTT036.ITM~               ~override/RTT036.ITM~         
   SAY NAME2 @71 
-  SAY DESC @72 
+  LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@72" END
 
 COPY ~rttitempack/files/RTT037.ITM~               ~override/RTT037.ITM~         
   SAY NAME2 @73 
-  SAY DESC @74 
+  LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@74" END
 
 COPY ~rttitempack/files/RTT038.ITM~               ~override/RTT038.ITM~         
   SAY NAME2 @75 
-  SAY DESC @76 
+  LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@76" END
 
 COPY ~rttitempack/files/RTT039.ITM~               ~override/RTT039.ITM~         
   SAY NAME2 @77 
-  SAY DESC @78 
+  LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@78" END
 
 COPY ~rttitempack/files/RTT040.ITM~               ~override/RTT040.ITM~         
   SAY NAME2 @79 
-  SAY DESC @80 
+  LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@80" END
 
 COPY ~rttitempack/files/RTT041.ITM~               ~override/RTT041.ITM~         
   SAY NAME2 @81 
-  SAY DESC @82 
+  LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@82" END
 
 COPY ~rttitempack/files/RTT042.ITM~               ~override/RTT042.ITM~         
   SAY NAME2 @83 
-  SAY DESC @84 
-
+  LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@84" END
+  COPY ~rttitempack/files/RodSling.BAM~           ~override/RodSling.BAM~ 
+  
 COPY ~rttitempack/files/RTT043.ITM~               ~override/RTT043.ITM~         
   SAY NAME2 @85 
-  SAY DESC @86 
+  LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@86" END
 
 COPY ~rttitempack/files/RTT044.ITM~               ~override/RTT044.ITM~         
   SAY NAME2 @87 
-  SAY DESC @88 
+  LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@88" END
 
 COPY ~rttitempack/files/RTT044.SPL~               ~override/RTT044.SPL~         
 
 COPY ~rttitempack/files/RTT045.ITM~               ~override/RTT045.ITM~         
   SAY NAME2 @89 
-  SAY DESC @90 
+  LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@90" END
 
 COPY ~rttitempack/files/RTT045.SPL~               ~override/RTT045.SPL~         
 
 COPY ~rttitempack/files/RTT046.ITM~               ~override/RTT046.ITM~         
   SAY NAME2 @91 
-  SAY DESC @92 
+  LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@92" END
 
 COPY ~rttitempack/files/RTT046A.SPL~              ~override/RTT046A.SPL~        
 
@@ -224,30 +242,30 @@ COPY ~rttitempack/files/RTT046C.SPL~              ~override/RTT046C.SPL~
 
 COPY ~rttitempack/files/RTT047.ITM~               ~override/RTT047.ITM~         
   SAY NAME2 @93 
-  SAY DESC @94 
+  LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@94" END
 
 COPY ~rttitempack/files/RTT047.SPL~               ~override/RTT047.SPL~         
 
 COPY ~rttitempack/files/RTT048.ITM~               ~override/RTT048.ITM~         
   SAY NAME2 @95 
-  SAY DESC @96 
+  LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@96" END
 
 COPY ~rttitempack/files/RTT048.SPL~               ~override/RTT048.SPL~         
 
 COPY ~rttitempack/files/RTT049.ITM~               ~override/RTT049.ITM~         
   SAY NAME2 @97 
-  SAY DESC @98 
+  LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@98" END
 
 COPY ~rttitempack/files/RTT049.SPL~               ~override/RTT049.SPL~         
   SAY NAME2 @99 
 
 COPY ~rttitempack/files/RTT049A.ITM~              ~override/RTT049A.ITM~        
   SAY NAME2 @99 
-  SAY DESC @99 
+  LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@99" END
 
 COPY ~rttitempack/files/RTT050.ITM~               ~override/RTT050.ITM~         
   SAY NAME2 @100 
-  SAY DESC @101 
+  LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@101" END
 
 COPY ~rttitempack/files/RTT050.SPL~               ~override/RTT050.SPL~         
   SAY NAME2 @100 
@@ -258,7 +276,7 @@ COPY ~rttitempack/files/RTT051.EFF~               ~override/RTT051.EFF~
 
 COPY ~rttitempack/files/RTT051.ITM~               ~override/RTT051.ITM~         
   SAY NAME2 @102 
-  SAY DESC @103 
+  LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@103" END
 
 COPY ~rttitempack/files/RTT051.SPL~               ~override/RTT051.SPL~         
   SAY NAME2 @104 

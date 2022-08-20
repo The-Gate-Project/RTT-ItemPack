@@ -1,3 +1,6 @@
+@9001 = ~[Oo]nly[ %tab%]+[Uu]sable[ %tab%]+[Bb]y[ %tab%]*:~
+@9002 = ~\(Not[ %tab%]+\|Un\)[Uu]sable[ %tab%]+[Bb]y[ %tab%]*:~
+
 @0    = ~Install RTT Item Pack? **The items are added to the "special" store of Ribald (Adventure's Mart, Waukeen's Promenade) available after SpellHold.**~
 @1    = ~Amulet of Life~
 @2    = ~Whoever wears this amulet will be protected from the life draining effects of vampires and certain other undead. (Though it is suggested that the amulet be combined with the standard garlic necklace...)
@@ -108,7 +111,7 @@ Dexterity Bonus: +2
 STATISTICS:
 Strength: +2
 Dexterity: +2
-Useable by:
+Only Usable by:
 Evil alignments only~
 @25   = ~Dryad's cloak~
 @26   = ~There are some strange inside the cloack. Ribald say a dryad give this object to him many years ago.
@@ -172,8 +175,8 @@ Thieves~
 STATISTICS:
 Haste
 Protection from Time-stop
-Strength: +5
-Usable by:
+Saving Throws: +5
+Only Usable by:
 Characters with intelligence higher than 15~
 @35   = ~Bracers of the Mephit~
 @36   = ~Ribald affirms a mephit gave him these bracers because he managed to answer its riddles. But it seems to be reluctant to continue the story..
@@ -193,7 +196,7 @@ Speed factor: 4
 Proficiency Type: Morning Star
 Type of weapon: one handed
 Requires: 13 strength
-Not useable by:
+Not usable by:
 Druid
 Wizard
 Thief~
@@ -204,7 +207,7 @@ STATISTICS:
 AC: +4
 Special: no protection from ranged weapons
 Weight: 2
-Not useable by:
+Not usable by:
 Bard,
 Druid,
 Wizard,
@@ -220,7 +223,7 @@ Damage type: slashing
 Weight: 15
 Speed Factor: 6
 Proficiency Type: Two handed sword
-Not useable by:
+Not usable by:
 Druid
 Priest
 Wizard
@@ -255,7 +258,7 @@ Greater Restoration~
 STATISTICS:
 +10% to Open Locks, Set Traps, Find/Remove Traps, and Pick Pocket 
 Weight: 2 
-Useable by:
+Only Usable by:
 Thief~
 @51   = ~Superior Thief's Tools~
 @52   = ~These tools are particularly light and resilient. Without doubt they will make the work of a thief that much easier!
@@ -263,7 +266,7 @@ Thief~
 STATISTICS:
 +20% to Open Locks, Set Traps, Find/Remove Traps, and Pick Pocket 
 Weight: 2 
-Useable by:
+Only Usable by:
 Thief~
 @53   = ~Night Cloak~
 @54   = ~This cloak will give you the sight of an elf! At least during the night...
@@ -284,7 +287,7 @@ All Statistics: +1
 AC: 0
 Weight: 45
 Requires: 15 strength
-Not useable by:
+Not usable by:
 Bards
 Druids
 Wizards
@@ -298,7 +301,7 @@ Dexterity: -2
 AC: 2
 Weight: 25
 Requires: 16 Constitution
-Not useable by:
+Not usable by:
 Bards
 Druids
 Wizards
@@ -312,7 +315,7 @@ Dexterity: -1
 Special: Protection against critical hits
 Weight: 2
 Requires: Strength and Constitution: 14
-Useable by:
+Only Usable by:
 Warriors~
 @63   = ~Wooden Sword~
 @64   = ~The blade of this sword is formed from a very hard piece of wood. Because of that, those struck by it are bludgeoned, rather than cut. Other than that, the sword functions as a normal two handed sword.
@@ -324,7 +327,7 @@ Weight: 9
 Speed Factor: 7
 Proficiency: Two Handed Sword
 Requires: 6 strength
-Not useable by:
+Not usable by:
 Druids
 Priests
 Wizards
@@ -341,7 +344,7 @@ Weight: 7
 Speed Factor: 4
 Proficiency: Axe
 Requires: 16 strength
-Not useable by:
+Not usable by:
 non-dwarves
 Druids
 Priests
@@ -359,7 +362,7 @@ Weight: 10
 Speed Factor: 8
 Proficiency: Two Handed Sword
 Requires: 14 Strength
-Not useable by:
+Not usable by:
 Druids
 Priests
 Wizards
@@ -375,7 +378,7 @@ Weight: 3
 Speed Factor: 2
 Proficiency Type: Scimitar/Wakizashi/Ninja-To
 Requires: 10 Strength
-Not useable by:
+Not usable by:
 Thieves
 Priests
 Wizards~
@@ -391,7 +394,7 @@ Weight: 19
 Speed Factor: 9
 Proficiency Type: Two Handed Sword
 Requires: 14 Strength
-Not useable by:
+Not usable by:
 Thieves
 Priests
 Wizards
@@ -409,7 +412,7 @@ Speed Factor: 0
 Proficiency: dagger
 Type: 1 hand
 Requires: 3 strength
-Useable by:
+Only Usable by:
 thief~
 @75   = ~Elemental Boots~
 @76   = ~A long time ago, an evil wizard made a potion using the blood of an ice nymph, a fire nymph, an acid nymph, and a thunder nymph. After the wizard had harnessed the power of these rare elemental spirits, any object this bloody potion contacted acquired great power, granting the possessor protection against the elements. The Elemental Boots are without doubt very useful, but are you disposed to wear an object made by such incredible cruelty?
@@ -434,7 +437,7 @@ This mantle makes the wearer immune to location by magical items or spells.
 Charm Immunity
 Hide in Shadows: +50%
 Cast Invisibility once a day
-Useable by:
+Only Usable by:
 Thieves~
 @83   = ~Halfling Sling +3~
 @84   = ~Travelling in the western heartlands it's easy to meet one of the halflings of Gullykin; he will speak to you of the hospitality of his little people and about the happiness of smoking a good pipe. But he will say with pride that no-one can throw stones as a halfling can! The few halfling adventurers, those who leave their peaceful homes, will often enchant their slings... a clear sign of pride and strength!
@@ -459,7 +462,7 @@ Strength: +2
 
 STATISTICS:
 Cast Resurrection once per day
-Useable by:
+Only Usable by:
 Priest~
 @89   = ~Wind Sphere~
 @90   = ~You discover a tiny button on the sphere. When you press it, a light breeze grazes your face. Holding the button down causes the air to flow more rapidly causing quite a strong wind, sweeping away the dust from around you.
@@ -503,7 +506,7 @@ Weight: 7
 Speed Factor: 5
 Proficiency: Bastard Sword
 Requires: 11 Strength
-Useable by:
+Only Usable by:
 Warriors~
 @99   = ~Bastard Sword +5~
 @100  = ~Lunar Stone~
@@ -516,6 +519,6 @@ Once a day: Transform into a werewolf for 120 seconds.~
 of a Pit Fiend, you will have a Demon Knight at your command!
 STATISTICS:
 Once a day "Summon Demon Knight" for 120 seconds 
-Useable by:
+Only Usable by:
 wizard~
 @104  = ~Summon Demon Knight~
