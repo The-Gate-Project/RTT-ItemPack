@@ -41,3 +41,5 @@ Version 1.4 (January 2024)
 - Correction for Italian and german that was not able to be installed
 - Updated to WeiDU v249
 - Correction for descriptions
+- Metadata / Label  
+- InfinityAutoPackager

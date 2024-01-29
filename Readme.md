@@ -2,7 +2,7 @@
 
 ![Language](https://img.shields.io/static/v1?label=language&message=%20%7C%20english%20%7C%20french%20%7C%20german%20%7C%20italian%20%7C%20&color=informational)
 
-**Autor** : **al47**
+**Autor** : **al47** (**al17**)
 
 [Link to original Mod Forum](http://www.shsforums.net/index.php?showtopic=15702)
 
@@ -13,8 +13,7 @@ For Baldur's Gate 2, BG2: EE, BGT and the Enhanced Edition Trilogy (EET).
 ## Description:
 ------------
 
-If the "special" store of Ribald (Adventure's Mart, Waukeen Promenade, after Spellhold) isn't enough for you,
-expand it with 51 new magic items!
+If the "special" store of Ribald (Adventure's Mart, Waukeen Promenade, after Spellhold) isn't enough for you, expand it with 51 new magic items!
 
 
 ## Install:
@@ -56,3 +55,5 @@ Version 1.4 (January 2024)
 - Correction for Italian and german that was not able to be installed  
 - Updated to WeiDU v249  
 - Correction for descriptions  
+- Metadata / Label  
+- InfinityAutoPackager
