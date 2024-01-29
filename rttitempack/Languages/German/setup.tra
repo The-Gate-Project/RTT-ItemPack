@@ -221,8 +221,7 @@ Dieben~
 
 SPEZIELLE EIGENSCHAFTEN:
 
-Rüstungsklasse: +4
-Speziell: Kein Schutz vor Fernkampfwaffen
+Rüstungsklasse: +4 (+2 vor Fernkampfwaffen)
 Gewicht: 2
 
 Kann nicht verwendet werden von:
@@ -236,7 +235,7 @@ Dieben~
 SPEZIELLE EIGENSCHAFTEN:
 
 50%ige Chance, dass das Ziel 1W10 magischen Schaden erleidet (wenn der Rettungswurf gegen Sprüche misslingt)
-50%ige Chance, dass das Ziel eine Stufe verliert (wenn der Rettungswurf gegen Todesmagie misslingt)
+5%ige Chance, dass das Ziel eine Stufe verliert (wenn der Rettungswurf gegen Todesmagie misslingt)
 Schaden: 1W10+2 (Hiebwaffe)
 Gewicht: 15
 Initiativefaktor: 6
@@ -500,7 +499,7 @@ SPEZIELLE EIGENSCHAFTEN:
 
 Resistenz gegen Feuer, Elektrizität, Säure und Kälte: + 50%
 Rüstungsklasse: +2 Bonus
-Stärke: +2~
+Rettungswurf Bonus: +2~
 @87   = ~Das Buch der Toten~
 @88   = ~Das Buch der Toten... Viele Abenteurer haben ihr ganzes Leben damit verbracht, nach diesem Buch zu suchen. Derjenige, der es komplett entziffern kann, wird solche Macht erlangen, dass sie den Göttern gleich kommt. Das Buch der Toten hat abertausende von Seiten. Liest man eine Seite davon, wird ein Zauberspruch generiert, einer überraschender als der andere. Ihr beginnt zu verstehen, dass nur eine sorgfältige und vorsichtige Analyse des Buches seine Macht ohne Gefahren offenbaren wird. Im Moment ist es wohl besser, nur die bekannten und normalen Sprüche daraus anzuwenden...
 

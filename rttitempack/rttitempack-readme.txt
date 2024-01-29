@@ -37,6 +37,7 @@ Version 1.3 (28 July 2019 by Deratiseur)
 - BG2EE compatibility
 - Updated to WeiDU v246
 
-Version 1.4 (21 August 2022)
-- EET compatibility
+Version 1.4 (January 2024)
+- Correction for Italian and german that was not able to be installed
 - Updated to WeiDU v249
+- Correction for descriptions

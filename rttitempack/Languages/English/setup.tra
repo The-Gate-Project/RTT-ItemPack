@@ -204,8 +204,7 @@ Thief~
 @40   = ~Small Shield +3... There are few objects as powerful as this! Without doubt you've done (or you are going to do) a good trade!
 
 STATISTICS:
-AC: +4
-Special: no protection from ranged weapons
+AC: +4 (+2 from ranged weapons)
 Weight: 2
 Not usable by:
 Bard,
@@ -217,7 +216,7 @@ Thief~
 
 STATISTICS:
 50% chance the target will take 1d10 magic damage (if a save vs. Spell is failed)
-50% chance the target will be drained of one level (if a save vs. Death Magic is failed)
+5% chance the target will be drained of one level (if a save vs. Death Magic is failed)
 Damage: 1d10+2
 Damage type: slashing
 Weight: 15
@@ -455,7 +454,7 @@ Proficiency Type: sling~
 STATISTICS:
 Fire, Lightning, Acid and Cold Resistence: + 50%
 AC: +2 Bonus
-Strength: +2
+Saving throw: +2
 ~
 @87   = ~The Book of the Dead~
 @88   = ~The Book of the Dead... many adventurers have spent their lives looking for this tome. It's said that whoever is successful in deciphering its mysteries will gain such power as to rival the gods. The Book of the Dead has thousands upon thousands of pages, each one, if read, will cast a spell, each more surprising than the last. But you also understand that only a careful analysis of all the words of the book will let you use its full powers without danger. For now, it's better to limit yourself to cast the more "common" and "banal" spells of the book...

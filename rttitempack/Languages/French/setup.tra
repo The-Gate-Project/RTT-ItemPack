@@ -9,19 +9,19 @@ PARAMETRES :
 
 Spécial : le porteur est immunisé contre le drain de niveau~
 @3   = ~Larme de démon cristallisée~
-@4   = ~Les démons ont-ils un "coeur" ? Peuvent-ils ressentir des émotions ? Si vous en doutiez, cet objet vous prouvera le contraire ! On dit qu'il y a bien longtemps, les démons étaient de simples hommes qui, du fait d'une grande peine, ne trouvaient comme unique réconfort que d'infliger la souffrance aux autres personnes. Pour eux, s'ils se sentaient mal, il n'y avait aucune raison que les autres ne le ressentent pas aussi. Cette haine les aurait corrompus jusqu'à les transformer en démons. Parfois, certains d'entre eux se remémorent le temps jadis et heureux où ils étaient comme les autres. Ils versent alors une larme de nostalgie ...
+@4   = ~Les démons ont-ils un « coeur » ? Peuvent-ils ressentir des émotions ? Si vous en doutiez, cet objet vous prouvera le contraire ! On dit qu'il y a bien longtemps, les démons étaient de simples hommes qui, du fait d'une grande peine, ne trouvaient comme unique réconfort que d'infliger la souffrance aux autres personnes. Pour eux, s'ils se sentaient mal, il n'y avait aucune raison que les autres ne le ressentent pas aussi. Cette haine les aurait corrompus jusqu'à les transformer en démons. Parfois, certains d'entre eux se remémorent le temps jadis et heureux où ils étaient comme les autres. Ils versent alors une larme de nostalgie ...
 
 PARAMETRES :
 
 Sagesse : +2
-Résistance au froid : +30%~
+Résistance au froid : +30 %~
 @5   = ~Anneau du roi Strohm~
 @6   = ~Une ancienne légende raconte que le roi Strohm de Lancevent se transforma en liche peu après sa mort. Le pouvoir de cette liche devait être immense pour réussir à façonner un tel anneau. Un anneau de ce genre vaut bien des vies, ou du moins quelques milliers de pièces d'or.
 
 PARAMETRES :
 
-Bonus aux Points de vie : +25%
-Résistance à la magie : +25%
+Bonus aux Points de vie : +25 %
+Résistance à la magie : +25 %
 Classe d'Armure : bonus de 4
 Jets de sauvegarde : +4
 Intelligence : +2
@@ -64,7 +64,7 @@ PARAMETRES :
 
 La constitution du porteur passe à 20~
 @13  = ~Armure de plates complètes élaborée d'Elfe noire +5~
-@14  = ~Les elfes noirs de l'Ombre-Terre utilisent des armures très résistantes, forgées dans un matériau qui tombe malheureusement en poussière s'il est exposé à la lumière du jour. Cette armure d'elfe noir a été recouverte d'une fine couche d'un matériau que vous ne reconnaissez pas, probablement d'origine magique, qui lui permet de résister aux rayons du soleil. Malheureusement, le poids de cette armure est très imposant et seul un guerrier doté d'une grande force s’avèrera capable de s’en équiper.
+@14  = ~Les elfes noirs de l'Ombre-Terre utilisent des armures très résistantes, forgées dans un matériau qui tombe malheureusement en poussière s'il est exposé à la lumière du jour. Cette armure d'elfe noir a été recouverte d'une fine couche d'un matériau que vous ne reconnaissez pas, probablement d'origine magique, qui lui permet de résister aux rayons du soleil. Malheureusement, le poids de cette armure est très imposant et seul un guerrier doté d'une grande force s’avérera capable de s’en équiper.
 
 PARAMETRES :
 
@@ -93,18 +93,18 @@ Non utilisable par :
  Voleur
  Autres races que nain, petite-personne, ou gnome.~
 @17  = ~Anneau de suprématie~
-@18  = ~Cet anneau est un peu le double de l’Anneau d'Influence Humaine. Il permet de lancer le sort "Charme extrême" et il octroie à son porteur un charisme de 19.
+@18  = ~Cet anneau est un peu le double de l’Anneau d'Influence Humaine. Il permet de lancer le sort « Domination » et il octroie à son porteur un charisme de 19.
 
 PARAMETRES :
 
-Lance une fois par jour "Charme extrême"
+Lance une fois par jour « Domination »
 Charisme porté à 19.~
 @19  = ~Heaume de duperie~
-@20  = ~Utiliser ce casque, spécialement au cours d'une fête, peut se révéler particulièrement amusant. La personne qui le porte est non seulement déguisée comme une momie, mais se retrouve capable de lancer un sort pouvant rendre une personne légèrement... idiote. Il est dit qu'une fois, la puissance de ce casque a été utilisée par un jeune garçon au cours d'une fête locale. Malheureusement pour lui, le garçon fut accusé d'être un magicien et de vouloir transformer tout le monde en zombie. En conséquence, il fut brulé vif.
+@20  = ~Utiliser ce casque, spécialement au cours d'une fête, peut se révéler particulièrement amusant. La personne qui le porte est non seulement déguisée comme une momie, mais se retrouve capable de lancer un sort pouvant rendre une personne légèrement... idiote. Il est dit qu'une fois, la puissance de ce casque a été utilisée par un jeune garçon au cours d'une fête locale. Malheureusement pour lui, le garçon fut accusé d'être un magicien et de vouloir transformer tout le monde en zombie. En conséquence, il fut brûlé vif.
 
 PARAMETRES :
 
-Spécial : lance "Obstination bornée" 2 fois par jour
+Spécial : lance « Obstination bornée » 2 fois par jour
 Poids : 2
 Non utilisable par :
  Mage
@@ -133,7 +133,7 @@ PARAMETRES :
 
 Spécial : 
  Charisme porté à 21
- 100% de résistance au froid~
+ 100 % de résistance au froid~
 @27  = ~Cape des merveilles~
 @28  = ~Cette cape semble avoir été tissée avec de grandes feuilles. Elle est d'une grande douceur au toucher, épousant parfaitement les épaules de son porteur, lui donnant une sensation de sécurité et de protection.
 
@@ -141,10 +141,10 @@ PARAMETRES :
 
 Classe d'Armure : bonus de 3
 Jets de sauvegarde : +3
-Spécial : -15% aux dégâts contondants, perforants et tranchants
+Spécial : 15 % aux dégâts contondants, perforants et tranchants
 Poids : 3~
 @29  = ~Lame druidique +2~
-@30  = ~Les cimeterres sont les seule armes affutées que les druides peuvent utiliser et celui-ci a été forgé spécialement pour eux. Jadis, cette lame druidique appartenait à un chef druidique qui vivait dans la forêt proche de Franc-Marché. Mais ce druide en vint à être séduit par les forces du mal et après sa mort, toutes traces de ce cimeterre furent perdues. Comment ce cimeterre a-t'il pu se retrouver dans les mains d'un marchand de Franc-Marché, reste un mystère.
+@30  = ~Les cimeterres sont les seule armes affûtées que les druides peuvent utiliser et celui-ci a été forgé spécialement pour eux. Jadis, cette lame druidique appartenait à un chef druidique qui vivait dans la forêt proche de Franc-Marché. Mais ce druide en vint à être séduit par les forces du mal et après sa mort, toutes traces de ce cimeterre furent perdues. Comment ce cimeterre a-t'il pu se retrouver dans les mains d'un marchand de Franc-Marché, reste un mystère.
 
 PARAMETRES :
 
@@ -168,7 +168,7 @@ Non utilisable par :
 PARAMETRES :
 
 Capacité spéciale :
-  50% de chance que la cible soit charmée pour 120 secondes à moins de réussir un jet de sauvegarde contre les sorts.
+  50 % de chance que la cible soit charmée pour 120 secondes à moins de réussir un jet de sauvegarde contre les sorts.
 
 TAC0 : +2
 Dégâts : 1D6 +3
@@ -201,7 +201,7 @@ PARAMETRES :
 
 Bonus à la Classe d'Armure : 4
 TAC0 : +5 (armes à projectiles uniquement)~
-@37  = ~Etoile du matin du roi Strohm +3~
+@37  = ~Étoile du matin du roi Strohm +3~
 @38  = ~On dit que le roi Strohm de Lancevent utilisa cette arme de son vivant mais aussi lorsqu’il était une liche mort-vivante. Il est très probable que ces on-dit aient quelque fond de vérité. Même si cette arme a été brièvement en contact avec la liche, elle a dû acquérir un grand pouvoir magique qui la rend dévastatrice. Du fait des pouvoirs résiduels de la liche, cette étoile du matin ne peut être utilisée que par un personnage d'alignement mauvais.
 
 PARAMETRES :
@@ -224,22 +224,21 @@ Non utilisable par :
 
 PARAMETRES :
 
-Classe d'Armure : bonus de 4
-Spécial : pas de protection contre les projectiles
+Classe d'Armure : bonus de 4 ( +2 contre les projectiles)
 Poids : 2
 Non utilisable par :
  Barde
  Druide
  Mage
  Voleur~
-@41  = ~Epée de Mordue +2~
+@41  = ~Épée de Mordue +2~
 @42  = ~La légende raconte qu'il y a bien longtemps cette épée appartenait à Mordue, l'un des plus effrayants barbare du nord. En brandissant cette épée, il conquît de nombreuses cités humaines, jusqu'à ce que l'âge le rattrape. Depuis lors, plus personne n'a utilisé l'épée de Mordue. Vous serez le premier depuis de nombreuses années.
 
 PARAMETRES :
 
 Capacités spéciales :
-  50% de chance que la cible subisse 1D10 points de dégâts magiques si un jet de sauvegarde contre les Sorts est raté
-  50% de chance de drainer un niveau à la cible si un jet de sauvegarde contre la Mort est raté
+  50 % de chance que la cible subisse 1D10 points de dégâts magiques si un jet de sauvegarde contre les Sorts est raté
+  5 % de chance de drainer un niveau à la cible si un jet de sauvegarde contre la Mort est raté
 
 Dégâts : 1D10 +2
 Type de dégâts : tranchant
@@ -259,7 +258,7 @@ PARAMETRES :
 
 Capacités spéciales : 
  +1D10 points de dégâts de feu
- 25% de chance que la cible soit ralentie pour 7 secondes
+ 25 % de chance que la cible soit ralentie pour 7 secondes
 
 TAC0 : +3
 Dégâts : 1D8 +3
@@ -271,13 +270,13 @@ Non utilisable par :
  Clerc
  Mage~
 @45  = ~Anneau de la connaissance~
-@46  = ~Avez-vous toujours voulu voyager à travers tous les continents, découvrir de nouvelles civilisations, des nouvelles coutumes ? Eh bien... si vous lisez cette description, c'est que contrairement à l'ancien propriétaire de cet anneau vous êtes toujours et vie et que vous disposez donc de temps pour réaliser tous vos rêves. Mais si, pour une raison ou une autre vous ne réussissez pas à les réaliser, sachez qu’au moins avec cet anneau vous serez en mesure de deviner d'ou viennent tous les objets découverts par vos compagnons.
+@46  = ~Avez-vous toujours voulu voyager à travers tous les continents, découvrir de nouvelles civilisations, des nouvelles coutumes ? Eh bien... si vous lisez cette description, c'est que contrairement à l'ancien propriétaire de cet anneau vous êtes toujours et vie et que vous disposez donc de temps pour réaliser tous vos rêves. Mais si, pour une raison ou une autre vous ne réussissez pas à les réaliser, sachez qu’au moins avec cet anneau vous serez en mesure de deviner d’où viennent tous les objets découverts par vos compagnons.
 
 PARAMETRES :
 
 Spécial : Porte la connaissance à 100~
 @47  = ~Potion de restauration~
-@48  = ~Le consommateur de cette potion bénéficiera des effets du sort "Restauration majeure". Cela pourrait être une bonne idée de garder une de ces potions à portée de main...
+@48  = ~Le consommateur de cette potion bénéficiera des effets du sort « Restauration majeure ». Cela pourrait être une bonne idée de garder une de ces potions à portée de main...
 
 PARAMETRES :
 
@@ -288,7 +287,7 @@ Spécial : sort de restauration majeure sur un personnage~
 PARAMETRES :
 
 Spécial :
- Bonus de 10% en Crochetage, Pose de pièges, Détecter/Désamorcer les pièges et Vol-à-la-tire
+ Bonus de 10 % en Crochetage, Pose de pièges, Détecter/Désamorcer les pièges et Vol-à-la-tire
 Poids : 2
 
 Utilisable uniquement par :
@@ -298,7 +297,7 @@ Utilisable uniquement par :
 
 PARAMETRES :
 Spécial :
- Bonus de 20% en Crochetage, Pose de pièges, Détecter/Désamorcer les pièges et Vol-à-la-tire
+ Bonus de 20 % en Crochetage, Pose de pièges, Détecter/Désamorcer les pièges et Vol-à-la-tire
 Poids : 2 
 
 Utilisable uniquement par :
@@ -310,7 +309,7 @@ PARAMETRES :
 
 Spécial : Confère l'infravision~
 @55  = ~Gants de force~
-@56  = ~Ces gants ont été créés par l'entraineur-mage d'un fameux boxeur. Même après le passage de plusieurs années, le brave combattant continuait à mettre K.O. ses rivaux grâce à ses "gants de boxe" particuliers.
+@56  = ~Ces gants ont été créés par l’entraîneur-mage d'un fameux boxeur. Même après le passage de plusieurs années, le brave combattant continuait à mettre K.O. ses rivaux grâce à ses « gants de boxe » particuliers.
 
 PARAMETRES :
 
@@ -320,7 +319,7 @@ Force : +3~
 
 PARAMETRES :
 
-Classe d'Armure : 0
+Classe d'Armure : 0 (-4 contre les armes tranchantes, -3 contre les armes perforantes et les projectiles)
 Poids : 45
 Force nécessaire : 15
 Spécial : +1 à toutes les caractéristiques
@@ -334,7 +333,7 @@ Non utilisable par :
 
 PARAMETRES :
 
-Classe d'Armure : 2
+Classe d'Armure : 2 (-1 contre les armes tranchantes, 1 contre les armes perforantes et les projectiles)
 Dextérité : -2
 Poids : 25
 Constitution nécessaire : 16
@@ -357,7 +356,7 @@ Force et constitution nécessaires : 14
 
 Utilisable uniquement par :
  Guerrier~
-@63  = ~Epée de bois~
+@63  = ~Épée de bois~
 @64  = ~La lame de cette épée est faite à partir d'une pièce de bois très dure. A cause de cela, ceux qui seront frappés de sa lame ne seront pas coupés. En dehors de ce point, l'épée s'utilise de façon très classique.
 
 PARAMETRES :
@@ -398,7 +397,7 @@ Non utilisable par :
 PARAMETRES :
 
 Capacité spéciale :
-  50% de chance que la cible subisse des dégâts doublés
+  50 % de chance que la cible subisse des dégâts doublés
 
 TAC0 : +1
 Dégâts : 1D10 +1
@@ -428,8 +427,8 @@ Non utilisable par :
  Voleur
  Clerc
  Mage~
-@71  = ~Epée de Défense +2~
-@72  = ~La largeur de cette épée vous impressionne. Elle est si large qu'elle peut être utilisée simultanément comme arme et comme bouclier. Etrangement, elle n'est pas plus difficile à manier. Il vous paraît évident qu'elle doit avoir quelques origines magiques.
+@71  = ~Épée de Défense +2~
+@72  = ~La largeur de cette épée vous impressionne. Elle est si large qu'elle peut être utilisée simultanément comme arme et comme bouclier. Étrangement, elle n'est pas plus difficile à manier. Il vous paraît évident qu'elle doit avoir quelques origines magiques.
 
 PARAMETRES :
 
@@ -452,7 +451,7 @@ Non utilisable par :
 PARAMETRES :
 
 Capacité spéciale :
-  50% de chance que la victime soit affectée par Horreur pendant 45 secondes, si son jet de sauvegarde est raté.
+  50 % de chance que la victime soit affectée par Horreur pendant 45 secondes, si son jet de sauvegarde est raté.
 
 TAC0 : +3
 Dégâts : 1D4 +3
@@ -469,19 +468,19 @@ Utilisable uniquement par :
 
 PARAMETRES :
 
-Résistances élémentaires : +25%~
+Résistances élémentaires : +25 %~
 @77  = ~Amulette de protection contre le feu~
 @78  = ~Porter cette amulette donne l'immunité contre les dégâts de feu.
 
 PARAMETRES :
 
-Resistance au feu : 100%~
+Résistance au feu : 100 %~
 @79  = ~Amulette de protection contre l'électricité~
 @80  = ~Porter cette amulette donne l'immunité contre les dégâts d'électricité.
 
 PARAMETRES :
 
-Resistance à l'électricité : 100%~
+Résistance à l'électricité : 100 %~
 @81  = ~Cape de l'Assassin~
 @82  = ~Cette cape a été fabriquée pour les voleurs et plus particulièrement pour les assassins.
 
@@ -490,7 +489,7 @@ PARAMETRES :
 Spécial :
   Le porteur est indécelable par les objets magiques ou les sorts
   Immunité aux charmes
-  Se cacher dans l'ombre : +50%
+  Se cacher dans l'ombre : +50 %
   Lance 'Invisibilité' une fois par jour
 
 Utilisable uniquement par :
@@ -504,19 +503,19 @@ Spécial : Le porteur est immunisé contre la peur
 
 TAC0 : +5
 Dégâts : +3
-Portée maximale : +100%
+Portée maximale : +100 %
 Facteur de vitesse : 6
 Type de compétence : fronde~
-@85  = ~Anneau des Eléments +2~
+@85  = ~Anneau des Éléments +2~
 @86  = ~Bien peu d'ouvrages font référence à l'anneau des éléments. Seuls des livres très anciens, quasi mythiques y font état. Il est dit que cet anneau est né de sa volonté propre durant une période de chaos, pour aider un druide à lutter contre les forces maléfiques sur toute la terre.
 
 PARAMETRES :
 
-Résistances au feu, au froid et à l'électricité : +50%
+Résistances au feu, au froid et à l'électricité : +50 %
 Classe d'Armure : bonus de 2
-Force : +2~
+Jets de sauvegarde : +2~
 @87  = ~Le Livre de la Mort~
-@88  = ~Le livre de la Mort... Beaucoup d'aventuriers ont passé leur vie entière à rechercher cet ouvrage. Il est dit que celui qui réussira à déchiffrer ses mystères gagnera assez de pouvoir pour rivaliser avec les dieux. Le Livre de la Mort a des milliers et des milliers de pages, chacune d'elle, si elle est lue, lançant un sort, chacun plus stupéfiant que le précédent. Mais vous comprenez aussi que seule une analyse en profondeur de tous les mots du livre vous permettrait d'utiliser son plein pouvoir sans danger. Pour le moment, il vaut donc mieux vous limiter aux incantations les plus "communes" et "banales" du livre, mais qui ont l'avantage de pouvoir être lues sans problème.
+@88  = ~Le livre de la Mort... Beaucoup d'aventuriers ont passé leur vie entière à rechercher cet ouvrage. Il est dit que celui qui réussira à déchiffrer ses mystères gagnera assez de pouvoir pour rivaliser avec les dieux. Le Livre de la Mort a des milliers et des milliers de pages, chacune d'elle, si elle est lue, lançant un sort, chacun plus stupéfiant que le précédent. Mais vous comprenez aussi que seule une analyse en profondeur de tous les mots du livre vous permettrait d'utiliser son plein pouvoir sans danger. Pour le moment, il vaut donc mieux vous limiter aux incantations les plus « communes » et « banales » du livre, mais qui ont l'avantage de pouvoir être lues sans problème.
 
 PARAMETRES :
 
@@ -528,7 +527,7 @@ Utilisable uniquement par :
 
 PARAMETRES :
 
-Spécial : Lance le sort 'Zone d'air pur' une fois par jour.~
+Spécial : Lance le sort « Zone d'air pur » une fois par jour.~
 @91  = ~Amulette de Guérison~
 @92  = ~Même si le prêtre qui porte cette amulette décide de ne pas mémoriser de sorts de soins, il sera toujours capable de guérir une grande variété de maux.
 
@@ -546,13 +545,13 @@ PARAMETRES :
 
 Classe d'Armure : bonus de 1
 Jets de sauvegarde : +1
-Spécial : 6 charges "Immunité à la magie pour 60 secondes"~
+Spécial : 6 charges « Résistance à la magie »~
 @95  = ~Bâton du Jugement +1~
-@96  = ~Parfois il vaut mieux confier sa vie à la volonté des dieux. Mais comment les mortels connaissent-ils la volonté des dieux ? Il n'y a rien de plus simple ! Faites appel au pouvoir de ce bâton et tous ceux dans la zone qui survivront au "Nuage de l'assassin" le devront seulement à la volonté d'un dieu ! Les autres, en revanche...
+@96  = ~Parfois il vaut mieux confier sa vie à la volonté des dieux. Mais comment les mortels connaissent-ils la volonté des dieux ? Il n'y a rien de plus simple ! Faites appel au pouvoir de ce bâton et tous ceux dans la zone qui survivront au « Nuage de l'assassin » le devront seulement à la volonté d'un dieu ! Les autres, en revanche...
 
 PARAMETRES :
 
-Capacité spéciale : Lance 'Nuage de l'Assassin' une fois par jour
+Capacité spéciale : Lance « Nuage mortel » une fois par jour
 
 TAC0 : +1
 Dégâts : 1D6 +1
@@ -565,7 +564,7 @@ Type de compétence : bâton~
 
 PARAMETRES :
 
-Capacité spéciale : Appelle "Vielle soeur +5" pour 60 secondes trois fois par jour
+Capacité spéciale : Appelle « Soeur aîné +5 » pour 60 secondes trois fois par jour
 
 TAC0 : +2
 Dégâts : 2D4 +2
@@ -576,7 +575,7 @@ Type de compétence : épée bâtarde
 Force nécessaire : 11
 Utilisable uniquement par :
  Guerrier~
-@99  = ~Epée bâtarde +5~
+@99  = ~Épée bâtarde +5~
 @100 = ~Pierre lunaire~
 @101 = ~On ne peut pas devenir un loup-garou simplement en hurlant à la lune, mais avec cette pierre, le pouvoir de lycanthropie est à vos ordres.
 
@@ -584,11 +583,11 @@ PARAMETRES :
 
 Spécial : transformation en Loup-garou pendant 120 secondes, une fois par jour~
 @102 = ~Livre infernal~
-@103 = ~Il contient un sort similaire à "Convocation d'un Fiélon" avec pour différence qu'en lieu et place d'un fiélon, vous aurez un Chevalier-Démon sous vos ordres !
+@103 = ~Il contient un sort similaire à « Convocation d'un Fiélon » avec pour différence qu'en lieu et place d'un fiélon, vous aurez un Chevalier-Démon sous vos ordres !
 
 PARAMETRES :
 
-Spécial : Invoque un "Chevalier-Démon" une fois par jour pour 120 secondes 
+Spécial : Invoque un « Chevalier-Démon » une fois par jour pour 120 secondes 
 
 Utilisable uniquement par :
  Mage~

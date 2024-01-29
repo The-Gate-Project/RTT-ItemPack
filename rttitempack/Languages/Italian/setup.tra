@@ -198,8 +198,7 @@ Ladro~
 @40   = ~Scudo piccolo +3... non se ne vedono molti in giro! Senza dubbio hai fatto (o stai per fare) un ottimo affare!
 
 STATISTICHE:
-Bonus alla Classe Armatura: 4
-Speciale: non protegge dalle armi da lancio
+Bonus alla Classe Armatura: 4 (+2 dalle armi da lancio)
 Peso: 2
 Non utilizzabile da:
 Bardo
@@ -211,7 +210,7 @@ Ladro~
 
 STATISTICHE:
 50% che il nemico colpito subisca ulteriori 1d10 danni magici (fallendo un t.s. contro magie)
-50% che venga risucchiato un livello al nemico colpito (fallendo il t.s. contro magie)
+5% che venga risucchiato un livello al nemico colpito (fallendo il t.s. contro magie)
 Danni: 1D10+2
 Tipo di sanno: Taglio
 Peso: 15
