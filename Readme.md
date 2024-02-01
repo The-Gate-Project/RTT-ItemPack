@@ -6,6 +6,8 @@
 
 [Link to original Mod Forum](http://www.shsforums.net/index.php?showtopic=15702)
 
+[Link to original Mod Download](http://www.shsforums.net/files/file/17-return-to-trademeet/)
+
 
 For Baldur's Gate 2, BG2: EE, BGT and the Enhanced Edition Trilogy (EET).
 
