@@ -18,6 +18,19 @@ For Baldur's Gate 2, BG2: EE, BGT and the Enhanced Edition Trilogy (EET).
 If the "special" store of Ribald (Adventure's Mart, Waukeen Promenade, after Spellhold) isn't enough for you, expand it with 51 new magic items!
 
 
+## Componant:
+------------
+
+#### The 51 items are added to the "special" store of Ribald
+
+- (Adventure's Mart, Waukeen's Promenade) available after SpellHold.
+
+
+#### The 51 items are spread to several stores
+
+- 21 items for Ribald (available after SpellHold.), 17 items for Trademeet merchants after the Djinns departure and 13 items for the merchants of the Umar Hills
+
+
 ## Install:
 --------
 

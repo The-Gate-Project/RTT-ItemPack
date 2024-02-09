@@ -1,9 +1,7 @@
 @9001 =~[Kk]ann[ %tab%]+[Nn]ur[ %tab%]+[Vv]erwendet[ %tab%]+[Ww]erden[ %tab%]+[Vv]on[ %tab%]*:~
 @9002 =~[Kk]ann[ %tab%]+[Nn]icht[ %tab%]+[Vv]erwendet[ %tab%]+[Ww]erden[ %tab%]+[Vv]on[ %tab%]*:~
 
-@0    = ~Das RTT Gegenstaende Pack installieren?
-**Die Gegenstaende werden zu Ribalds speziellen Gegenstaenden
-(Abenteurer Markt, Waukeen's Promenade) nach der Zauberfeste hinzugefuegt.**~
+@0    = ~RTT Gegenstaende Pack~
 @1    = ~Amulett des Lebens~
 @2    = ~Wer immer auch dieses Amulett trägt, ist immun gegen Lebenskraftentzug von Vampiren oder anderen Untoten. (Es wird angemerkt, dass man es zusammen mit der obligatorischen Halskette aus Knoblauch tragen sollte...)
 
@@ -573,3 +571,22 @@ Einmal am Tag für 120 Sekunden "Dämonenritter herbeirufen"
 Kann verwendet werden von:
 Zauberern~
 @104  = ~Dämonenritter herbeirufen~
+
+@105 = ~STATISTICS: 
+
+Verzauberungsstufe: +5
+ETW0: +3
+Schaden: 2W4+2 (Hiebwaffe)
+Gewicht: 7
+Initiativefaktor: 5
+Waffenfertigkeit: Bastardschwert
+Benötigt: Stärke 11~
+
+
+@200 = ~Die 51 Gegenstaende werden zu Ribalds speziellen Gegenstaenden
+(Abenteurer Markt, Waukeen's Promenade) nach der Zauberfeste hinzugefuegt.
+~
+
+@201= ~The 51 items are spread to several stores
+Ribald (available after SpellHold.), Trademeet merchants after the Djinns departure and the merchants of the Umar Hills~
+

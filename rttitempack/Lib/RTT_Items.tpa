@@ -1,0 +1,241 @@
+// RTT_Items.tpa
+
+// add items, spells and effs
+
+COPY ~rttitempack/files/RTT001.ITM~					~override/RTT001.ITM~
+	SAY NAME2 @1
+	SAY DESC @2
+
+COPY ~rttitempack/files/RTT002.ITM~					~override/RTT002.ITM~
+	SAY NAME2 @3
+	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@4" END
+
+COPY ~rttitempack/files/RTT003.ITM~					~override/RTT003.ITM~
+	SAY NAME2 @5
+	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@6" END
+
+COPY ~rttitempack/files/RTT004.ITM~					~override/RTT004.ITM~
+	SAY NAME2 @7
+	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@8" END
+
+COPY ~rttitempack/files/RTT005.ITM~					~override/RTT005.ITM~
+	SAY NAME2 @9
+	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@10" END
+
+COPY ~rttitempack/files/RTT006.ITM~					~override/RTT006.ITM~
+	SAY NAME2 @11
+	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@12" END
+
+COPY ~rttitempack/files/RTT007.ITM~					~override/RTT007.ITM~
+	SAY NAME2 @13
+	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@14" END
+
+COPY ~rttitempack/files/RTT008.ITM~					~override/RTT008.ITM~
+	SAY NAME2 @15
+	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@16" END
+
+COPY ~rttitempack/files/RTT009.ITM~					~override/RTT009.ITM~
+	SAY NAME2 @17
+	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@18" END
+
+COPY ~rttitempack/files/RTT010.ITM~					~override/RTT010.ITM~
+	SAY NAME2 @19
+	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@20" END
+
+COPY ~rttitempack/files/RTT011.ITM~					~override/RTT011.ITM~
+	SAY NAME2 @21
+	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@22" END
+
+COPY ~rttitempack/files/RTT012.ITM~					~override/RTT012.ITM~
+	SAY NAME2 @23
+	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@24" END
+
+COPY ~rttitempack/files/RTT013.ITM~					~override/RTT013.ITM~
+	SAY NAME2 @25
+	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@26" END
+
+COPY ~rttitempack/files/RTT014.ITM~					~override/RTT014.ITM~
+	SAY NAME2 @27
+	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@28" END
+
+COPY ~rttitempack/files/RTT015.ITM~					~override/RTT015.ITM~
+	SAY NAME2 @29
+	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@30" END
+
+COPY ~rttitempack/files/RTT016.ITM~					~override/RTT016.ITM~
+	SAY NAME2 @31
+	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@32" END
+
+COPY ~rttitempack/files/RTT017.ITM~					~override/RTT017.ITM~
+	SAY NAME2 @33
+	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@34" END
+
+COPY ~rttitempack/files/RTT018.ITM~					~override/RTT018.ITM~
+	SAY NAME2 @35
+	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@36" END
+
+COPY ~rttitempack/files/RTT019.ITM~					~override/RTT019.ITM~
+	SAY NAME2 @37
+	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@38" END
+
+COPY ~rttitempack/files/RTT020.ITM~					~override/RTT020.ITM~
+	SAY NAME2 @39
+	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@40" END
+
+COPY ~rttitempack/files/RTT021.ITM~					~override/RTT021.ITM~
+	SAY NAME2 @41
+	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@42" END
+
+COPY ~rttitempack/files/RTT022.ITM~					~override/RTT022.ITM~
+	SAY NAME2 @43
+	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@44" END
+
+COPY ~rttitempack/files/RTT023.ITM~					~override/RTT023.ITM~
+	SAY NAME2 @45
+	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@46" END
+
+COPY ~rttitempack/files/RTT024.ITM~					~override/RTT024.ITM~ // Potion de restauration
+	SAY NAME2 @47
+	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@48" END
+
+COPY ~rttitempack/files/RTT025.ITM~					~override/RTT025.ITM~
+	SAY NAME2 @49
+	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@50" END
+
+COPY ~rttitempack/files/RTT026.ITM~					~override/RTT026.ITM~
+	SAY NAME2 @51
+	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@52" END
+
+COPY ~rttitempack/files/RTT027.ITM~					~override/RTT027.ITM~
+	SAY NAME2 @53
+	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@54" END
+
+COPY ~rttitempack/files/RTT028.ITM~					~override/RTT028.ITM~
+	SAY NAME2 @55
+	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@56" END
+
+COPY ~rttitempack/files/RTT029.ITM~					~override/RTT029.ITM~
+	SAY NAME2 @57
+	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@58" END
+
+COPY ~rttitempack/files/RTT030.ITM~					~override/RTT030.ITM~
+	SAY NAME2 @59
+	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@60" END
+
+COPY ~rttitempack/files/RTT031.ITM~					~override/RTT031.ITM~
+	SAY NAME2 @61
+	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@62" END
+
+COPY ~rttitempack/files/RTT032.ITM~					~override/RTT032.ITM~
+	SAY NAME2 @63
+	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@64" END
+
+COPY ~rttitempack/files/RTT033.ITM~					~override/RTT033.ITM~
+	SAY NAME2 @65
+	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@66" END
+
+COPY ~rttitempack/files/RTT034.ITM~					~override/RTT034.ITM~
+	SAY NAME2 @67
+	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@68" END
+
+COPY ~rttitempack/files/RTT035.ITM~					~override/RTT035.ITM~
+	SAY NAME2 @69
+	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@70" END
+
+COPY ~rttitempack/files/RTT036.ITM~					~override/RTT036.ITM~
+	SAY NAME2 @71
+	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@72" END
+
+COPY ~rttitempack/files/RTT037.ITM~					~override/RTT037.ITM~
+	SAY NAME2 @73
+	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@74" END
+
+COPY ~rttitempack/files/RTT038.ITM~					~override/RTT038.ITM~
+	SAY NAME2 @75
+	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@76" END
+
+COPY ~rttitempack/files/RTT039.ITM~					~override/RTT039.ITM~
+	SAY NAME2 @77
+	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@78" END
+
+COPY ~rttitempack/files/RTT040.ITM~					~override/RTT040.ITM~
+	SAY NAME2 @79
+	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@80" END
+
+COPY ~rttitempack/files/RTT041.ITM~					~override/RTT041.ITM~
+	SAY NAME2 @81
+	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@82" END
+
+COPY ~rttitempack/files/RTT042.ITM~					~override/RTT042.ITM~
+	SAY NAME2 @83
+	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@84" END
+	
+COPY ~rttitempack/files/RodSling.BAM~           ~override/RodSling.BAM~
+  
+COPY ~rttitempack/files/RTT043.ITM~					~override/RTT043.ITM~
+	SAY NAME2 @85
+	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@86" END
+
+COPY ~rttitempack/files/RTT044.ITM~					~override/RTT044.ITM~
+	SAY NAME2 @87
+	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@88" END
+
+COPY ~rttitempack/files/RTT044.SPL~					~override/RTT044.SPL~
+
+COPY ~rttitempack/files/RTT045.ITM~					~override/RTT045.ITM~
+	SAY NAME2 @89
+	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@90" END
+
+COPY ~rttitempack/files/RTT045.SPL~					~override/RTT045.SPL~
+
+COPY ~rttitempack/files/RTT046.ITM~					~override/RTT046.ITM~
+	SAY NAME2 @91
+	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@92" END
+
+COPY ~rttitempack/files/RTT046A.SPL~              ~override/RTT046A.SPL~
+
+COPY ~rttitempack/files/RTT046B.SPL~              ~override/RTT046B.SPL~
+
+COPY ~rttitempack/files/RTT046C.SPL~              ~override/RTT046C.SPL~
+
+COPY ~rttitempack/files/RTT047.ITM~					~override/RTT047.ITM~
+	SAY NAME2 @93
+	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@94" END
+
+COPY ~rttitempack/files/RTT047.SPL~					~override/RTT047.SPL~
+
+COPY ~rttitempack/files/RTT048.ITM~					~override/RTT048.ITM~
+	SAY NAME2 @95
+	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@96" END
+
+COPY ~rttitempack/files/RTT048.SPL~					~override/RTT048.SPL~
+
+COPY ~rttitempack/files/RTT049.ITM~					~override/RTT049.ITM~
+	SAY NAME2 @97
+	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@98" END
+
+COPY ~rttitempack/files/RTT049.SPL~					~override/RTT049.SPL~
+	SAY NAME1 @99
+	SAY NAME2 @99
+	
+COPY ~rttitempack/files/RTT049A.ITM~              ~override/RTT049A.ITM~
+	SAY NAME2 @99
+	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@105" END
+
+COPY ~rttitempack/files/RTT050.ITM~					~override/RTT050.ITM~
+	SAY NAME2 @100
+	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@101" END
+
+COPY ~rttitempack/files/RTT050.SPL~					~override/RTT050.SPL~
+	SAY NAME2 @100
+	
+COPY ~rttitempack/files/RTT051.CRE~					~override/RTT051.CRE~
+
+COPY ~rttitempack/files/RTT051.EFF~					~override/RTT051.EFF~
+
+COPY ~rttitempack/files/RTT051.ITM~					~override/RTT051.ITM~
+	SAY NAME2 @102
+	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@103" END
+
+COPY ~rttitempack/files/RTT051.SPL~					~override/RTT051.SPL~
+	SAY NAME2 @104

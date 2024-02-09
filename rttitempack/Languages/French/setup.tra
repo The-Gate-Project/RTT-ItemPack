@@ -1,7 +1,7 @@
 @9001 = ~[Uu]tilisable[ %tab%]+[Uu]niquement[ %tab%]+[Pp]ar[ %tab%]*:~
 @9002 = ~\([Nn]on[ %tab%]+\|[Ii]n\)[Uu]tilisable[ %tab%]+[Pp]ar[ %tab%]*:~
 
-@0   = ~Voulez-vous installer RTT Item Pack ? **Tous les objets magiques sont ajoutes au magasin 'special' de Ribald (Marche de l'Aventurier, Promenade de Waukyne) qui sera accessible seulement au retour de l'asile de SpellHold.**~
+@0   = ~RTT Item Pack~
 @1   = ~Amulette anti-vampire~
 @2   = ~Quiconque porte l'amulette anti-vampire sera immunisé contre les drains de niveau de tous types. (Même si pour lutter contre les vampires, il est recommandé de s’équiper aussi d’un collier de gousses d’ail...)
 
@@ -519,7 +519,7 @@ Jets de sauvegarde : +2~
 
 PARAMETRES :
 
-Spécial : Lance Résurrection une fois par jour
+Spécial : Lance « Rappel à la vie » une fois par jour
 Utilisable uniquement par :
  Clerc~
 @89  = ~Sphère du vent~
@@ -592,6 +592,25 @@ Spécial : Invoque un « Chevalier-Démon » une fois par jour pour 120 secondes
 Utilisable uniquement par :
  Mage~
 @104 = ~Invoquer un Chevalier-Démon~
+
+@105 = ~PARAMÈTRES : 
+
+Niveau d'enchantement : +5
+TAC0 : +3
+Dégâts : 2d4 +3 (Tranchant)
+Facteur de vitesse : 5
+Type de compétence : Épée bâtarde
+Type : Arme à 1 main
+
+Nécessite : 
+- 11 en Force
+
+Poids : 7~
+
+
+@200 = ~Les 51 objets magiques sont ajoutes au magasin "special" de Ribald~
+
+@201= ~Les 51 objets magiques sont disperses dans differents magasins~
 
 // WeiDU prompts
 @-1000= "Le mod %TP2_FILE_NAME% contient"

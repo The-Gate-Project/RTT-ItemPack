@@ -1,7 +1,7 @@
 @9001 = ~[Oo]nly[ %tab%]+[Uu]sable[ %tab%]+[Bb]y[ %tab%]*:~
 @9002 = ~\(Not[ %tab%]+\|Un\)[Uu]sable[ %tab%]+[Bb]y[ %tab%]*:~
 
-@0    = ~Install RTT Item Pack? **The items are added to the "special" store of Ribald (Adventure's Mart, Waukeen's Promenade) available after SpellHold.**~
+@0    = ~RTT Item Pack~
 @1    = ~Amulet of Life~
 @2    = ~Whoever wears this amulet will be protected from the life draining effects of vampires and certain other undead. (Though it is suggested that the amulet be combined with the standard garlic necklace...)
 
@@ -521,3 +521,22 @@ Once a day "Summon Demon Knight" for 120 seconds
 Only Usable by:
 wizard~
 @104  = ~Summon Demon Knight~
+
+@105 = ~STATISTICS: 
+
+Enchantment level: +5
+Thac0: +3
+Damage: 2d4+3
+Damage Type: Slashing
+Weight: 7
+Speed Factor:: 5
+Proficiency: Bastard Sword
+Requires: 11 Strength~
+
+
+@200 = ~The 51 items are added to the "special" store of Ribald
+(Adventure's Mart, Waukeen's Promenade) available after SpellHold.
+~
+
+@201= ~The 51 items are spread to several stores
+Ribald (available after SpellHold.), Trademeet merchants after the Djinns departure and the merchants of the Umar Hills~

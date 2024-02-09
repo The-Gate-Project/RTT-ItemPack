@@ -1,7 +1,7 @@
 @9001 = ~[Uu]tilizzabile[ %tab%]+\([Ss]olo[ %tab%]+\)?[Dd]a[ %tab%]*:~
 @9002 = ~[Nn]on[ %tab%]+[Uu]tilizzabile[ %tab%]+[Dd]a[ %tab%]*:~
 
-@0    = ~Vuoi installare RTT Item Pack? **Tutti gli oggetti magici vengono aggiunti al negozio "speciale" di Ribald (l'Emporio dell'Avventuriero, Passeggiata di Waukeen) con il quale puoi fare affari una volta tornato dal manicomio.**~
+@0    = ~RTT Item Pack~
 @1    = ~Amuleto Anti-Vampiro~
 @2    = ~Chi indossa l'amuleto anti-vampiri sarà immune al level drain di tutti i tipi (si consiglia di abbinare all'amuleto una seconda graziosa collana di aglio...)
 
@@ -536,3 +536,24 @@ Lancia 1 volta al giorno "Evoca Demone Cavaliere" per 120 secondi
 Utilizzabile da:
 solo maghi~
 @104  = ~Evoca Demone Cavaliere~
+
+@105 = ~STATISTICS: 
+
+Livello di incanto: +5
+THAC0: +3
+Danni: 2d4+3
+Tipo di danni: Taglienti
+Peso: 7
+Velocità: 5
+Tipo di competenza: Spada Bastarda
+Tipo:  a 1 mano
+Requisiti: Forza 11~
+
+
+@200 = ~Tutti 51 gli oggetti magici vengono aggiunti al negozio "speciale" di Ribald
+(l'Emporio dell'Avventuriero, Passeggiata di Waukeen) con il quale puoi fare affari una volta tornato dal manicomio.
+~
+
+@201= ~The 51 items are spread to several stores
+Ribald (available after SpellHold.), Trademeet merchants after the Djinns departure and the merchants of the Umar Hills~
+
