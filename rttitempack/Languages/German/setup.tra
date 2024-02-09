@@ -161,13 +161,13 @@ Kann nicht verwendet werden von:
 Klerikern
 Zauberern
 Dieben~
-@31   = ~Streitkoben der Überredung +2~
+@31   = ~Streitkoben der Überredung~
 @32   = ~Es kommt ziemlich selten vor, dass aus Feinden Freunde werden. Aber mit dieser Waffe steigen die Chancen dafür! Jede Person, die von dieser Waffe getroffen wird, riskiert bezaubert zu werden und wendet sich dann gegen die eigenen Leute.
 
 SPEZIELLE EIGENSCHAFTEN:
 
-50%ige Chance, dass das Ziel für 120 Sekunden bezaubert wird. Ein Rettungswurf gegen Zaubersprüche ist erlaubt. 
-ETW0: +2
+Charm Person on the target (3x per day).
+ETW0: +3
 Schaden: 1W6+3 (Wuchtwaffe)
 Gewicht: 6
 Initiativefaktor: 4

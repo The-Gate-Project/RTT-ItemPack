@@ -162,15 +162,15 @@ Non utilisable par :
  Clerc
  Mage
  Voleur~
-@31  = ~Masse de persuasion +2~
+@31  = ~Masse de persuasion~
 @32  = ~Il est tout de même assez rare de voir un de vos ennemis se mettre à votre service, mais grâce à cette arme, c'est beaucoup plus probable ! Une personne blessée par cette arme risque d'être charmée et de se retourner contre ses anciens camarades.
 
 PARAMETRES :
 
-Capacité spéciale :
-  50 % de chance que la cible soit charmée pour 120 secondes à moins de réussir un jet de sauvegarde contre les sorts.
+Capacités de charge : 
+- Masse de persuasion (3 fois par jour), Charme-personne sur la cible.
 
-TAC0 : +2
+TAC0 : +3
 Dégâts : 1D6 +3
 Type de dégâts : contondant
 Poids : 6

@@ -145,12 +145,12 @@ Non utilizzabile da:
 Chierico
 Mago
 Ladro~
-@31   = ~Mazza della Persuasione +2~
+@31   = ~Mazza della Persuasione~
 @32   = ~In rari casi un nemico può diventare un amico, e grazie a questa arma sarà ancora più facile! Infatti chi viene colpito da questa arma rischia di essere charmato e di rivoltarsi contro chi era fino a pochi istanti prima un suo alleato.
 
 STATISTICHE:
-50% che il bersaglio venga charmato per 120 secondi se fallisce un T.S. contro magia.
-THAC0: bonus +2
+Charm Person on the target (3x per day).
+THAC0: bonus +3
 Danni: 1d6+3
 Tipo di danni: Contundente
 Peso: 6

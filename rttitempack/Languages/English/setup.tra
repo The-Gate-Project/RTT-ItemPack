@@ -151,13 +151,12 @@ Cleric
 Wizard
 Thief
 ~
-@31   = ~Mace of Persuasion +2~
+@31   = ~Mace of Persuasion~
 @32   = ~It is rare for an enemy to become a friend, but thanks to this weapon the chances are greatly improved! Any person who is hit by this weapon risks being charmed and turned against their former comrades.
 
 STATISTICS:
-50% chance that the target must save vs. Spell or be is charmed for 120 
-seconds.
-Thac0: +2
+Charm Person on the target (3x per day).
+Thac0: +3
 Damage: 1d6+3
 Damage Type: Blunt
 Weight: 6

@@ -235,6 +235,7 @@ COPY ~rttitempack/files/RTT050.ITM~					~override/RTT050.ITM~
 	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@101" END
 
 COPY ~rttitempack/files/RTT050.SPL~					~override/RTT050.SPL~
+	SAY NAME1 @100
 	SAY NAME2 @100
 	
 COPY ~rttitempack/files/RTT051.CRE~					~override/RTT051.CRE~
@@ -246,4 +247,5 @@ COPY ~rttitempack/files/RTT051.ITM~					~override/RTT051.ITM~
 	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@103" END
 
 COPY ~rttitempack/files/RTT051.SPL~					~override/RTT051.SPL~
+	SAY NAME1 @104
 	SAY NAME2 @104
