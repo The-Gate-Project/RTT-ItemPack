@@ -21,22 +21,24 @@ If the "special" store of Ribald (Adventure's Mart, Waukeen Promenade, after Spe
 ## Componant:
 ------------
 
-#### The 51 items are added to the "special" store of Ribald
+#### The 51 items are added to the "special" store of Ribald (original version)
 
-- (Adventure's Mart, Waukeen's Promenade) available after SpellHold.
+- (Adventure's Mart, Waukeen's Promenade) available after SpellHold.  
 
 
-#### The 51 items are spread to several stores
+#### The 51 items are spread to several stores (custom version)
 
-- 21 items for Ribald (available after SpellHold.), 17 items for Trademeet merchants after the Djinns departure and 13 items for the merchants of the Umar Hills
+- 11 items for Ribald (available after SpellHold.)  
+- 22 items for Trademeet merchants (available after the Djinns departure.)  
+- 18 items for the merchants of the Umar Hills (available after SpellHold.)  
 
 
 ## Install:
 --------
 
-Extract archive contents into your game directory
-Run Setup-rttitempack.exe
-Follow the prompt
+Extract archive contents into your game directory  
+Run Setup-rttitempack.exe  
+Follow the prompt  
 
 
 ## Version History:
@@ -70,5 +72,6 @@ Version 1.4 (January 2024)
 - Correction for Italian and german that was not able to be installed  
 - Updated to WeiDU v249  
 - Correction for descriptions  
-- Metadata / Label  
-- InfinityAutoPackager
+- Metadata / Label   
+- InfinityAutoPackager  
+- New componant (items can be scattered in other stores)  

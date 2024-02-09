@@ -43,3 +43,4 @@ Version 1.4 (January 2024)
 - Correction for descriptions
 - Metadata / Label  
 - InfinityAutoPackager
+- New componant (items can be scattered in other stores)

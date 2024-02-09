@@ -73,177 +73,57 @@ LABEL ~al17_rttitempack-Main~
 // add to ribald store only
 
 COPY_EXISTING ~ribald3.sto~ ~override/ribald3.sto~
-			ADD_STORE_ITEM ~RTT001~ #1 #0 #0 ~IDENTIFIED~ #1 // Amulette anti-vampire
-			ADD_STORE_ITEM ~RTT003~ #1 #0 #0 ~IDENTIFIED~ #1 // Anneau du roi Strohm
-			ADD_STORE_ITEM ~RTT007~ #1 #0 #0 ~IDENTIFIED~ #1 // Armure de plates complètes élaborée d'Elfe noire +5
-			ADD_STORE_ITEM ~RTT012~ #1 #0 #0 ~IDENTIFIED~ #1 // Bracelets du roi Strohm
-			ADD_STORE_ITEM ~RTT014~ #1 #0 #0 ~IDENTIFIED~ #1 // Cape des merveilles
-			ADD_STORE_ITEM ~RTT017~ #1 #0 #0 ~IDENTIFIED~ #1 // Anneau du Méphite
-			ADD_STORE_ITEM ~RTT018~ #1 #0 #0 ~IDENTIFIED~ #1 // Bracelets du Méphit
-			ADD_STORE_ITEM ~RTT019~ #1 #0 #0 ~IDENTIFIED~ #1 // Étoile du matin du roi Strohm +3
-			ADD_STORE_ITEM ~RTT020~ #1 #0 #0 ~IDENTIFIED~ #1 // Petit bouclier +3
-			ADD_STORE_ITEM ~RTT022~ #1 #0 #0 ~IDENTIFIED~ #1 // Glace Infernale +3
-			ADD_STORE_ITEM ~RTT028~ #1 #0 #0 ~IDENTIFIED~ #1 // Gants de force
-			ADD_STORE_ITEM ~RTT029~ #1 #0 #0 ~IDENTIFIED~ #1 // Armure merveilleuse
-			ADD_STORE_ITEM ~RTT031~ #1 #0 #0 ~IDENTIFIED~ #1 // Casque de défense
-			ADD_STORE_ITEM ~RTT033~ #1 #0 #0 ~IDENTIFIED~ #1 // Le bras du Nain +3
-			ADD_STORE_ITEM ~RTT037~ #1 #0 #0 ~IDENTIFIED~ #1 // Dague de l'horreur +3
-			ADD_STORE_ITEM ~RTT039~ #1 #0 #0 ~IDENTIFIED~ #1 // Amulette de protection contre le feu
-			ADD_STORE_ITEM ~RTT040~ #1 #0 #0 ~IDENTIFIED~ #1 // Amulette de protection contre l'électricité
-			ADD_STORE_ITEM ~RTT041~ #1 #0 #0 ~IDENTIFIED~ #1 // Cape de l'Assassin
-			ADD_STORE_ITEM ~RTT042~ #1 #0 #0 ~IDENTIFIED~ #1 // Fronde de Petite-personne +3
-			ADD_STORE_ITEM ~RTT043~ #1 #0 #0 ~IDENTIFIED~ #1 // Anneau des Éléments +2
-			ADD_STORE_ITEM ~RTT049~ #1 #0 #0 ~IDENTIFIED~ #1 // Soeur cadette +2
-
-    LPF ADD_STORE_ITEM_EX
-      INT_VAR stack=1
-        STR_VAR item_name=~RTT005~ flags=~identified~
-      END // Amulette anti-Flagelleur Mental
-
-    LPF ADD_STORE_ITEM_EX
-      INT_VAR stack=1
-        STR_VAR item_name=~RTT006~ flags=~identified~
-      END // Ceinturon de Résistance supérieur
-
-    LPF ADD_STORE_ITEM_EX
-      INT_VAR stack=1
-        STR_VAR item_name=~RTT026~ flags=~identified~
-      END // Outils de Voleur Supérieurs
-
-    LPF ADD_STORE_ITEM_EX
-      INT_VAR stack=1
-        STR_VAR item_name=~RTT008~ flags=~identified~
-      END // Manteau de Nain
-
-    LPF ADD_STORE_ITEM_EX
-      INT_VAR stack=1
-        STR_VAR item_name=~RTT046~ flags=~identified~
-      END // Amulette de Guérison
-
-    LPF ADD_STORE_ITEM_EX
-      INT_VAR stack=1
-        STR_VAR item_name=~RTT030~ position=~AFTER RTT008~ flags=~identified~
-      END // Armure de plates Mécanisée
-
-    LPF ADD_STORE_ITEM_EX
-      INT_VAR stack=1
-        STR_VAR item_name=~RTT004~ flags=~identified~
-      END // Hache de Confusion +2
-
-    LPF ADD_STORE_ITEM_EX
-      INT_VAR stack=1
-        STR_VAR item_name=~RTT015~ flags=~identified~
-      END // Lame druidique +2
-
-    LPF ADD_STORE_ITEM_EX
-      INT_VAR stack=1
-        STR_VAR item_name=~RTT016~ flags=~identified~
-      END // Masse de persuasion +2 ///////////////// Verify effect probably not working in combat
-
-    LPF ADD_STORE_ITEM_EX
-      INT_VAR stack=1
-        STR_VAR item_name=~RTT021~ flags=~identified~
-      END // Épée de Mordue +2
-
-    LPF ADD_STORE_ITEM_EX
-      INT_VAR stack=1
-        STR_VAR item_name=~RTT036~ flags=~identified~
-      END // Épée de Défense +2
-
-    LPF ADD_STORE_ITEM_EX
-      INT_VAR stack=1
-        STR_VAR item_name=~RTT002~ flags=~identified~
-      END // Larme de démon cristallisée
-
-    LPF ADD_STORE_ITEM_EX
-      INT_VAR stack=1
-        STR_VAR item_name=~RTT011~ flags=~identified~
-      END // Bracelets de dextérité
-
-    LPF ADD_STORE_ITEM_EX
-      INT_VAR stack=1
-        STR_VAR item_name=~RTT013~ flags=~identified~
-      END // Cape de la Dryade
-
-    LPF ADD_STORE_ITEM_EX
-      INT_VAR stack=1
-        STR_VAR item_name=~RTT038~ flags=~identified~
-      END // Bottes élémentaires
-
-    LPF ADD_STORE_ITEM_EX
-      INT_VAR stack=1
-        STR_VAR item_name=~RTT050~ flags=~identified~
-      END // Pierre lunaire
-
-    LPF ADD_STORE_ITEM_EX
-      INT_VAR stack=1
-        STR_VAR item_name=~RTT051~ flags=~identified~
-      END // Livre infernal
-
-    LPF ADD_STORE_ITEM_EX
-      INT_VAR stack=1
-        STR_VAR item_name=~RTT023~ flags=~identified~
-      END // Anneau de la connaissance
-
-    LPF ADD_STORE_ITEM_EX
-      INT_VAR stack=1
-        STR_VAR item_name=~RTT025~ flags=~identified~
-      END // Outils de Voleur
-
-    LPF ADD_STORE_ITEM_EX
-      INT_VAR stack=1
-        STR_VAR item_name=~RTT027~ flags=~identified~
-      END // Cape de la nuit
-
-    LPF ADD_STORE_ITEM_EX
-      INT_VAR stack=1
-        STR_VAR item_name=~RTT034~ flags=~identified~
-      END // Force explosive +1
-
-    LPF ADD_STORE_ITEM_EX
-      INT_VAR stack=1
-        STR_VAR item_name=~RTT010~ flags=~identified~
-      END // Heaume de duperie
-
-    LPF ADD_STORE_ITEM_EX
-      INT_VAR stack=1
-        STR_VAR item_name=~RTT032~ flags=~identified~
-      END // Épée de bois
-
-    LPF ADD_STORE_ITEM_EX
-      INT_VAR stack=1
-        STR_VAR item_name=~RTT035~ flags=~identified~
-      END // Langue d'incendie
-
-    LPF ADD_STORE_ITEM_EX
-      INT_VAR stack=1
-        STR_VAR item_name=~RTT048~ flags=~identified~
-      END // Bâton du Jugement +1
-
-    LPF ADD_STORE_ITEM_EX
-      INT_VAR stack=10
-        STR_VAR item_name=~RTT024~ flags=~identified~
-      END // Potion de restauration
-
-    LPF ADD_STORE_ITEM_EX
-      INT_VAR stack=1
-        STR_VAR item_name=~RTT009~ flags=~identified~
-      END // Anneau de suprématie
-
-    LPF ADD_STORE_ITEM_EX
-      INT_VAR stack=1
-        STR_VAR item_name=~RTT047~ flags=~identified~
-      END // Anneau d'anti-magie +1
-
-    LPF ADD_STORE_ITEM_EX
-      INT_VAR stack=1
-        STR_VAR item_name=~RTT044~ position=~AFTER RTT047~ flags=~identified~
-      END // Le Livre de la Mort
-
-    LPF ADD_STORE_ITEM_EX
-      INT_VAR stack=1
-        STR_VAR item_name=~RTT045~ position=~AFTER RTT044~ flags=~identified~
-      END // Sphère du vent
+			ADD_STORE_ITEM ~RTT001~ #1 #0 #0 ~IDENTIFIED~ #1
+			ADD_STORE_ITEM ~RTT002~ #1 #0 #0 ~IDENTIFIED~ #1
+			ADD_STORE_ITEM ~RTT003~ #1 #0 #0 ~IDENTIFIED~ #1
+			ADD_STORE_ITEM ~RTT004~ #1 #0 #0 ~IDENTIFIED~ #1
+			ADD_STORE_ITEM ~RTT005~ #1 #0 #0 ~IDENTIFIED~ #1
+			ADD_STORE_ITEM ~RTT006~ #1 #0 #0 ~IDENTIFIED~ #1
+			ADD_STORE_ITEM ~RTT007~ #1 #0 #0 ~IDENTIFIED~ #1
+			ADD_STORE_ITEM ~RTT008~ #1 #0 #0 ~IDENTIFIED~ #1
+			ADD_STORE_ITEM ~RTT009~ #1 #0 #0 ~IDENTIFIED~ #1
+			ADD_STORE_ITEM ~RTT010~ #1 #0 #0 ~IDENTIFIED~ #1
+			ADD_STORE_ITEM ~RTT011~ #1 #0 #0 ~IDENTIFIED~ #1
+			ADD_STORE_ITEM ~RTT012~ #1 #0 #0 ~IDENTIFIED~ #1
+			ADD_STORE_ITEM ~RTT013~ #1 #0 #0 ~IDENTIFIED~ #1
+			ADD_STORE_ITEM ~RTT014~ #1 #0 #0 ~IDENTIFIED~ #1
+			ADD_STORE_ITEM ~RTT015~ #1 #0 #0 ~IDENTIFIED~ #1
+			ADD_STORE_ITEM ~RTT016~ #1 #0 #0 ~IDENTIFIED~ #1
+			ADD_STORE_ITEM ~RTT017~ #1 #0 #0 ~IDENTIFIED~ #1
+			ADD_STORE_ITEM ~RTT018~ #1 #0 #0 ~IDENTIFIED~ #1
+			ADD_STORE_ITEM ~RTT019~ #1 #0 #0 ~IDENTIFIED~ #1
+			ADD_STORE_ITEM ~RTT020~ #1 #0 #0 ~IDENTIFIED~ #1
+			ADD_STORE_ITEM ~RTT021~ #1 #0 #0 ~IDENTIFIED~ #1
+			ADD_STORE_ITEM ~RTT022~ #1 #0 #0 ~IDENTIFIED~ #1
+			ADD_STORE_ITEM ~RTT023~ #1 #0 #0 ~IDENTIFIED~ #1
+			ADD_STORE_ITEM ~RTT024~ #1 #0 #0 ~IDENTIFIED~ #10
+			ADD_STORE_ITEM ~RTT025~ #1 #0 #0 ~IDENTIFIED~ #1
+			ADD_STORE_ITEM ~RTT026~ #1 #0 #0 ~IDENTIFIED~ #1
+			ADD_STORE_ITEM ~RTT027~ #1 #0 #0 ~IDENTIFIED~ #1
+			ADD_STORE_ITEM ~RTT028~ #1 #0 #0 ~IDENTIFIED~ #1
+			ADD_STORE_ITEM ~RTT029~ #1 #0 #0 ~IDENTIFIED~ #1
+			ADD_STORE_ITEM ~RTT030~ #1 #0 #0 ~IDENTIFIED~ #1
+			ADD_STORE_ITEM ~RTT031~ #1 #0 #0 ~IDENTIFIED~ #1
+			ADD_STORE_ITEM ~RTT032~ #1 #0 #0 ~IDENTIFIED~ #1
+			ADD_STORE_ITEM ~RTT033~ #1 #0 #0 ~IDENTIFIED~ #1
+			ADD_STORE_ITEM ~RTT034~ #1 #0 #0 ~IDENTIFIED~ #1
+			ADD_STORE_ITEM ~RTT035~ #1 #0 #0 ~IDENTIFIED~ #1
+			ADD_STORE_ITEM ~RTT036~ #1 #0 #0 ~IDENTIFIED~ #1
+			ADD_STORE_ITEM ~RTT037~ #1 #0 #0 ~IDENTIFIED~ #1
+			ADD_STORE_ITEM ~RTT038~ #1 #0 #0 ~IDENTIFIED~ #1
+			ADD_STORE_ITEM ~RTT039~ #1 #0 #0 ~IDENTIFIED~ #1
+			ADD_STORE_ITEM ~RTT040~ #1 #0 #0 ~IDENTIFIED~ #1
+			ADD_STORE_ITEM ~RTT041~ #1 #0 #0 ~IDENTIFIED~ #1
+			ADD_STORE_ITEM ~RTT042~ #1 #0 #0 ~IDENTIFIED~ #1
+			ADD_STORE_ITEM ~RTT043~ #1 #0 #0 ~IDENTIFIED~ #1
+			ADD_STORE_ITEM ~RTT044~ #1 #0 #0 ~IDENTIFIED~ #1
+			ADD_STORE_ITEM ~RTT045~ #1 #0 #0 ~IDENTIFIED~ #1
+			ADD_STORE_ITEM ~RTT046~ #1 #0 #0 ~IDENTIFIED~ #1
+			ADD_STORE_ITEM ~RTT047~ #1 #0 #0 ~IDENTIFIED~ #1
+			ADD_STORE_ITEM ~RTT048~ #1 #0 #0 ~IDENTIFIED~ #1
+			ADD_STORE_ITEM ~RTT049~ #1 #0 #0 ~IDENTIFIED~ #1
+			ADD_STORE_ITEM ~RTT050~ #1 #0 #0 ~IDENTIFIED~ #1
+			ADD_STORE_ITEM ~RTT051~ #1 #0 #0 ~IDENTIFIED~ #1
 
 BEGIN @201
 DESIGNATED 201 SUBCOMPONENT @0
@@ -255,29 +135,66 @@ LABEL ~al17_rttitempack-Dispatch~
 
  // Ribald
 COPY_EXISTING ~ribald3.sto~ ~override/ribald3.sto~
-			ADD_STORE_ITEM ~RTT001~ #1 #0 #0 ~IDENTIFIED~ #1 // Amulette anti-vampire
-			ADD_STORE_ITEM ~RTT003~ #1 #0 #0 ~IDENTIFIED~ #1 // Anneau du roi Strohm
-			ADD_STORE_ITEM ~RTT007~ #1 #0 #0 ~IDENTIFIED~ #1 // Armure de plates complètes élaborée d'Elfe noire +5
-			ADD_STORE_ITEM ~RTT012~ #1 #0 #0 ~IDENTIFIED~ #1 // Bracelets du roi Strohm
-			ADD_STORE_ITEM ~RTT014~ #1 #0 #0 ~IDENTIFIED~ #1 // Cape des merveilles
-			ADD_STORE_ITEM ~RTT017~ #1 #0 #0 ~IDENTIFIED~ #1 // Anneau du Méphite
-			ADD_STORE_ITEM ~RTT018~ #1 #0 #0 ~IDENTIFIED~ #1 // Bracelets du Méphit
-			ADD_STORE_ITEM ~RTT019~ #1 #0 #0 ~IDENTIFIED~ #1 // Étoile du matin du roi Strohm +3
-			ADD_STORE_ITEM ~RTT020~ #1 #0 #0 ~IDENTIFIED~ #1 // Petit bouclier +3
-			ADD_STORE_ITEM ~RTT022~ #1 #0 #0 ~IDENTIFIED~ #1 // Glace Infernale +3
 			
-			ADD_STORE_ITEM ~RTT029~ #1 #0 #0 ~IDENTIFIED~ #1 // Armure merveilleuse
-			ADD_STORE_ITEM ~RTT033~ #1 #0 #0 ~IDENTIFIED~ #1 // Le bras du Nain +3
-			ADD_STORE_ITEM ~RTT037~ #1 #0 #0 ~IDENTIFIED~ #1 // Dague de l'horreur +3
-			ADD_STORE_ITEM ~RTT039~ #1 #0 #0 ~IDENTIFIED~ #1 // Amulette de protection contre le feu
-			ADD_STORE_ITEM ~RTT041~ #1 #0 #0 ~IDENTIFIED~ #1 // Cape de l'Assassin
-			ADD_STORE_ITEM ~RTT042~ #1 #0 #0 ~IDENTIFIED~ #1 // Fronde de Petite-personne +3
-			ADD_STORE_ITEM ~RTT049~ #1 #0 #0 ~IDENTIFIED~ #1 // Soeur cadette +2
+    LPF ADD_STORE_ITEM_EX
+      INT_VAR stack=1
+        STR_VAR item_name=~RTT001~ flags=~identified~
+      END // Amulette anti-vampire
+			
+    LPF ADD_STORE_ITEM_EX
+      INT_VAR stack=1
+        STR_VAR item_name=~RTT014~ flags=~identified~
+      END // Cape des merveilles
+			
+    LPF ADD_STORE_ITEM_EX
+      INT_VAR stack=1
+        STR_VAR item_name=~RTT017~ flags=~identified~
+      END // Anneau du Méphite
+			
+    LPF ADD_STORE_ITEM_EX
+      INT_VAR stack=1
+        STR_VAR item_name=~RTT018~ flags=~identified~
+      END // Bracelets du Méphite
+			
+    LPF ADD_STORE_ITEM_EX
+      INT_VAR stack=1
+        STR_VAR item_name=~RTT019~ position=~AFTER BLUN15~ flags=~identified~
+      END // Étoile du matin du roi Strohm +3
+			
+    LPF ADD_STORE_ITEM_EX
+      INT_VAR stack=1
+        STR_VAR item_name=~RTT022~ position=~AFTER SW1H41~ flags=~identified~
+      END // Glace Infernale +3
+			
+    LPF ADD_STORE_ITEM_EX
+      INT_VAR stack=1
+        STR_VAR item_name=~RTT033~ position=~AFTER AX1H11~ flags=~identified~
+      END // Le bras du Nain +3
+			
+    LPF ADD_STORE_ITEM_EX
+      INT_VAR stack=1
+        STR_VAR item_name=~RTT042~ position=~AFTER SLNG04~ flags=~identified~
+      END // Fronde de Petite-personne +3
+			
+    LPF ADD_STORE_ITEM_EX
+      INT_VAR stack=1
+        STR_VAR item_name=~RTT007~ position=~AFTER PLAT17~ flags=~identified~
+      END // Armure de plates complètes élaborée d'Elfe noire +5
+
+    LPF ADD_STORE_ITEM_EX
+      INT_VAR stack=1
+        STR_VAR item_name=~RTT029~ position=~AFTER RTT007~ flags=~identified~
+      END // Armure merveilleuse
+
+    LPF ADD_STORE_ITEM_EX
+      INT_VAR stack=1
+        STR_VAR item_name=~RTT013~ flags=~identified~
+      END // Cape de la Dryade
 			
 ////// Trademeet (After Djinni quest)
 
  // Wallace
-COPY_EXISTING ~WALLACE.sto~ ~override/RTTWALL.sto~
+COPY_EXISTING ~WALLACE.sto~ ~override/WALLACE.sto~
 
     LPF ADD_STORE_ITEM_EX
       INT_VAR stack=1
@@ -286,13 +203,23 @@ COPY_EXISTING ~WALLACE.sto~ ~override/RTTWALL.sto~
 
     LPF ADD_STORE_ITEM_EX
       INT_VAR stack=1
+        STR_VAR item_name=~RTT023~ flags=~identified~
+      END // Anneau de la connaissance
+
+    LPF ADD_STORE_ITEM_EX
+      INT_VAR stack=1
         STR_VAR item_name=~RTT006~ flags=~identified~
       END // Ceinturon de Résistance supérieur
 
     LPF ADD_STORE_ITEM_EX
       INT_VAR stack=1
-        STR_VAR item_name=~RTT026~ flags=~identified~
-      END // Outils de Voleur Supérieurs
+        STR_VAR item_name=~RTT025~ flags=~identified~
+      END // Outils de Voleur
+
+    LPF ADD_STORE_ITEM_EX
+      INT_VAR stack=1
+        STR_VAR item_name=~RTT011~ flags=~identified~
+      END // Bracelets de dextérité
 
     LPF ADD_STORE_ITEM_EX
       INT_VAR stack=1
@@ -324,6 +251,11 @@ COPY_EXISTING ~TRMER02.sto~ ~override/TRMER02.sto~
 
     LPF ADD_STORE_ITEM_EX
       INT_VAR stack=1
+        STR_VAR item_name=~RTT049~ position=~AFTER SW1H33~ flags=~identified~
+      END // Soeur cadette +2
+
+    LPF ADD_STORE_ITEM_EX
+      INT_VAR stack=1
         STR_VAR item_name=~RTT016~ position=~AFTER BLUN22~ flags=~identified~
       END // Masse de persuasion +2 ///////////////// Verify effect probably not working in combat
 
@@ -342,18 +274,28 @@ COPY_EXISTING ~trmer01.sto~ ~override/trmer01.sto~
 
     LPF ADD_STORE_ITEM_EX
       INT_VAR stack=1
+        STR_VAR item_name=~RTT034~ flags=~identified~
+      END // Force explosive +1
+
+    LPF ADD_STORE_ITEM_EX
+      INT_VAR stack=1
+        STR_VAR item_name=~RTT035~ flags=~identified~
+      END // Langue d'incendie
+
+    LPF ADD_STORE_ITEM_EX
+      INT_VAR stack=1
+        STR_VAR item_name=~RTT048~ flags=~identified~
+      END // Bâton du Jugement +1
+
+    LPF ADD_STORE_ITEM_EX
+      INT_VAR stack=1
         STR_VAR item_name=~RTT002~ flags=~identified~
       END // Larme de démon cristallisée
 
     LPF ADD_STORE_ITEM_EX
       INT_VAR stack=1
-        STR_VAR item_name=~RTT011~ flags=~identified~
-      END // Bracelets de dextérité
-
-    LPF ADD_STORE_ITEM_EX
-      INT_VAR stack=1
-        STR_VAR item_name=~RTT013~ flags=~identified~
-      END // Cape de la Dryade
+        STR_VAR item_name=~RTT039~ flags=~identified~
+      END // Amulette de protection contre le feu
 
     LPF ADD_STORE_ITEM_EX
       INT_VAR stack=1
@@ -367,8 +309,8 @@ COPY_EXISTING ~trmer01.sto~ ~override/trmer01.sto~
 
     LPF ADD_STORE_ITEM_EX
       INT_VAR stack=1
-        STR_VAR item_name=~RTT051~ flags=~identified~
-      END // Livre infernal
+        STR_VAR item_name=~RTT044~ position=~AFTER RTT047~ flags=~identified~
+      END // Le Livre de la Mort
 
 ////// Umar 
 
@@ -377,13 +319,8 @@ COPY ~rttitempack/Store/RTTSTO.sto~ ~override/RTTuh01.sto~
 
     LPF ADD_STORE_ITEM_EX
       INT_VAR stack=1
-        STR_VAR item_name=~RTT023~ flags=~identified~
-      END // Anneau de la connaissance
-
-    LPF ADD_STORE_ITEM_EX
-      INT_VAR stack=1
-        STR_VAR item_name=~RTT025~ flags=~identified~
-      END // Outils de Voleur
+        STR_VAR item_name=~RTT026~ flags=~identified~
+      END // Outils de Voleur Supérieurs
 
     LPF ADD_STORE_ITEM_EX
       INT_VAR stack=1
@@ -392,8 +329,13 @@ COPY ~rttitempack/Store/RTTSTO.sto~ ~override/RTTuh01.sto~
 
     LPF ADD_STORE_ITEM_EX
       INT_VAR stack=1
-        STR_VAR item_name=~RTT034~ flags=~identified~
-      END // Force explosive +1
+        STR_VAR item_name=~RTT041~ flags=~identified~
+      END // Cape de l'Assassin
+
+    LPF ADD_STORE_ITEM_EX
+      INT_VAR stack=1
+        STR_VAR item_name=~RTT012~ flags=~identified~
+      END // Bracelets du roi Strohm
 
     LPF ADD_STORE_ITEM_EX
       INT_VAR stack=1
@@ -420,18 +362,18 @@ COPY ~rttitempack/Store/RTTSTO.sto~ ~override/RTTuh03.sto~
 
     LPF ADD_STORE_ITEM_EX
       INT_VAR stack=1
-        STR_VAR item_name=~RTT035~ flags=~identified~
-      END // Langue d'incendie
-
-    LPF ADD_STORE_ITEM_EX
-      INT_VAR stack=1
-        STR_VAR item_name=~RTT048~ flags=~identified~
-      END // Bâton du Jugement +1
-
-    LPF ADD_STORE_ITEM_EX
-      INT_VAR stack=1
         STR_VAR item_name=~RTT031~ position=~AFTER RTT010~ flags=~identified~
       END // Casque de défense
+	  
+    LPF ADD_STORE_ITEM_EX
+      INT_VAR stack=1
+        STR_VAR item_name=~RTT037~ flags=~identified~
+      END // Dague de l'horreur +3
+			
+    LPF ADD_STORE_ITEM_EX
+      INT_VAR stack=1
+        STR_VAR item_name=~RTT020~ position=~AFTER SLNG04~ flags=~identified~
+      END // Petit bouclier +3
 
  // Min Minling
 COPY ~rttitempack/Store/RTTSTO.sto~ ~override/RTTuh02.sto~
@@ -453,8 +395,8 @@ COPY ~rttitempack/Store/RTTSTO.sto~ ~override/RTTuh02.sto~
 
     LPF ADD_STORE_ITEM_EX
       INT_VAR stack=1
-        STR_VAR item_name=~RTT044~ position=~AFTER RTT047~ flags=~identified~
-      END // Le Livre de la Mort
+        STR_VAR item_name=~RTT051~ flags=~identified~
+      END // Livre infernal
 
     LPF ADD_STORE_ITEM_EX
       INT_VAR stack=1
@@ -465,4 +407,9 @@ COPY ~rttitempack/Store/RTTSTO.sto~ ~override/RTTuh02.sto~
       INT_VAR stack=1
         STR_VAR item_name=~RTT040~ position=~AFTER RTT024~ flags=~identified~
       END // Amulette de protection contre l'électricité
+
+    LPF ADD_STORE_ITEM_EX
+      INT_VAR stack=1
+        STR_VAR item_name=~RTT003~ position=~AFTER RTT009~ flags=~identified~
+      END // Anneau du roi Strohm
 

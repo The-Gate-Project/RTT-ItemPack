@@ -65,6 +65,12 @@ COPY ~rttitempack/files/RTT015.ITM~					~override/RTT015.ITM~
 COPY ~rttitempack/files/RTT016.ITM~					~override/RTT016.ITM~
 	SAY NAME2 @31
 	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@32" END
+		OUTER_SET ability2strref = RESOLVE_STR_REF (@31)
+	APPEND ~tooltip.2da~ ~RTT016   -1   %ability2strref%   -1         ~ UNLESS ~RTT016~
+
+COPY ~rttitempack/files/RTT016.SPL~					~override/RTT016.SPL~
+	SAY NAME1 @31
+	SAY NAME2 @31
 
 COPY ~rttitempack/files/RTT017.ITM~					~override/RTT017.ITM~
 	SAY NAME2 @33
@@ -213,6 +219,8 @@ COPY ~rttitempack/files/RTT048.SPL~					~override/RTT048.SPL~
 COPY ~rttitempack/files/RTT049.ITM~					~override/RTT049.ITM~
 	SAY NAME2 @97
 	LPF ~GW_WRITE_EE_ITM_DESCRIPTIONS~ STR_VAR GW_desc_to_update = "@98" END
+		OUTER_SET ability2strref = RESOLVE_STR_REF (@99)
+	APPEND ~tooltip.2da~ ~RTT049   -1   %ability2strref%   -1         ~ UNLESS ~RTT049~
 
 COPY ~rttitempack/files/RTT049.SPL~					~override/RTT049.SPL~
 	SAY NAME1 @99
