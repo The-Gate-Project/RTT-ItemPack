@@ -223,8 +223,8 @@ COPY_EXISTING ~WALLACE.sto~ ~override/WALLACE.sto~
 
     LPF ADD_STORE_ITEM_EX
       INT_VAR stack=1
-        STR_VAR item_name=~RTT008~ flags=~identified~
-      END // Manteau de Nain
+        STR_VAR item_name=~RTT047~ position=~AFTER RTT023~ flags=~identified~
+      END // Anneau d'anti-magie +1
 
     LPF ADD_STORE_ITEM_EX
       INT_VAR stack=1
@@ -233,7 +233,7 @@ COPY_EXISTING ~WALLACE.sto~ ~override/WALLACE.sto~
 
     LPF ADD_STORE_ITEM_EX
       INT_VAR stack=1
-        STR_VAR item_name=~RTT030~ position=~AFTER RTT008~ flags=~identified~
+        STR_VAR item_name=~RTT030~ flags=~identified~
       END // Armure de plates Mécanisée
 
  // Noble merchant
@@ -257,7 +257,7 @@ COPY_EXISTING ~TRMER02.sto~ ~override/TRMER02.sto~
     LPF ADD_STORE_ITEM_EX
       INT_VAR stack=1
         STR_VAR item_name=~RTT016~ position=~AFTER BLUN22~ flags=~identified~
-      END // Masse de persuasion +2 ///////////////// Verify effect probably not working in combat
+      END // Masse de persuasion
 
     LPF ADD_STORE_ITEM_EX
       INT_VAR stack=1
@@ -294,8 +294,8 @@ COPY_EXISTING ~trmer01.sto~ ~override/trmer01.sto~
 
     LPF ADD_STORE_ITEM_EX
       INT_VAR stack=1
-        STR_VAR item_name=~RTT039~ flags=~identified~
-      END // Amulette de protection contre le feu
+        STR_VAR item_name=~RTT045~ flags=~identified~
+      END // Sphère du vent
 
     LPF ADD_STORE_ITEM_EX
       INT_VAR stack=1
@@ -309,7 +309,7 @@ COPY_EXISTING ~trmer01.sto~ ~override/trmer01.sto~
 
     LPF ADD_STORE_ITEM_EX
       INT_VAR stack=1
-        STR_VAR item_name=~RTT044~ position=~AFTER RTT047~ flags=~identified~
+        STR_VAR item_name=~RTT044~ flags=~identified~
       END // Le Livre de la Mort
 
 ////// Umar 
@@ -344,7 +344,7 @@ COPY ~rttitempack/Store/RTTSTO.sto~ ~override/RTTuh01.sto~
 
     LPF ADD_STORE_ITEM_EX
       INT_VAR stack=1
-        STR_VAR item_name=~RTT043~ position=~AFTER RTT023~ flags=~identified~
+        STR_VAR item_name=~RTT043~ flags=~identified~
       END // Anneau des Éléments +2
 
  // Beherant Diir
@@ -369,10 +369,15 @@ COPY ~rttitempack/Store/RTTSTO.sto~ ~override/RTTuh03.sto~
       INT_VAR stack=1
         STR_VAR item_name=~RTT037~ flags=~identified~
       END // Dague de l'horreur +3
+
+    LPF ADD_STORE_ITEM_EX
+      INT_VAR stack=1
+        STR_VAR item_name=~RTT008~ flags=~identified~
+      END // Manteau de Nain
 			
     LPF ADD_STORE_ITEM_EX
       INT_VAR stack=1
-        STR_VAR item_name=~RTT020~ position=~AFTER SLNG04~ flags=~identified~
+        STR_VAR item_name=~RTT020~ flags=~identified~
       END // Petit bouclier +3
 
  // Min Minling
@@ -380,7 +385,7 @@ COPY ~rttitempack/Store/RTTSTO.sto~ ~override/RTTuh02.sto~
 
     LPF ADD_STORE_ITEM_EX
       INT_VAR stack=10
-        STR_VAR item_name=~RTT024~ position=~AFTER MISC97~ flags=~identified~
+        STR_VAR item_name=~RTT024~ flags=~identified~
       END // Potion de restauration
 
     LPF ADD_STORE_ITEM_EX
@@ -390,18 +395,13 @@ COPY ~rttitempack/Store/RTTSTO.sto~ ~override/RTTuh02.sto~
 
     LPF ADD_STORE_ITEM_EX
       INT_VAR stack=1
-        STR_VAR item_name=~RTT047~ position=~AFTER RTT009~ flags=~identified~
-      END // Anneau d'anti-magie +1
-
-    LPF ADD_STORE_ITEM_EX
-      INT_VAR stack=1
         STR_VAR item_name=~RTT051~ flags=~identified~
       END // Livre infernal
 
     LPF ADD_STORE_ITEM_EX
       INT_VAR stack=1
-        STR_VAR item_name=~RTT045~ position=~AFTER RTT044~ flags=~identified~
-      END // Sphère du vent
+        STR_VAR item_name=~RTT039~flags=~identified~
+      END // Amulette de protection contre le feu
 
     LPF ADD_STORE_ITEM_EX
       INT_VAR stack=1
