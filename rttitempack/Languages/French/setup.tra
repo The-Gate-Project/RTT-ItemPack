@@ -3,7 +3,7 @@
 
 @0   = ~RTT Item Pack~
 @1   = ~Amulette anti-vampire~
-@2   = ~Quiconque porte l'amulette anti-vampire sera immunisé contre les drains de niveau de tous types. (Même si pour lutter contre les vampires, il est recommandé de s’équiper aussi d’un collier de gousses d’ail...)
+@2   = ~Quiconque porte l'amulette anti-vampire sera immunisé contre les drains de niveau de tous types. (Même si pour lutter contre les vampires, il est recommandé de s'équiper aussi d'un collier de gousses d'ail...)
 
 PARAMETRES :
 
@@ -64,7 +64,7 @@ PARAMETRES :
 
 La constitution du porteur passe à 20~
 @13  = ~Armure de plates complètes élaborée d'Elfe noire +5~
-@14  = ~Les elfes noirs de l'Ombre-Terre utilisent des armures très résistantes, forgées dans un matériau qui tombe malheureusement en poussière s'il est exposé à la lumière du jour. Cette armure d'elfe noir a été recouverte d'une fine couche d'un matériau que vous ne reconnaissez pas, probablement d'origine magique, qui lui permet de résister aux rayons du soleil. Malheureusement, le poids de cette armure est très imposant et seul un guerrier doté d'une grande force s’avérera capable de s’en équiper.
+@14  = ~Les elfes noirs de l'Ombre-Terre utilisent des armures très résistantes, forgées dans un matériau qui tombe malheureusement en poussière s'il est exposé à la lumière du jour. Cette armure d'elfe noir a été recouverte d'une fine couche d'un matériau que vous ne reconnaissez pas, probablement d'origine magique, qui lui permet de résister aux rayons du soleil. Malheureusement, le poids de cette armure est très imposant et seul un guerrier doté d'une grande force s'avérera capable de s'en équiper.
 
 PARAMETRES :
 
@@ -93,7 +93,7 @@ Non utilisable par :
  Voleur
  Autres races que nain, petite-personne, ou gnome.~
 @17  = ~Anneau de suprématie~
-@18  = ~Cet anneau est un peu le double de l’Anneau d'Influence Humaine. Il permet de lancer le sort « Domination » et il octroie à son porteur un charisme de 19.
+@18  = ~Cet anneau est un peu le double de l'Anneau d'Influence Humaine. Il permet de lancer le sort « Domination » et il octroie à son porteur un charisme de 19.
 
 PARAMETRES :
 
@@ -202,7 +202,7 @@ PARAMETRES :
 Bonus à la Classe d'Armure : 4
 TAC0 : +5 (armes à projectiles uniquement)~
 @37  = ~Étoile du matin du roi Strohm +3~
-@38  = ~On dit que le roi Strohm de Lancevent utilisa cette arme de son vivant mais aussi lorsqu’il était une liche mort-vivante. Il est très probable que ces on-dit aient quelque fond de vérité. Même si cette arme a été brièvement en contact avec la liche, elle a dû acquérir un grand pouvoir magique qui la rend dévastatrice. Du fait des pouvoirs résiduels de la liche, cette étoile du matin ne peut être utilisée que par un personnage d'alignement mauvais.
+@38  = ~On dit que le roi Strohm de Lancevent utilisa cette arme de son vivant mais aussi lorsqu'il était une liche mort-vivante. Il est très probable que ces on-dit aient quelque fond de vérité. Même si cette arme a été brièvement en contact avec la liche, elle a dû acquérir un grand pouvoir magique qui la rend dévastatrice. Du fait des pouvoirs résiduels de la liche, cette étoile du matin ne peut être utilisée que par un personnage d'alignement mauvais.
 
 PARAMETRES :
 
@@ -220,7 +220,7 @@ Non utilisable par :
  Mage
  Voleur~
 @39  = ~Petit bouclier +3~
-@40  = ~Petit bouclier +3... Il y a peu d’objets aussi puissants que celui-là ! Sans aucun doute vous avez fait (ou vous allez faire) une bonne affaire !
+@40  = ~Petit bouclier +3... Il y a peu d'objets aussi puissants que celui-là ! Sans aucun doute vous avez fait (ou vous allez faire) une bonne affaire !
 
 PARAMETRES :
 
@@ -252,7 +252,7 @@ Non utilisable par :
  Mage
  Voleur~
 @43  = ~Glace Infernale +3~
-@44  = ~La magie contenue dans cette épée est étonnante. A première vue, vous pensez que la lame est faite de glace, mais lorsque vous en approchez votre main, vous vous rendez compte qu'elle dégage de plus en plus de chaleur jusqu’à en devenir brûlante. Vous n’imaginez pas vraiment comment une telle arme a été conçue.
+@44  = ~La magie contenue dans cette épée est étonnante. A première vue, vous pensez que la lame est faite de glace, mais lorsque vous en approchez votre main, vous vous rendez compte qu'elle dégage de plus en plus de chaleur jusqu'à en devenir brûlante. Vous n'imaginez pas vraiment comment une telle arme a été conçue.
 
 PARAMETRES :
 
@@ -270,7 +270,7 @@ Non utilisable par :
  Clerc
  Mage~
 @45  = ~Anneau de la connaissance~
-@46  = ~Avez-vous toujours voulu voyager à travers tous les continents, découvrir de nouvelles civilisations, des nouvelles coutumes ? Eh bien... si vous lisez cette description, c'est que contrairement à l'ancien propriétaire de cet anneau vous êtes toujours et vie et que vous disposez donc de temps pour réaliser tous vos rêves. Mais si, pour une raison ou une autre vous ne réussissez pas à les réaliser, sachez qu’au moins avec cet anneau vous serez en mesure de deviner d’où viennent tous les objets découverts par vos compagnons.
+@46  = ~Avez-vous toujours voulu voyager à travers tous les continents, découvrir de nouvelles civilisations, des nouvelles coutumes ? Eh bien... si vous lisez cette description, c'est que contrairement à l'ancien propriétaire de cet anneau vous êtes toujours et vie et que vous disposez donc de temps pour réaliser tous vos rêves. Mais si, pour une raison ou une autre vous ne réussissez pas à les réaliser, sachez qu'au moins avec cet anneau vous serez en mesure de deviner d'où viennent tous les objets découverts par vos compagnons.
 
 PARAMETRES :
 
@@ -309,7 +309,7 @@ PARAMETRES :
 
 Spécial : Confère l'infravision~
 @55  = ~Gants de force~
-@56  = ~Ces gants ont été créés par l’entraîneur-mage d'un fameux boxeur. Même après le passage de plusieurs années, le brave combattant continuait à mettre K.O. ses rivaux grâce à ses « gants de boxe » particuliers.
+@56  = ~Ces gants ont été créés par l'entraîneur-mage d'un fameux boxeur. Même après le passage de plusieurs années, le brave combattant continuait à mettre K.O. ses rivaux grâce à ses « gants de boxe » particuliers.
 
 PARAMETRES :
 
@@ -464,7 +464,7 @@ Force nécessaire : 3
 Utilisable uniquement par :
  Voleur~
 @75  = ~Bottes élémentaires~
-@76  = ~Il y a bien longtemps, un mage maléfique créa une potion avec le sang d'une nymphe des glaces, d'une nymphe de feu, d'une nymphe de poison, et d’une nymphe de la foudre. Après avoir exploité le pouvoir du sang de ces esprits, tout objet avec lequel cette potion entrait en contact acquérait un grand pouvoir : l'objet donnait à son possesseur une protection parfaite contre les éléments. Les bottes élémentaires sont sans aucun doute très utiles, mais encore faut-il être disposé à porter un objet conçu avec une si incroyable cruauté.
+@76  = ~Il y a bien longtemps, un mage maléfique créa une potion avec le sang d'une nymphe des glaces, d'une nymphe de feu, d'une nymphe de poison, et d'une nymphe de la foudre. Après avoir exploité le pouvoir du sang de ces esprits, tout objet avec lequel cette potion entrait en contact acquérait un grand pouvoir : l'objet donnait à son possesseur une protection parfaite contre les éléments. Les bottes élémentaires sont sans aucun doute très utiles, mais encore faut-il être disposé à porter un objet conçu avec une si incroyable cruauté.
 
 PARAMETRES :
 

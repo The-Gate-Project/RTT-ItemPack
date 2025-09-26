@@ -29,7 +29,7 @@ ALWAYS
 
     LAF autotra_workaround END
 
-// ACTION_DEFINE_ARRAY fl#noconvert BEGIN END
+ ACTION_DEFINE_ARRAY fl#noconvert BEGIN install END
 
 ACTION_DEFINE_ARRAY fl#reload BEGIN setup END
 
@@ -66,6 +66,7 @@ LANGUAGE ~Deutsch (Uebersetzung von Gerri)~
 		 
 LANGUAGE ~Schinese（tufu翻译, eva2000as修订）~
          ~Schinese~
+         ~rttitempack/Languages/Schinese/install.tra~
          ~rttitempack/Languages/Schinese/setup.tra~
 
 BEGIN @200
