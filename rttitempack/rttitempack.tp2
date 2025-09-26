@@ -63,6 +63,10 @@ LANGUAGE ~French (traduit par SkipCool)~
 LANGUAGE ~Deutsch (Uebersetzung von Gerri)~
          ~German~
          ~rttitempack/Languages/German/setup.tra~
+		 
+LANGUAGE ~Schinese（tufu翻译, eva2000as修订）~
+         ~Schinese~
+         ~rttitempack/Languages/Schinese/setup.tra~
 
 BEGIN @200
 DESIGNATED 200 SUBCOMPONENT @0
