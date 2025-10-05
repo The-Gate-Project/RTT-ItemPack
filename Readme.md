@@ -1,6 +1,20 @@
 # Return to Trademeet Item Pack
 
-![Language](https://img.shields.io/static/v1?label=language&message=%20%7C%20english%20%7C%20french%20%7C%20german%20%7C%20italian%20%7C%20&color=informational)
+[![Release](https://img.shields.io/github/v/release/The-Gate-Project/RTT-ItemPack?include_prereleases&color=41788a)](https://github.com/The-Gate-Project/RTT-ItemPack/releases)
+[![Published](https://img.shields.io/github/release-date-pre/The-Gate-Project/RTT-ItemPack?display_date=published_at&label=published&color=014a69)](https://github.com/The-Gate-Project/RTT-ItemPack/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/The-Gate-Project/RTT-ItemPack/total?color=41788a)](https://github.com/The-Gate-Project/RTT-ItemPack/releases)
+
+![Language](https://img.shields.io/static/v1?label=language&message=%20%7C%20english%20%7C%20french%20%7C%20german%20%7C%20italian%20%7C%20schinese%20%7C%20&color=informational)
+[![Games](https://img.shields.io/badge/games-BG2EE%20%7C%20BGT%20%7C%20BG2%20%7C%20EET-41788a)](https://github.com/The-Gate-Project/RTT-ItemPack/releases)
+
+<!--
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FThe-Gate-Project%2FRTT-ItemPack&countColor=41788a&style=flat)
+
+[![Platform](https://img.shields.io/badge/platform-Windows%20%a0%20macOS%20%a0%20Linux%20%a0%20Project%20Infinity-014a69)](https://github.com/The-Gate-Project/RTT-ItemPack/releases)
+-->
+
+
 
 **Autor** : **al47** (**al17**)
 
@@ -75,3 +89,6 @@ Version 1.4 (January 2024)
 - Metadata / Label   
 - InfinityAutoPackager  
 - New componant (items can be scattered in other stores)  
+
+Version 1.5 (October 2025)
+- Chinese translation by eva2000as
