@@ -1,6 +1,6 @@
 // Umar hills
 
-EXTEND_TOP UHMER01 1 4 8 11 14
+EXTEND_BOTTOM UHMER01 1 4 8 11 14
   IF ~GlobalGT("Chapter","GLOBAL","%bg2_chapter_5%")~ THEN REPLY #16051 GOTO RTTUHMER01
 END
 
@@ -13,7 +13,7 @@ END
   
   //
 
-EXTEND_TOP uhmer03 0 3 7 10
+EXTEND_BOTTOM uhmer03 0 3 7 10
   IF ~GlobalGT("Chapter","GLOBAL","%bg2_chapter_5%")~ THEN REPLY #15802 GOTO RTTUHMER03
 END
 
@@ -26,7 +26,7 @@ END
   
   //
 
-EXTEND_TOP uhmer02  0 2 6
+EXTEND_BOTTOM uhmer02  0 2 6
   IF ~GlobalGT("Chapter","GLOBAL","%bg2_chapter_5%")~ THEN REPLY #15858 GOTO RTTUHMER02
 END
 

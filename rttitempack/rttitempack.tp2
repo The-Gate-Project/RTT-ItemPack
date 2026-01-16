@@ -136,7 +136,7 @@ LABEL ~al17_rttitempack-Dispatch~
 
 	INCLUDE ~rttitempack/Lib/RTT_Items.tpa~	
 	
-	COMPILE EVALUATE_BUFFER ~rttitempack/Dialog/RTT_Append.D~	~override~
+	COMPILE EVALUATE_BUFFER ~rttitempack/Dialog/RTT_Append.D~
 
  // Ribald
 COPY_EXISTING ~ribald3.sto~ ~override/ribald3.sto~
